@@ -1,51 +1,12 @@
-python projekt for extracting vocabulary sounds from official genki audio files and generating anki decks
-Genki 1: https://ankiweb.net/shared/info/1742947823
-Genki 2: https://ankiweb.net/shared/info/969261095
+# genki-anki-deck-generator
 
-# How to build
+> Forked from [mi-ael/genki-anki-deck-generator](https://github.com/mi-ael/genki_anki_deck_generator) with added fixes from [zmjohnso/genki_anki_deck_generator](https://github.com/zmjohnso/genki_anki_deck_generator). All credit to original authors.
 
-- clone repo
-- install ffmpeg
-- install uv
-- run: uv sync
-- run: uv run python download_genki_sound_files.py
-- run: uv run python download_fonts.py
-- run: uv run python main.py
-- ...
-- profit
+A collection of Python tools for Anki deck generation from Genki audio files and vocabulary lists.
 
-# Project Structure
+## Usage
 
-- Folders in data/ directory are turned into anki-decks
-- deck generation uses yaml files in templates/ directory
+1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
+2. `uv run genki-anki-deck-generator`
 
-# Template file explanation
-
-- "sound_file": (string) sound file used for this deck (starts searching in sound/ directory)
-- "skip_on_beginning": (integer) how many words should be skiped at the beginning of the sound file
-- "skip_with_new_category": (boolean) if true skips a word if new category starts
-- "skip_on_semicolon": (boolean) if true skips as many words as there are semicolons in the english translation, after a note
-- "uid": (integer) uniqe id, used for anki (should not be too high)
-- "sound_silence_threshold": (integer) magic number used for splitting genki-audiofiles into many seperate words. (default: 600)
-- "cards": list of categories
-- "category": (string) name of the category (only matters for tags)
-- "vocabulary": list of vocabs
-- "japanese": (string) japanese meaning in kana
-- "english": (string) english meaning
-- "kanji": (string) japanese meaning in kanji (should be left out, if the vocab has no kanjis)
-
-# Notes
-
-- I have only tested this under linux
-
-# Pull-Requests Welcome
-
-- add Windows support (if you care)
-- extend Deck for Genki II
-- write a better description for the anki deck
-- add devops
-- bugfixes, etc.
-
-# copyright note
-
-I do not own the Copyright to the Genki audiofiles (thats why they are not inculded in this repo and downloaded elsewhere) but they are puplicly available without needing to prove ownership of a genki book.
+Resulting Anki decks will be written to `genki.apkg`.
