@@ -1,0 +1,8 @@
+[settings]
+decks = { genki_1 = "Genki 1", genki_2 = "Genki 2" }
+deck_ids = { genki_1 = 1534049218, genki_2 = 1501077113 }
+download_dir = "sources"
+
+[settings.sources]
+audio = { genki_1 = "1RXnr3nEiv5gFGIQqdMugrETwXu-lsar1", genki_2 = "1KPkNM85bM4zymzqO-aLWELah-RVM2p3O" }
+fonts = "1BW6v1gTps7NTl8Zvg9D4C5pjbyrpCu63"

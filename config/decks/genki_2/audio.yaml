@@ -1,0 +1,28 @@
+audio:
+  - sound_file: Kaiwa_Bunpo_L13/K13_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L14/K14_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L15/K15_07.mp3
+    sound_silence_threshold: 600
+    overrides:
+      110:
+        resplit: 100
+      111:
+        resplit: 200
+  - sound_file: Kaiwa_Bunpo_L16/K16_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L17/K17_05.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L18/K18_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L19/K19_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L20/K20_05.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L21/K21_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L22/K22_07.mp3
+    sound_silence_threshold: 600
+  - sound_file: Kaiwa_Bunpo_L23/K23_07.mp3
+    sound_silence_threshold: 600

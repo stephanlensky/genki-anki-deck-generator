@@ -1,0 +1,236 @@
+tags:
+- Genki_2
+- Lesson_18
+- 01_Vocabulary
+vocabulary:
+- tags:
+  - Nouns
+  vocabulary:
+  - japanese: カーテン
+    english: curtain
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
+  - japanese: ソファ
+    english: sofa
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_5.mp3
+  - japanese: れいぞうこ
+    english: refrigerator
+    kanji: 冷蔵庫
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_7.mp3
+  - japanese: スイッチ
+    english: switch
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_9.mp3
+  - japanese: しょうゆ
+    english: soy sauce
+    kanji: 醤油
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_11.mp3
+  - japanese: スープ
+    english: soup
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_13.mp3
+  - japanese: バナナ
+    english: banana
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_15.mp3
+  - japanese: ポップコーン
+    english: popcorn
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_17.mp3
+  - japanese: シャンプー
+    english: shampoo
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_19.mp3
+  - japanese: ろうそく
+    english: candle
+    kanji: 蝋燭（rare）
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_21.mp3
+  - japanese: タオル
+    english: towel
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_23.mp3
+  - japanese: スカート
+    english: skirt
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_25.mp3
+  - japanese: にっき
+    english: diary
+    kanji: 日記
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_27.mp3
+  - japanese: けいたい（でんわ）
+    english: cell phone
+    kanji: 携帯（電話）
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_29.mp3
+  - japanese: さくら
+    english: cherry blossom
+    kanji: 桜
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_31.mp3
+  - japanese: むし
+    english: insect
+    kanji: 虫
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_33.mp3
+  - japanese: やちん
+    english: rent
+    kanji: 家賃
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_35.mp3
+  - japanese: そと
+    english: outside
+    kanji: 外
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_37.mp3
+  - japanese: あと
+    english: the rest
+    kanji: 後
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_39.mp3
+  - japanese: ゆうがた
+    english: evening
+    kanji: 夕方
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_41.mp3
+- tags:
+  - い-adjectives
+  vocabulary:
+  - japanese: あかるい
+    english: bright
+    kanji: 明るい
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_44.mp3
+  - japanese: くらい
+    english: dark
+    kanji: 暗い
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_46.mp3
+  - japanese: はずかしい
+    english: embarrasing
+    kanji: 恥ずかしい
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_48.mp3
+- tags:
+  - な-adjectives
+  vocabulary:
+  - japanese: たいせつ(な)
+    english: precious; important
+    kanji: 大切
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_52.mp3
+  - japanese: ふあん(な)
+    english: anxious; worried
+    kanji: 不安
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_55.mp3
+  - japanese: むり(な)
+    english: impossible
+    kanji: 無理
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_58.mp3
+- tags:
+  - U_verbs
+  vocabulary:
+  - japanese: あく
+    english: (something) opens (～が)
+    kanji: 開く
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_61.mp3
+  - japanese: しまる
+    english: (something) closes (～が)
+    kanji: 閉まる
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_63.mp3
+  - japanese: あやまる
+    english: to apologize (personに)
+    kanji: 謝る
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_65.mp3
+  - japanese: おす
+    english: to press; to push (～を)
+    kanji: 押す
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_67.mp3
+  - japanese: おとす
+    english: to drop (something) (~を）
+    kanji: 落とす
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_70.mp3
+  - japanese: おゆがわく
+    english: water boils
+    kanji: お湯が沸く
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_72.mp3
+  - japanese: ころぶ
+    english: to fall down
+    kanji: 転ぶ
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_74.mp3
+  - japanese: こわす
+    english: to break (something) (～を)
+    kanji: 壊す
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_76.mp3
+  - japanese: さく
+    english: to bloom (～が)
+    kanji: 咲く
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_78.mp3
+  - japanese: たすかる
+    english: to be saved; to be helped
+    kanji: 助かる
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_80.mp3
+  - japanese: たのむ
+    english: to ask (a favor) (personに～を)
+    kanji: 頼む
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_83.mp3
+  - japanese: つく
+    english: (something) turns on (～が)
+    kanji: 点く（rare）
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_85.mp3
+  - japanese: よごす
+    english: to make dirty （～を）
+    kanji: 汚す
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_87.mp3
+- tags:
+  - Ru-verbs
+  vocabulary:
+  - japanese: おちる
+    english: (something) drops (～が)
+    kanji: 落ちる
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_90.mp3
+  - japanese: かたづける
+    english: to tidy up（～を）
+    kanji: 片付ける
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_92.mp3
+  - japanese: かんがえる
+    english: to think (about); to consider
+    kanji: 考える
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_94.mp3
+  - japanese: きえる
+    english: (something) goes off (～が)
+    kanji: 消える
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_97.mp3
+  - japanese: こわれる
+    english: (something) breaks (～が)
+    kanji: 壊れる
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_99.mp3
+  - japanese: よごれる
+    english: to become dirty (～が)
+    kanji: 汚れる
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_101.mp3
+- tags:
+  - Irregular_Verbs
+  vocabulary:
+  - japanese: ちゅうもんする
+    english: to place an order (～を)
+    kanji: 注文する
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_104.mp3
+- tags:
+  - Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: いますぐ
+    english: right away
+    kanji: 今すぐ
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_107.mp3
+  - japanese: ～までに
+    english: by (time/date)
+    kanji: ～迄に（rare）
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_109.mp3
+  - japanese: ほんとうに
+    english: really
+    kanji: 本当に
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_111.mp3
+  - japanese: まず
+    english: first of all
+    kanji: 先ず（rare）
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_113.mp3
+  - japanese: おかげで
+    english: thanks to… (…の)
+    kanji: お陰で(rare)
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_115.mp3
+  - japanese: どうしよう
+    english: What should I/we do?
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_117.mp3
+  - japanese: ～（ん）だろう
+    english: short form of ～（ん）でしょう
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_120.mp3
+  - japanese: おさきにしつれいします
+    english: See you. (lit., I'm leaving ahead of you)
+    kanji: お先に失礼します
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_122.mp3
+  - japanese: おつかれさま（でした）
+    english: You must be tired after working so hard. (greeting between friends and
+      coworkers)
+    kanji: お疲れ様(でした)
+    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_124.mp3

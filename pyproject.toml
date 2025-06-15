@@ -1,21 +1,43 @@
 [project]
 name = "genki-anki-deck-generator"
 version = "0.1.0"
-description = "Python scripts for extracting vocabulary sounds from Genki audio files and generating anki decks"
+description = "Generate Genki Anki decks from official Genki audio files"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
-    "cachier>=3.1.2",
     "gdown>=5.2.0",
     "genanki>=0.13.1",
     "num2words>=0.5.14",
     "pydub>=0.25.1",
+    "pygame>=2.6.1",
+    "pykakasi>=2.3.0",
+    "pyyaml>=6.0.2",
     "requests>=2.32.3",
-    "ruamel-yaml>=0.18.13",
 ]
 
+[project.scripts]
+genki-anki-deck-generator = "genki_anki_deck_generator.__main__:main"
+
 [dependency-groups]
-dev = [
-    "mypy>=1.16.0",
-    "ruff>=0.11.13",
-]
+dev = ["mypy>=1.16.0", "ruff>=0.11.13", "types-pyyaml", "types-requests"]
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.mypy]
+strict = true
+disallow_untyped_defs = true
+
+[[tool.mypy.overrides]]
+module = ["gdown", "pydub.*", "genanki.*"]
+ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+extend-select = ["I"]
