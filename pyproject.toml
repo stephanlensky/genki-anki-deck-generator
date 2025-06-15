@@ -3,6 +3,8 @@ name = "genki-anki-deck-generator"
 version = "0.1.0"
 description = "Generate Genki Anki decks from official Genki audio files"
 readme = "README.md"
+authors = [{ name = "Stephan Lensky", email = "oss@slensky.com" }]
+license = { file = "LICENSE" }
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "gdown>=5.2.0",
