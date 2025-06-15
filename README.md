@@ -6,7 +6,17 @@ A collection of Python tools for Anki deck generation from Genki audio files and
 
 ## Usage
 
-1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
-2. `uv run genki-anki-deck-generator`
+1. [Install uv](https://docs.astral.sh/uv/getting-started/installation/).
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/stephanlensky genki-anki-deck-generator.git
+   ```
+
+3. Generate Anki decks:
+
+   ```bash
+   uv run genki-anki-deck-generator
+   ```
 
 Resulting Anki decks will be written to `genki.apkg`.
