@@ -9,7 +9,6 @@ requires-python = ">=3.12,<3.13"
 dependencies = [
     "gdown>=5.2.0",
     "genanki>=0.13.1",
-    "num2words>=0.5.14",
     "pydub>=0.25.1",
     "pygame>=2.6.1",
     "pykakasi>=2.3.0",
