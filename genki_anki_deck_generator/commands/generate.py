@@ -36,7 +36,9 @@ HTML_SOUND = """
 {{/sound}}
 """
 HTML_FRONT_SIDE = """
+<div class="frontside">
 {{FrontSide}}
+</div>
 <div class="spacer"></div>
 """
 HTML_ENGLISH = """
@@ -99,14 +101,14 @@ p {
   font-size: 1.2em;
 }
 
-.hidden {
+.hidden:not(.frontside *) {
   color: var(--fg, #DDD);
   background: var(--fg, #DDD);
   border:1px solid var(--fg, #DDD);
   border-radius:10px;
 }
 
-.hidden:hover {
+.hidden:hover:hover:not(.frontside *) {
   background:none;
   border-color:transparent;
 }
