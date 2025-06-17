@@ -6,52 +6,109 @@ import genanki
 from genki_anki_deck_generator.config import get_config
 from genki_anki_deck_generator.template import Card, Template, load_templates
 
-HTML_KANJI_KANA = """
-<font lang="jp" size="6px" color="#C0C0C0"><span class="japanese">{{kanjis}}</span></font>
-<br>
-<font lang="jp" size="15px"><span class="japanese">{{japanese_kana}}</span></font>
-<br>
+HTML_KANJI_KANA_QUESTION = """
+{{#kanji}}
+<p lang="jp">
+<span class="furigana hidden">{{japanese_kana}}</span><br />
+<span class="kanji">{{kanji}}</span>
+</p>
+{{/kanji}}
+{{^kanji}}
+<p lang="jp" class="kana-only">{{japanese_kana}}</p>
+{{/kanji}}
 """
+HTML_KANJI_KANA_ANSWER = """
+{{#kanji}}
+<p lang="jp">
+<span class="furigana">{{japanese_kana}}</span><br />
+<span class="kanji">{{kanji}}</span>
+</p>
+{{/kanji}}
+{{^kanji}}
+<p lang="jp" class="kana-only">{{japanese_kana}}</p>
+{{/kanji}}
+"""
+
 HTML_SOUND = """
+{{#sound}}
+<div class="spacer"></div>
 {{sound}}
-<br>
+{{/sound}}
 """
-HTML_FRONTSIDE = """
+HTML_FRONT_SIDE = """
 {{FrontSide}}
-"""
-HTML_MEANING = """
-<font lang="jp" size="4px" color="#C0C0C0">Meaning: </font>
-<br>
+<div class="spacer"></div>
 """
 HTML_ENGLISH = """
-<font lang="jp" size="15px"><span class="text">{{english}}</span></font>
-<br>
+<p>{{english}}</p>
+"""
+HTML_ENGLISH_MEANING = """
+<p class="heading">Meaning:</p>
+<p>{{english}}</p>
+"""
+HTML_JAPANESE = """
+<p class="heading">Japanese:</p>
 """
 HTML_KANJI_MEANING = """
-<br>
 {{#kanji_meaning}}
-<font lang="jp" size="4px" color="#C0C0C0">Kanji Meaning: </font>
-<br>
-<font lang="jp" size="6px"><span class="japanese">{{kanjis}}</span></font>
-<br>
-<font lang="jp" size="6px"><span class="text">{{kanji_meaning}}</span></font>
-<br>
+<div class="spacer"></div>
+<p class="heading">Kanji meaning:</p>
+<p lang="jp">
+{{kanji}}<br />
+{{kanji_meaning}}
+</p>
 {{/kanji_meaning}}
 """
 CSS = """
-.card {
-  font-family: "Noto Sans Japanese";
-  font-size: 20px;
-  text-align: center;
-}
 
 @font-face {
   font-family: "Noto Sans Japanese";
   src: url("_NotoSansCJKjp-Regular.woff2") format("woff2");
 }
 
-.japanese {
- font-family: "Noto Sans Japanese";
+.card {
+  font-family: "Noto Sans Japanese";
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  font-size: 0.9em;
+  color: var(--fg-subtle, #BBB);
+}
+
+.spacer {
+  height: 1em;
+}
+
+.kana-only {
+  font-size: 1.4em;
+}
+
+.kanji {
+  font-size: 2em;
+}
+
+.furigana {
+  font-size: 1.2em;
+}
+
+.hidden {
+  color: var(--fg, #DDD);
+  background: var(--fg, #DDD);
+  border:1px solid var(--fg, #DDD);
+  border-radius:10px;
+}
+
+.hidden:hover {
+  background:none;
+  border-color:transparent;
 }
 """
 
@@ -119,7 +176,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             if card.kanji_meanings
             else []
         )
-        sort_id = f"{deck}::{template.path}::{card_index}"
+        sort_id = f"{deck}::{template.path}::{card_index:03d}"
         guid = genanki.guid_for(
             "genki_anki_deck_generator", deck, str(template.path), card.japanese
         )
@@ -127,7 +184,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             model=model,
             fields=[
                 card.japanese,
-                card.kanji or "",
+                card.kanji if card.kanji else "",
                 card.english,
                 ", ".join(kanji_meanings),
                 f"[sound:{PurePosixPath(qualified_sound_file_path).name}]"
@@ -146,7 +203,7 @@ def get_anki_model() -> genanki.Model:
         "Simple Model",
         fields=[
             {"name": "japanese_kana"},
-            {"name": "kanjis"},
+            {"name": "kanji"},
             {"name": "english"},
             {"name": "kanji_meaning"},
             {"name": "sound"},
@@ -155,15 +212,15 @@ def get_anki_model() -> genanki.Model:
         templates=[
             {
                 "name": "japanese -> english",
-                "qfmt": HTML_KANJI_KANA + HTML_SOUND,
-                "afmt": HTML_FRONTSIDE + HTML_MEANING + HTML_ENGLISH + HTML_KANJI_MEANING,
+                "qfmt": HTML_KANJI_KANA_QUESTION,
+                "afmt": HTML_FRONT_SIDE + HTML_ENGLISH_MEANING + HTML_KANJI_MEANING + HTML_SOUND,
             },
             {
                 "name": "english -> japanese",
                 "qfmt": HTML_ENGLISH,
-                "afmt": HTML_FRONTSIDE
-                + HTML_MEANING
-                + HTML_KANJI_KANA
+                "afmt": HTML_FRONT_SIDE
+                + HTML_JAPANESE
+                + HTML_KANJI_KANA_ANSWER
                 + HTML_KANJI_MEANING
                 + HTML_SOUND,
             },
