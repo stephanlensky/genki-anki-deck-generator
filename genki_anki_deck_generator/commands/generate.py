@@ -134,8 +134,9 @@ def run(args: argparse.Namespace) -> None:
         )
         anki_decks.append(anki_deck)
 
+        card_index = 0
         for template in templates:
-            for i, card in enumerate(template.iter_cards()):
+            for template_card_index, card in enumerate(template.iter_cards()):
                 qualified_sound_file_path: Path | None = (
                     Path("sources/audio") / deck / card.sound_file if card.sound_file else None
                 )
@@ -144,13 +145,16 @@ def run(args: argparse.Namespace) -> None:
                     deck=deck,
                     template=template,
                     card=card,
-                    card_index=i,
+                    card_index=card_index,
+                    template_card_index=template_card_index,
                     qualified_sound_file_path=qualified_sound_file_path,
                 )
                 anki_deck.add_note(note)
 
                 if qualified_sound_file_path:
                     add_media_file(media_files, qualified_sound_file_path)
+
+                card_index += 1
 
     # Generate an Anki package with all book decks
     anki_package = genanki.Package(anki_decks)
@@ -170,6 +174,7 @@ class GenkiNote(genanki.Note):  # type: ignore
         template: Template,
         card: Card,
         card_index: int,
+        template_card_index: int,
         qualified_sound_file_path: Path | None,
     ) -> None:
         self.card = card
@@ -178,7 +183,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             if card.kanji_meanings
             else []
         )
-        sort_id = f"{deck}::{template.path}::{card_index:03d}"
+        sort_id = f"{deck}::{template.path}::{template_card_index:03d}"
         guid = genanki.guid_for(
             "genki_anki_deck_generator", deck, str(template.path), card.japanese
         )
@@ -195,6 +200,7 @@ class GenkiNote(genanki.Note):  # type: ignore
                 sort_id,
             ],
             tags=[tag.replace(" ", "_") for tag in card.tags],
+            due=card_index,
             guid=guid,
         )
 
