@@ -79,7 +79,7 @@ vocabulary:
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_37.mp3
   - japanese: 〜じ
     english: o'clock
-    kanji: 時
+    kanji: 〜時
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_39.mp3
   - japanese: いちじ
     english: 1 o'clock
@@ -103,14 +103,14 @@ vocabulary:
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_50.mp3
   - japanese: 〜ご
     english: '... language'
-    kanji: 語
+    kanji: 〜語
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_52.mp3
   - japanese: にほんご
     english: Japanese language
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_54.mp3
   - japanese: 〜さい
     english: '... years old'
-    kanji: 歳
+    kanji: 〜歳
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_56.mp3
   - japanese: でんわ
     english: telephone
