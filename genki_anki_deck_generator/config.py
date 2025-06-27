@@ -21,6 +21,7 @@ class Config:
     deck_ids: dict[str, int]
     download_dir: Path
     sources: ConfigSources
+    dedupe: bool = True
 
 
 @dataclass
@@ -55,6 +56,7 @@ def get_config() -> Config:
             audio=config_dict["settings"]["sources"]["audio"],
             fonts=config_dict["settings"]["sources"]["fonts"],
         ),
+        dedupe=config_dict["settings"].get("dedupe", False),
     )
 
     assert all(deck in config.deck_ids for deck in config.decks), (

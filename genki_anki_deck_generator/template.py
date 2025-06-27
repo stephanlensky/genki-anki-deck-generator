@@ -69,6 +69,25 @@ class CardCollection:
             "vocabulary": [card.to_dict() for card in self.vocabulary],
         }
 
+    def remove_card(self, card: Card) -> None:
+        """Remove a card from the collection."""
+        if not self._remove_card(card):
+            raise ValueError(f"Card {card.japanese} not found in collection")
+
+    def _remove_card(self, card: Card) -> bool:
+        """Recursively remove a card from the collection."""
+        for i in range(len(self.vocabulary) - 1, -1, -1):
+            item = self.vocabulary[i]
+            if item == card:
+                del self.vocabulary[i]
+                return True
+            elif isinstance(item, CardCollection):
+                if item._remove_card(card):
+                    if not item.vocabulary:
+                        self.vocabulary.remove(item)
+                    return True
+        return False
+
 
 @dataclass
 class Template:
@@ -90,6 +109,10 @@ class Template:
                 yield from self._iter_cards(card)
         else:
             yield cards
+
+    def remove_card(self, card: Card) -> None:
+        """Remove a card from the template."""
+        self.cards.remove_card(card)
 
 
 def load_templates() -> dict[str, list[Template]]:
