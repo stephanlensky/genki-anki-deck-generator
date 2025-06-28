@@ -7,6 +7,7 @@ from genki_anki_deck_generator.utils.sound import split_audio_file
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
+    parser.description = "Process audio files for the Genki Anki decks. Splits audio files into smaller segments based on silence thresholds and overrides."
     parser.add_argument(
         "--reprocess",
         "-r",

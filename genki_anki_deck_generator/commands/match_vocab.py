@@ -12,6 +12,9 @@ PROGRESS_FILE = Path("match_vocab_progress.json")
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
+    parser.description = (
+        "Helper script to match vocabulary cards with their corresponding sound files."
+    )
     parser.add_argument(
         "--template",
         "-t",

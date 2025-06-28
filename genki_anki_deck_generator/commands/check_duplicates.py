@@ -5,6 +5,7 @@ from genki_anki_deck_generator.utils.duplicates import remove_duplicates
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
+    parser.description = "Check decks for duplicate vocabulary words. Optionally, automatically remove them from the source YAML templates."
     parser.add_argument(
         "--remove",
         action="store_true",

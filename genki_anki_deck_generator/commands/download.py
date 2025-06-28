@@ -6,7 +6,7 @@ from genki_anki_deck_generator.utils.kanji_meanings import download_kanji_data
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
-    pass
+    parser.description = "Download audio files, fonts, and Kanji data for the Genki Anki decks."
 
 
 def run(args: argparse.Namespace) -> None:

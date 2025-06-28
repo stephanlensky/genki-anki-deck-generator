@@ -5,7 +5,7 @@ from genki_anki_deck_generator.utils.duplicates import find_duplicates
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
-    pass
+    parser.description = "Check decks for duplicate vocabulary words and copy audio files from duplicates to cards without audio."
 
 
 def run(args: argparse.Namespace) -> None:

@@ -117,7 +117,7 @@ p {
 
 
 def add_arguments(parser: argparse.ArgumentParser) -> None:
-    pass
+    parser.description = "Generate Anki decks from templates."
 
 
 def run(args: argparse.Namespace) -> None:
