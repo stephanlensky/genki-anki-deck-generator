@@ -12,6 +12,7 @@ from genki_anki_deck_generator.utils.kanji_meanings import get_kanji_meanings
 
 @dataclass
 class Card:
+    template: Template
     japanese: str
     english: str
     kanji: str | None = None
@@ -124,9 +125,11 @@ def load_templates() -> dict[str, list[Template]]:
         for template_path in deck_config.templates:
             template_content = template_path.read_text(encoding="utf-8")
             template_yaml = safe_load(template_content)
-            cards = _load_cards(template_yaml)
+            template = Template(path=template_path, cards=CardCollection())
+            cards = _load_cards(template, template_yaml)
             assert isinstance(cards, CardCollection), "Template must contain a CardCollection"
-            templates[deck].append(Template(path=template_path, cards=cards))
+            template.cards = cards
+            templates[deck].append(template)
 
     for deck_templates in templates.values():
         deck_templates.sort(key=lambda x: x.path)
@@ -134,17 +137,18 @@ def load_templates() -> dict[str, list[Template]]:
     return templates
 
 
-def _load_cards(template_yaml: dict[str, Any]) -> CardCollection | Card:
+def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollection | Card:
     if "vocabulary" in template_yaml:
         collection = CardCollection(
             tags=template_yaml.get("tags", []),
-            vocabulary=[_load_cards(card) for card in template_yaml["vocabulary"]],
+            vocabulary=[_load_cards(template, card) for card in template_yaml["vocabulary"]],
         )
         for card in collection.vocabulary:
             card.parent = collection
         return collection
     if "japanese" in template_yaml:
         return Card(
+            template=template,
             japanese=template_yaml["japanese"],
             english=template_yaml["english"],
             kanji=template_yaml.get("kanji"),

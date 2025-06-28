@@ -3,9 +3,9 @@ from pathlib import Path, PurePosixPath
 
 import genanki
 
-from genki_anki_deck_generator.commands.check_duplicates import remove_duplicates
 from genki_anki_deck_generator.config import get_config
 from genki_anki_deck_generator.template import Card, Template, load_templates
+from genki_anki_deck_generator.utils.duplicates import remove_duplicates
 
 HTML_KANJI_KANA_QUESTION = """
 {{#kanji}}
@@ -126,7 +126,7 @@ def run(args: argparse.Namespace) -> None:
     templates_by_deck = load_templates()
 
     if config.dedupe:
-        remove_duplicates(templates_by_deck)
+        remove_duplicates(templates_by_deck, echo=True)
 
     model = get_anki_model()
     anki_decks = []

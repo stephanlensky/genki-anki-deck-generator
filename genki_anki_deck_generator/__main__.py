@@ -3,6 +3,7 @@ from pathlib import Path
 
 from genki_anki_deck_generator.commands import (
     check_duplicates,
+    copy_audio_from_duplicates,
     download,
     generate,
     match_vocab,
@@ -23,6 +24,7 @@ def main() -> None:
         "generate": generate,
         "match-vocab": match_vocab,
         "check-duplicates": check_duplicates,
+        "copy-audio-from-duplicates": copy_audio_from_duplicates,
     }
 
     parser = argparse.ArgumentParser(
