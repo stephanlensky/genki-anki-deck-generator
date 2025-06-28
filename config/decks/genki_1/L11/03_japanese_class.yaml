@@ -53,12 +53,14 @@ vocabulary:
   - japanese: いみ
     english: meaning
     kanji: 意味
+    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_58.mp3
   - japanese: はつおん
     english: pronunciation
     kanji: 発音
   - japanese: ぶんぽう
     english: grammar
     kanji: 文法
+    sound_file: Kaiwa_Bunpo_L13/K13_07/K13_07_34.mp3
   - japanese: しつもん
     english: question
     kanji: 質問
@@ -95,6 +97,7 @@ vocabulary:
     english: anything else
   - japanese: 〜ばん
     english: number ...
+    sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_60.mp3
   - japanese: 〜ぎょうめ
     english: line number ...
     kanji: 〜行目

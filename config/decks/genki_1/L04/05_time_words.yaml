@@ -11,29 +11,37 @@ vocabulary:
   - japanese: きのう
     english: yesterday
     kanji: 昨日
+    sound_file: Kaiwa_Bunpo_L04/K04_07/K04_07_60.mp3
   - japanese: せんしゅう
     english: last week
     kanji: 先週
+    sound_file: Kaiwa_Bunpo_L04/K04_07/K04_07_66.mp3
   - japanese: きょう
     english: today
     kanji: 今日
+    sound_file: Kaiwa_Bunpo_L03/K03_05/K03_05_53.mp3
   - japanese: あした
     english: tomorrow
     kanji: 明日
+    sound_file: Kaiwa_Bunpo_L03/K03_05/K03_05_51.mp3
   - japanese: あさって
     english: the day after tomorrow
+    sound_file: Kaiwa_Bunpo_L08/K08_05/K08_05_21.mp3
   - japanese: にしゅうかんまえ
     english: two weeks ago
     kanji: 二週間前
   - japanese: せんしゅう
     english: last week
     kanji: 先週
+    sound_file: Kaiwa_Bunpo_L04/K04_07/K04_07_66.mp3
   - japanese: こんしゅう
     english: this week
     kanji: 今週
+    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_32.mp3
   - japanese: らいしゅう
     english: next week
     kanji: 来週
+    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_34.mp3
   - japanese: さらいしゅう
     english: the week after next
     kanji: 再来週
@@ -43,12 +51,15 @@ vocabulary:
   - japanese: せんげつ
     english: last month
     kanji: 先月
+    sound_file: Kaiwa_Bunpo_L09/K09_07/K09_07_43.mp3
   - japanese: こんげつ
     english: this month
     kanji: 今月
+    sound_file: Kaiwa_Bunpo_L08/K08_05/K08_05_25.mp3
   - japanese: らいげつ
     english: next month
     kanji: 来月
+    sound_file: Kaiwa_Bunpo_L08/K08_05/K08_05_27.mp3
   - japanese: さらいげつ
     english: the month after next
     kanji: 再来月
@@ -57,12 +68,15 @@ vocabulary:
   - japanese: きょねん
     english: last year
     kanji: 去年
+    sound_file: Kaiwa_Bunpo_L09/K09_07/K09_07_45.mp3
   - japanese: ことし
     english: this year
     kanji: 今年
+    sound_file: Kaiwa_Bunpo_L10/K10_05/K10_05_64.mp3
   - japanese: らいねん
     english: next year
     kanji: 来年
+    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_36.mp3
   - japanese: さらいねん
     english: the year after next
     kanji: 再来年

@@ -9,12 +9,15 @@ vocabulary:
   - japanese: かみ
     english: hair
     kanji: 髪
+    sound_file: Kaiwa_Bunpo_L07/K07_05/K07_05_40.mp3
   - japanese: くち
     english: mouth
     kanji: 口
+    sound_file: Kaiwa_Bunpo_L07/K07_05/K07_05_42.mp3
   - japanese: め
     english: eye
     kanji: 目
+    sound_file: Kaiwa_Bunpo_L07/K07_05/K07_05_44.mp3
   - japanese: はな
     english: nose
     kanji: 鼻
@@ -24,6 +27,7 @@ vocabulary:
   - japanese: は
     english: tooth
     kanji: 歯
+    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
   - japanese: まゆげ
     english: eyebrows
     kanji: 眉毛
@@ -47,6 +51,7 @@ vocabulary:
   - japanese: かお
     english: face
     kanji: 顔
+    sound_file: Kaiwa_Bunpo_L10/K10_05/K10_05_31.mp3
   - japanese: かた
     english: shoulder
     kanji: 肩
@@ -55,6 +60,8 @@ vocabulary:
     kanji: 胸
   - japanese: おなか
     english: stomach
+    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3
   - japanese: あし
     english: leg; foot
     kanji: 足
+    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3
