@@ -12,112 +12,177 @@ vocabulary:
   - japanese: いち
     english: '1'
     kanji: 一
+    kanji_readings:
+    - 一: いち
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_2.mp3
   - japanese: に
     english: '2'
     kanji: 二
+    kanji_readings:
+    - 二: に
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_3.mp3
   - japanese: さん
     english: '3'
     kanji: 三
+    kanji_readings:
+    - 三: さん
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_4.mp3
   - japanese: よん／し／（よ）
     english: '4'
     kanji: 四
+    kanji_readings:
+    - 四: よん
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_5.mp3
   - japanese: ご
     english: '5'
     kanji: 五
+    kanji_readings:
+    - 五: ご
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_6.mp3
   - japanese: ろく
     english: '6'
     kanji: 六
+    kanji_readings:
+    - 六: ろく
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_7.mp3
   - japanese: なな／しち
     english: '7'
     kanji: 七
+    kanji_readings:
+    - 七: なな
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_8.mp3
   - japanese: はち
     english: '8'
     kanji: 八
+    kanji_readings:
+    - 八: はち
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_9.mp3
   - japanese: きゅう／く
     english: '9'
     kanji: 九
+    kanji_readings:
+    - 九: きゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_10.mp3
   - japanese: じゅう
     english: '10'
     kanji: 十
+    kanji_readings:
+    - 十: じゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_11.mp3
   - japanese: じゅういち
     english: '11'
     kanji: 十一
+    kanji_readings:
+    - 十: じゅう
+    - 一: いち
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_12.mp3
   - japanese: じゅうに
     english: '12'
     kanji: 十二
+    kanji_readings:
+    - 十: じゅう
+    - 二: に
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_13.mp3
   - japanese: じゅうさん
     english: '13'
     kanji: 十三
+    kanji_readings:
+    - 十: じゅう
+    - 三: さん
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_14.mp3
   - japanese: じゅうよん／じゅうし
     english: '14'
     kanji: 十四
+    kanji_readings:
+    - 十: じゅう
+    - 四: よん
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_15.mp3
   - japanese: じゅうご
     english: '15'
     kanji: 十五
+    kanji_readings:
+    - 十: じゅう
+    - 五: ご
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_16.mp3
   - japanese: じゅうろく
     english: '16'
     kanji: 十六
+    kanji_readings:
+    - 十: じゅう
+    - 六: ろく
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_17.mp3
   - japanese: じゅうなな／じゅうしち
     english: '17'
     kanji: 十七
+    kanji_readings:
+    - 十: じゅう
+    - 七: なな
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_18.mp3
   - japanese: じゅうはち
     english: '18'
     kanji: 十八
+    kanji_readings:
+    - 十: じゅう
+    - 八: はち
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_19.mp3
   - japanese: じゅうきゅう／じゅうく
     english: '19'
     kanji: 十九
+    kanji_readings:
+    - 十: じゅう
+    - 九: きゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_20.mp3
   - japanese: にじゅう
     english: '20'
     kanji: 二十
+    kanji_readings:
+    - 二十: にじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_21.mp3
   - japanese: さんじゅう
     english: '30'
     kanji: 三十
+    kanji_readings:
+    - 三十: さんじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_22.mp3
   - japanese: よんじゅう
     english: '40'
     kanji: 四十
+    kanji_readings:
+    - 十: よんじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_23.mp3
   - japanese: ごじゅう
     english: '50'
     kanji: 五十
+    kanji_readings:
+    - 五十: ごじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_24.mp3
   - japanese: ろくじゅう
     english: '60'
     kanji: 六十
+    kanji_readings:
+    - 六十: ろくじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_25.mp3
   - japanese: ななじゅう
     english: '70'
     kanji: 七十
+    kanji_readings:
+    - 七十: ななじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_26.mp3
   - japanese: はちじゅう
     english: '80'
     kanji: 八十
+    kanji_readings:
+    - 八十: はちじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_27.mp3
   - japanese: きゅうじゅう
     english: '90'
     kanji: 九十
+    kanji_readings:
+    - 九十: きゅうじゅう
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_28.mp3
   - japanese: ひゃく
     english: '100'
     kanji: 百
+    kanji_readings:
+    - 百: ひゃく
     sound_file: genki_1/Kaiwa_Bunpo_L00/K00_02/K00_02_29.mp3

@@ -9,14 +9,20 @@ vocabulary:
   - japanese: あかちゃん
     english: baby
     kanji: 赤ちゃん
+    kanji_readings:
+    - 赤: あか
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_3.mp3
   - japanese: おきゃくさん
     english: guest; vistor; client; customer
     kanji: お客さん
+    kanji_readings:
+    - 客: きゃく
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_5.mp3
   - japanese: しゅしょう
     english: prime minister
     kanji: 首相
+    kanji_readings:
+    - 首相: しゅしょう
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_10.mp3
   - japanese: サラリーマン
     english: salaryman; office worker
@@ -24,10 +30,14 @@ vocabulary:
   - japanese: きゅうりょう
     english: salary
     kanji: 給料
+    kanji_readings:
+    - 給料: きゅうりょう
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_15.mp3
   - japanese: ざんぎょう
     english: overtime work
     kanji: 残業
+    kanji_readings:
+    - 残業: ざんぎょう
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_17.mp3
   - japanese: パンダ
     english: panda
@@ -38,6 +48,8 @@ vocabulary:
   - japanese: ひげ
     english: beard
     kanji: 髭（rare）
+    kanji_readings:
+    - 髭: ひげ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_23.mp3
   - japanese: ブーツ
     english: boots
@@ -45,14 +57,20 @@ vocabulary:
   - japanese: かぎ
     english: lock; key
     kanji: 鍵
+    kanji_readings:
+    - 鍵: かぎ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_27.mp3
   - japanese: たからくじ
     english: lottery
     kanji: 宝くじ
+    kanji_readings:
+    - 宝: たから
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_30.mp3
   - japanese: かみ
     english: paper
     kanji: 紙
+    kanji_readings:
+    - 紙: かみ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_32.mp3
   - japanese: スプーン
     english: spoon
@@ -60,10 +78,14 @@ vocabulary:
   - japanese: おゆ
     english: hot water
     kanji: お湯
+    kanji_readings:
+    - 湯: ゆ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_36.mp3
   - japanese: でんしレンジ
     english: microwave oven
     kanji: 電子レンジ
+    kanji_readings:
+    - 電子: でんし
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_38.mp3
   - japanese: ヒーター
     english: heater
@@ -74,10 +96,15 @@ vocabulary:
   - japanese: かじ
     english: fire
     kanji: 火事
+    kanji_readings:
+    - 火事: かじ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_44.mp3
   - japanese: りょこうがいしゃ
     english: travel agency
     kanji: 旅行会社
+    kanji_readings:
+    - 旅行: りょこう
+    - 会社: がいしゃ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_46.mp3
   - japanese: ショッピングモール
     english: shopping mall
@@ -85,22 +112,32 @@ vocabulary:
   - japanese: りょう
     english: dormitory
     kanji: 寮
+    kanji_readings:
+    - 寮: りょう
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_50.mp3
   - japanese: ちがい
     english: difference
     kanji: 違い
+    kanji_readings:
+    - 違: ちが
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_52.mp3
   - japanese: ひみつ
     english: secret
     kanji: 秘密
+    kanji_readings:
+    - 秘密: ひみつ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_54.mp3
   - japanese: じゅんび
     english: preparation
     kanji: 準備
+    kanji_readings:
+    - 準備: じゅんび
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_56.mp3
   - japanese: じぶん
     english: oneself
     kanji: 自分
+    kanji_readings:
+    - 自分: じぶん
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_58.mp3
 - tags:
   - い-adjectives
@@ -108,22 +145,33 @@ vocabulary:
   - japanese: あぶない
     english: dangerous
     kanji: 危ない
+    kanji_readings:
+    - 危: あぶ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_61.mp3
   - japanese: うらやましい
     english: envious
     kanji: 羨ましい
+    kanji_readings:
+    - 羨: うらや
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_63.mp3
   - japanese: すくない
     english: a little; a few
     kanji: 少ない
+    kanji_readings:
+    - 少: すく
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_65.mp3
   - japanese: つごうがわるい
     english: inconvenient; to have a scheduling conflict
     kanji: 都合が悪い
+    kanji_readings:
+    - 都合: つごう
+    - 悪: わる
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_67.mp3
   - japanese: つよい
     english: strong
     kanji: 強い
+    kanji_readings:
+    - 強: つよ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_70.mp3
 - tags:
   - な-adjectives
@@ -131,6 +179,8 @@ vocabulary:
   - japanese: さいあく(な)
     english: the worst
     kanji: 最悪
+    kanji_readings:
+    - 最悪: さいあく
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_73.mp3
 - tags:
   - U_verbs
@@ -138,30 +188,47 @@ vocabulary:
   - japanese: えらぶ
     english: to choose; to select (～を)
     kanji: 選ぶ
+    kanji_readings:
+    - 選: えら
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_76.mp3
   - japanese: おゆをわかす
     english: to boil water
     kanji: お湯を沸かす
+    kanji_readings:
+    - 湯: ゆ
+    - 沸: わ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_79.mp3
   - japanese: かみをとかす
     english: to comb one's hair
     kanji: 髪をとかす
+    kanji_readings:
+    - 髪: かみ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_81.mp3
   - japanese: ひげをそる
     english: to shave one's beard
     kanji: 髭を剃る（rare）
+    kanji_readings:
+    - 髭: ひげ
+    - 剃: そ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_83.mp3
   - japanese: ぬぐ
     english: to take off (clothes) (～を)
     kanji: 脱ぐ
+    kanji_readings:
+    - 脱: ぬ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_85.mp3
   - japanese: こむ
     english: to get crowded (～が)
     kanji: 混む
+    kanji_readings:
+    - 混: こ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_87.mp3
   - japanese: たからくじにあたる
     english: to win a lottery
     kanji: 宝くじに当たる
+    kanji_readings:
+    - 宝: たから
+    - 当: あ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_89.mp3
 - tags:
   - Ru-verbs
@@ -169,22 +236,32 @@ vocabulary:
   - japanese: いれる
     english: to make tea, coffee, etc. (～を)
     kanji: 入れる
+    kanji_readings:
+    - 入: い
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_92.mp3
   - japanese: うまれる
     english: to be born (～が)
     kanji: 生まれる
+    kanji_readings:
+    - 生: う
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_94.mp3
   - japanese: かぎをかける
     english: to lock (～に)
     kanji: 鍵をかける
+    kanji_readings:
+    - 鍵: かぎ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_96.mp3
   - japanese: たりる
     english: to be sufficient; to be enough (～が)
     kanji: 足りる
+    kanji_readings:
+    - 足: た
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_98.mp3
   - japanese: なれる
     english: to get used to… (～に)
     kanji: 慣れる
+    kanji_readings:
+    - 慣: な
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_101.mp3
 - tags:
   - Irregular_Verbs
@@ -192,18 +269,26 @@ vocabulary:
   - japanese: おいのりする
     english: to pray (～に)
     kanji: お祈りする
+    kanji_readings:
+    - 祈: いの
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_104.mp3
   - japanese: けしょうする
     english: to put makeup on
     kanji: 化粧する
+    kanji_readings:
+    - 化粧: けしょう
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_106.mp3
   - japanese: しゅうしょくする
     english: to get a full-time job (at) (companyに)
     kanji: 就職する
+    kanji_readings:
+    - 就職: しゅうしょく
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_108.mp3
   - japanese: りこんする
     english: to get a divorce (personと)
     kanji: 離婚する
+    kanji_readings:
+    - 離婚: りこん
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_110.mp3
   - japanese: する
     english: to wear small items (necktie, watch, etc.) (～を)
@@ -215,14 +300,20 @@ vocabulary:
   - japanese: ずいぶん
     english: very
     kanji: 随分（rare）
+    kanji_readings:
+    - 随分: ずいぶん
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_115.mp3
   - japanese: たとえば
     english: for example
     kanji: 例えば
+    kanji_readings:
+    - 例: たと
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_117.mp3
   - japanese: ～にくらべて
     english: compared with…
     kanji: ～に比べて
+    kanji_readings:
+    - 比: くら
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_119.mp3
   - japanese: ～によると
     english: according to…
@@ -230,10 +321,14 @@ vocabulary:
   - japanese: まえ
     english: before…
     kanji: 前
+    kanji_readings:
+    - 前: まえ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_123.mp3
   - japanese: やっぱり
     english: after all
     kanji: 矢っ張り（rare）
+    kanji_readings:
+    - 矢っ張: やっぱ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_125.mp3
   - japanese: ～かな（あ）
     english: I wonder…(casual)
@@ -241,8 +336,13 @@ vocabulary:
   - japanese: そうか
     english: I see.(casual)
     kanji: 然うか（rare）
+    kanji_readings:
+    - 然: そ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_129.mp3
   - japanese: おめでとうございます
     english: Congratulations!
     kanji: お目出度う御座います（rare）
+    kanji_readings:
+    - 目出度: めでと
+    - 御座: ござ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_131.mp3

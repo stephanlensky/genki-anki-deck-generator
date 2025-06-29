@@ -9,6 +9,8 @@ vocabulary:
   - japanese: ごはん
     english: (white) rice; meal
     kanji: ご飯
+    kanji_readings:
+    - 飯: はん
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_34.mp3
   - japanese: おかず
     english: a couple of dishes
@@ -16,6 +18,8 @@ vocabulary:
   - japanese: みそしる
     english: soup
     kanji: みそ汁
+    kanji_readings:
+    - 汁: しる
     sound_file: tts/みそしる_01670.wav
   - japanese: カレーライス
     english: Curry with rice
@@ -23,6 +27,8 @@ vocabulary:
   - japanese: おにぎり
     english: rice ball
     kanji: お握り（rare）
+    kanji_readings:
+    - 握: にぎ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
   - japanese: ラーメン
     english: ramen noodles
@@ -39,6 +45,8 @@ vocabulary:
   - japanese: ぎゅうどん
     english: beef rice bowl
     kanji: 牛丼
+    kanji_readings:
+    - 牛丼: ぎゅうどん
     sound_file: tts/ぎゅうどん_bbbc4.wav
   - japanese: ハンバーグ
     english: hamburger steak
@@ -49,4 +57,6 @@ vocabulary:
   - japanese: おこのみやき
     english: savory pancake
     kanji: お好み焼き
+    kanji_readings:
+    - 好み焼: このみや
     sound_file: tts/おこのみやき_09767.wav

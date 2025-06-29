@@ -9,10 +9,14 @@ vocabulary:
   - japanese: おくさん
     english: wife (honorific)
     kanji: 奥さん
+    kanji_readings:
+    - 奥: おく
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_3.mp3
   - japanese: ごしゅじん
     english: husband (honorific)
     kanji: ご主人
+    kanji_readings:
+    - 主人: しゅじん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_5.mp3
   - japanese: パートナー
     english: partner
@@ -20,22 +24,32 @@ vocabulary:
   - japanese: おじさん
     english: uncle; middle-aged man
     kanji: 伯父さん（rare）
+    kanji_readings:
+    - 伯父: おじ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_9.mp3
   - japanese: おばさん
     english: aunt; middle-aged woman
     kanji: 伯母さん（rare）
+    kanji_readings:
+    - 伯母: おば
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_12.mp3
   - japanese: りょうしん
     english: parents
     kanji: 両親
+    kanji_readings:
+    - 両親: りょうしん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_15.mp3
   - japanese: おおやさん
     english: landlord; landlady
     kanji: 大家さん
+    kanji_readings:
+    - 大家: おおや
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_17.mp3
   - japanese: みなさん
     english: everyone; all of you
     kanji: 皆さん
+    kanji_readings:
+    - 皆: みな
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_20.mp3
   - japanese: チョコレート
     english: chocolate
@@ -43,6 +57,8 @@ vocabulary:
   - japanese: みかん
     english: mandarin orange
     kanji: 蜜柑（rare）
+    kanji_readings:
+    - 蜜柑: みかん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3
   - japanese: トレーナー
     english: sweatshirt
@@ -59,22 +75,33 @@ vocabulary:
   - japanese: ゆびわ
     english: ring
     kanji: 指輪
+    kanji_readings:
+    - 指輪: ゆびわ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_35.mp3
   - japanese: えんぴつ
     english: pencil
     kanji: 鉛筆
+    kanji_readings:
+    - 鉛筆: えんぴつ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
   - japanese: ぬいぐるみ
     english: stuffed animal (e.g. teddy bear)
     kanji: 縫いぐるみ（rare）
+    kanji_readings:
+    - 縫: ぬ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_39.mp3
   - japanese: まんが
     english: comic book
     kanji: 漫画
+    kanji_readings:
+    - 漫画: まんが
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_41.mp3
   - japanese: けしょうひん
     english: cosmetics
     kanji: 化粧品
+    kanji_readings:
+    - 化粧: けしょう
+    - 品: ひん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_43.mp3
   - japanese: ラジオ
     english: radio
@@ -82,14 +109,21 @@ vocabulary:
   - japanese: おさら
     english: plate; dish
     kanji: お皿
+    kanji_readings:
+    - 皿: さら
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_47.mp3
   - japanese: おかえし
     english: return (as a token of gratitude)
     kanji: お返し
+    kanji_readings:
+    - 返: かえ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_50.mp3
   - japanese: りれきしょ
     english: resume/cv
     kanji: 履歴書
+    kanji_readings:
+    - 履歴: りれき
+    - 書: しょ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_52.mp3
   - japanese: クリスマス
     english: Christmas
@@ -106,6 +140,8 @@ vocabulary:
   - japanese: ほしい
     english: to want (desired thing が)
     kanji: 欲しい
+    kanji_readings:
+    - 欲: ほ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_61.mp3
 - tags:
   - な-adjectives
@@ -113,6 +149,8 @@ vocabulary:
   - japanese: おしゃれ(な)
     english: fashionable; stylish
     kanji: お洒落
+    kanji_readings:
+    - 洒落: しゃれ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_64.mp3
   - japanese: けち(な)
     english: stingy; cheap
@@ -124,10 +162,14 @@ vocabulary:
   - japanese: おくる
     english: to send
     kanji: 送る
+    kanji_readings:
+    - 送: おく
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_71.mp3
   - japanese: にあう
     english: to look good on somebody (thing が）
     kanji: 似合う
+    kanji_readings:
+    - 似合: にあ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_73.mp3
 - tags:
   - Ru-verbs
@@ -135,18 +177,26 @@ vocabulary:
   - japanese: あきらめる
     english: to give up (~を)
     kanji: 諦める
+    kanji_readings:
+    - 諦: あきら
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_76.mp3
   - japanese: あげる
     english: to give (to others) (person に thing を)
     kanji: 上げる（rare）
+    kanji_readings:
+    - 上: あ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_78.mp3
   - japanese: くれる
     english: To give (to me) (person に thing を)
     kanji: 呉れる（rare）
+    kanji_readings:
+    - 呉: く
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_80.mp3
   - japanese: できる
     english: to come into existence; to be made (~が)
     kanji: 出来る （rare）
+    kanji_readings:
+    - 出来: でき
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_82.mp3
 - tags:
   - Irregular_Verbs
@@ -154,10 +204,14 @@ vocabulary:
   - japanese: そうだんする
     english: to consult (person に）
     kanji: 相談する
+    kanji_readings:
+    - 相談: そうだん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_86.mp3
   - japanese: ちゅういする
     english: To give warning (person に); to watch out (~に)
     kanji: 注意する
+    kanji_readings:
+    - 注意: ちゅうい
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_88.mp3
   - japanese: プロポーズする
     english: to propose marriage (person に)
@@ -168,14 +222,22 @@ vocabulary:
   - japanese: 〜くん
     english: Mr;Ms. (casual)
     kanji: 〜君
+    kanji_readings:
+    - 君: くん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_94.mp3
   - japanese: 〜たち
     english: make a noun plural
     kanji: 〜達（rare）
+    kanji_readings:
+    - 達: たち
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_97.mp3
   - japanese: わたしたち
     english: we/us
     kanji: 私達(私たちis common)
+    kanji_readings:
+    - 私: わたし
+    - 達: たち
+    - 私: わたし
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_99.mp3
   - japanese: こんな~
     english: '...like this; this kind of…'
@@ -183,14 +245,20 @@ vocabulary:
   - japanese: きゅうに
     english: suddenly
     kanji: 急に
+    kanji_readings:
+    - 急: きゅう
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_104.mp3
   - japanese: ちょうど
     english: exactly
     kanji: 丁度 （rare）
+    kanji_readings:
+    - 丁度: ちょうど
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_106.mp3
   - japanese: よく
     english: well
     kanji: 良く（rare）
+    kanji_readings:
+    - 良: よ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_108.mp3
   - japanese: さあ
     english: I am not sure…
@@ -204,20 +272,30 @@ vocabulary:
   - japanese: 〜こ
     english: generic counter for smaller items
     kanji: 〜個
+    kanji_readings:
+    - 個: こ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_115.mp3
   - japanese: 〜さつ
     english: counter for bound volumes
     kanji: 〜冊
+    kanji_readings:
+    - 冊: さつ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_117.mp3
   - japanese: 〜だい
     english: counter for equipment
     kanji: 〜台
+    kanji_readings:
+    - 台: だい
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_119.mp3
   - japanese: 〜ひき
     english: counter for smaller animals
     kanji: 〜匹
+    kanji_readings:
+    - 匹: ひき
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_121.mp3
   - japanese: 〜ほん
     english: counter for long objects
     kanji: 〜本
+    kanji_readings:
+    - 本: ほん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_123.mp3

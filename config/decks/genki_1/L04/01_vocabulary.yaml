@@ -18,6 +18,8 @@ vocabulary:
     - japanese: かいもの
       english: shopping
       kanji: 買い物
+      kanji_readings:
+      - 買い物: かいもの
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_8.mp3
     - japanese: クラス
       english: class
@@ -28,18 +30,26 @@ vocabulary:
     - japanese: いぬ
       english: dog
       kanji: 犬
+      kanji_readings:
+      - 犬: いぬ
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_13.mp3
     - japanese: ねこ
       english: cat
       kanji: 猫
+      kanji_readings:
+      - 猫: ねこ
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_15.mp3
     - japanese: ひと
       english: person
       kanji: 人
+      kanji_readings:
+      - 人: ひと
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_17.mp3
     - japanese: こども
       english: child
       kanji: 子供
+      kanji_readings:
+      - 子供: こども
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_19.mp3
     - japanese: あなた
       english: you
@@ -47,18 +57,26 @@ vocabulary:
     - japanese: いす
       english: chair
       kanji: 椅子
+      kanji_readings:
+      - 椅子: いす
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_23.mp3
     - japanese: つくえ
       english: desk
       kanji: 机
+      kanji_readings:
+      - 机: つくえ
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_25.mp3
     - japanese: しゃしん
       english: picture; photograph
       kanji: 写真
+      kanji_readings:
+      - 写真: しゃしん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_27.mp3
     - japanese: はな
       english: flower
       kanji: 花
+      kanji_readings:
+      - 花: はな
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_30.mp3
     - japanese: レポート
       english: (term) paper
@@ -66,6 +84,8 @@ vocabulary:
     - japanese: ごはん
       english: (white) rice; meal
       kanji: ご飯
+      kanji_readings:
+      - 飯: はん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_34.mp3
     - japanese: パン
       english: bread
@@ -76,10 +96,14 @@ vocabulary:
     - japanese: おてら
       english: temple
       kanji: お寺
+      kanji_readings:
+      - 寺: てら
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_40.mp3
     - japanese: こうえん
       english: park
       kanji: 公園
+      kanji_readings:
+      - 公園: こうえん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_42.mp3
     - japanese: スーパー
       english: supermarket
@@ -87,10 +111,14 @@ vocabulary:
     - japanese: バスてい
       english: bus stop
       kanji: バス停
+      kanji_readings:
+      - 停: てい
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_46.mp3
     - japanese: びょういん
       english: hospital
       kanji: 病院
+      kanji_readings:
+      - 病院: びょういん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_48.mp3
     - japanese: ホテル
       english: hotel
@@ -98,10 +126,14 @@ vocabulary:
     - japanese: ほんや
       english: bookstore
       kanji: 本屋
+      kanji_readings:
+      - 本屋: ほんや
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_52.mp3
     - japanese: まち
       english: town; city
       kanji: 町
+      kanji_readings:
+      - 町: まち
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_54.mp3
     - japanese: レストラン
       english: restaurant
@@ -112,42 +144,68 @@ vocabulary:
     - japanese: きのう
       english: yesterday
       kanji: 昨日
+      kanji_readings:
+      - 昨日: きのう
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_60.mp3
     - japanese: 〜じかん
       english: '... hours'
       kanji: 〜時間
+      kanji_readings:
+      - 時間: じかん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_62.mp3
     - japanese: いちじかん
       english: one hour
       kanji: 一時間
+      kanji_readings:
+      - 一: いち
+      - 時間: じかん
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_64.mp3
     - japanese: せんしゅう
       english: last week
       kanji: 先週
+      kanji_readings:
+      - 先週: せんしゅう
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_66.mp3
     - japanese: とき
       english: when ...; at the time of ... (〜の)
       kanji: 時
+      kanji_readings:
+      - 時: とき
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_68.mp3
     - japanese: げつようび
       english: Monday
       kanji: 月曜日
+      kanji_readings:
+      - 月曜: げつよう
+      - 日: び
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_71.mp3
     - japanese: かようび
       english: Tuesday
       kanji: 火曜日
+      kanji_readings:
+      - 火曜: かよう
+      - 日: び
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_73.mp3
     - japanese: すいようび
       english: Wednesday
       kanji: 水曜日
+      kanji_readings:
+      - 水曜: すいよう
+      - 日: び
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_75.mp3
     - japanese: もくようび
       english: Thursday
       kanji: 木曜日
+      kanji_readings:
+      - 木曜: もくよう
+      - 日: び
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_77.mp3
     - japanese: きんようび
       english: Friday
       kanji: 金曜日
+      kanji_readings:
+      - 金曜: きんよう
+      - 日: び
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_79.mp3
 - tags:
   - U-verbs
@@ -155,6 +213,8 @@ vocabulary:
   - japanese: あう
     english: to meet; to see (a person) (<i>person</i>&nbsp;に)
     kanji: 会う
+    kanji_readings:
+    - 会: あ
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_82.mp3
   - japanese: ある
     english: there is ... (<i>place</i>&nbsp;に <i>thing</i>&nbsp;が)
@@ -162,18 +222,26 @@ vocabulary:
   - japanese: かう
     english: to buy (〜を)
     kanji: 買う
+    kanji_readings:
+    - 買: か
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_87.mp3
   - japanese: かく
     english: to write (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
     kanji: 書く
+    kanji_readings:
+    - 書: か
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_89.mp3
   - japanese: とる
     english: to take (a picture) (〜を)
     kanji: 撮る
+    kanji_readings:
+    - 撮: と
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_91.mp3
   - japanese: まつ
     english: to wait (〜を)
     kanji: 待つ
+    kanji_readings:
+    - 待: ま
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_93.mp3
   - japanese: わかる
     english: to understand (〜が)
@@ -211,6 +279,8 @@ vocabulary:
   - japanese: ひとりで
     english: alone
     kanji: 一人で
+    kanji_readings:
+    - 一人: ひとり
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_119.mp3
   - japanese: もしもし
     english: Hello? (used on the phone)
@@ -221,40 +291,60 @@ vocabulary:
   - japanese: みぎ
     english: right (〜の)
     kanji: 右
+    kanji_readings:
+    - 右: みぎ
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_124.mp3
   - japanese: ひだり
     english: left (〜の)
     kanji: 左
+    kanji_readings:
+    - 左: ひだり
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_126.mp3
   - japanese: まえ
     english: front (〜の)
     kanji: 前
+    kanji_readings:
+    - 前: まえ
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_128.mp3
   - japanese: うしろ
     english: back (〜の)
     kanji: 後ろ
+    kanji_readings:
+    - 後: うし
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_130.mp3
   - japanese: なか
     english: inside (〜の)
     kanji: 中
+    kanji_readings:
+    - 中: なか
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_132.mp3
   - japanese: うえ
     english: on (〜の)
     kanji: 上
+    kanji_readings:
+    - 上: うえ
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_134.mp3
   - japanese: した
     english: under (〜の)
     kanji: 下
+    kanji_readings:
+    - 下: した
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_136.mp3
   - japanese: ちかく
     english: near; nearby (〜の)
     kanji: 近く
+    kanji_readings:
+    - 近: ちか
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_138.mp3
   - japanese: となり
     english: next (〜の)
     kanji: 隣
+    kanji_readings:
+    - 隣: となり
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_141.mp3
   - japanese: あいだ
     english: between (AとBの)
     kanji: 間
+    kanji_readings:
+    - 間: あいだ
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_143.mp3

@@ -9,22 +9,32 @@ vocabulary:
   - japanese: えきいん（さん）
     english: station attendant
     kanji: 駅員（さん）
+    kanji_readings:
+    - 駅員: えきいん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_3.mp3
   - japanese: おや
     english: parent
     kanji: 親
+    kanji_readings:
+    - 親: おや
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_5.mp3
   - japanese: しんせき
     english: relatives
     kanji: 親せき
+    kanji_readings:
+    - 親: しん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_7.mp3
   - japanese: ごみ
     english: garbage
     kanji: 塵（rare, ゴミ is common）
+    kanji_readings:
+    - 塵: ごみ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_9.mp3
   - japanese: さとう
     english: sugar
     kanji: 砂糖
+    kanji_readings:
+    - 砂糖: さとう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_11.mp3
   - japanese: ファイル
     english: (file) folder; portfolio; file
@@ -32,46 +42,72 @@ vocabulary:
   - japanese: おおきさ
     english: size
     kanji: 大きさ
+    kanji_readings:
+    - 大: おお
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_17.mp3
   - japanese: みち
     english: way; road; directions
     kanji: 道
+    kanji_readings:
+    - 道: みち
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_19.mp3
   - japanese: きまつしけん
     english: final examination
     kanji: 期末試験
+    kanji_readings:
+    - 期末: きまつ
+    - 試験: しけん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_21.mp3
   - japanese: けんきゅう
     english: research
     kanji: 研究
+    kanji_readings:
+    - 研究: けんきゅう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_23.mp3
   - japanese: だいがくいん
     english: graduate school
     kanji: 大学院
+    kanji_readings:
+    - 大学: だいがく
+    - 院: いん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_25.mp3
   - japanese: しょうがくきん
     english: scholarship
     kanji: 奨学金
+    kanji_readings:
+    - 奨学: しょうがく
+    - 金: きん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_27.mp3
   - japanese: すいせんじょう
     english: letter of recommendation
     kanji: 推薦状
+    kanji_readings:
+    - 推薦: すいせん
+    - 状: じょう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_29.mp3
   - japanese: たいふう
     english: typhoon
     kanji: 台風
+    kanji_readings:
+    - 台風: たいふう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_31.mp3
   - japanese: ぶんか
     english: culture
     kanji: 文化
+    kanji_readings:
+    - 文化: ぶんか
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_33.mp3
   - japanese: へんじ
     english: reply
     kanji: 返事
+    kanji_readings:
+    - 返事: へんじ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_35.mp3
   - japanese: ひ
     english: day
     kanji: 日
+    kanji_readings:
+    - 日: ひ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_37.mp3
 - tags:
   - い-adjectives
@@ -79,6 +115,8 @@ vocabulary:
   - japanese: きたない
     english: dirty
     kanji: 汚い
+    kanji_readings:
+    - 汚: きたな
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_40.mp3
 - tags:
   - U-verbs
@@ -86,54 +124,82 @@ vocabulary:
   - japanese: おこす
     english: to wake (someone) up (～を)
     kanji: 起こす
+    kanji_readings:
+    - 起: お
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_43.mp3
   - japanese: おごる
     english: to treat (someone) to a meal (person に meal を)
     kanji: 奢る（rare）
+    kanji_readings:
+    - 奢: おご
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_45.mp3
   - japanese: わらう
     english: to laugh
     kanji: 笑う
+    kanji_readings:
+    - 笑: わら
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_47.mp3
   - japanese: おちこむ
     english: to get depressed
     kanji: 落ち込む
+    kanji_readings:
+    - 落ち込: おちこ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_49.mp3
   - japanese: こまる
     english: to have difficulty (to be troubled)
     kanji: 困る
+    kanji_readings:
+    - 困: こま
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_51.mp3
   - japanese: だす
     english: to take (something) out; to hand in (something) (～を)
     kanji: 出す
+    kanji_readings:
+    - 出: だ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_53.mp3
   - japanese: なおす
     english: to correct; to fix (～を)
     kanji: 直す
+    kanji_readings:
+    - 直: なお
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_56.mp3
   - japanese: みつかる
     english: to be found (～が)
     kanji: 見つかる
+    kanji_readings:
+    - 見: み
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_59.mp3
   - japanese: やくす
     english: to translate (source を target に)
     kanji: 訳す
+    kanji_readings:
+    - 訳: やく
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_61.mp3
   - japanese: かす
     english: to lend (person に thing を)
     kanji: 貸す
+    kanji_readings:
+    - 貸: か
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_63.mp3
   - japanese: つれていく
     english: to take (someone) to (a place)  (person を place に)
     kanji: 連れていく
+    kanji_readings:
+    - 連: つ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_65.mp3
   - japanese: みちにまよう
     english: to become lost; to lose one's way
     kanji: 道に迷う
+    kanji_readings:
+    - 道: みち
+    - 迷: まよ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_67.mp3
   - japanese: むかえにいく
     english: to go to pickup  (place まで/ person を)
     kanji: 迎えに行く
+    kanji_readings:
+    - 迎: むか
+    - 行: い
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_70.mp3
 - tags:
   - Ru-verbs
@@ -141,22 +207,33 @@ vocabulary:
   - japanese: あつめる
     english: to collect (～を)
     kanji: 集める
+    kanji_readings:
+    - 集: あつ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_73.mp3
   - japanese: いれる
     english: to put (something) in (thing を place に)
     kanji: 入れる
+    kanji_readings:
+    - 入: い
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_75.mp3
   - japanese: みせる
     english: to show (person に thing を)
     kanji: 見せる
+    kanji_readings:
+    - 見: み
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_77.mp3
   - japanese: のりおくれる
     english: to miss (a train, bus, etc.) (～に)
     kanji: 乗り遅れる
+    kanji_readings:
+    - 乗: の
+    - 遅: おく
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_79.mp3
   - japanese: アイロンをかける
     english: to iron (clothes) (～に)
     kanji: アイロンを掛ける（rare）
+    kanji_readings:
+    - 掛: か
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_81.mp3
 - tags:
   - Irregular_Verbs
@@ -164,18 +241,28 @@ vocabulary:
   - japanese: あさねぼうする
     english: to oversleep
     kanji: 朝寝坊する
+    kanji_readings:
+    - 朝: あさ
+    - 寝坊: ねぼう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_84.mp3
   - japanese: あんないする
     english: to show (someone) around  (place を)
     kanji: 案内する
+    kanji_readings:
+    - 案内: あんない
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_86.mp3
   - japanese: せつめいする
     english: to explain
     kanji: 説明する
+    kanji_readings:
+    - 説明: せつめい
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_88.mp3
   - japanese: むかえにくる
     english: to come to pickup (place まで/に person を)
     kanji: 迎えに来る
+    kanji_readings:
+    - 迎: むか
+    - 来: く
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_90.mp3
 - tags:
   - Adverbs_and_Other_Expressions
@@ -183,30 +270,47 @@ vocabulary:
   - japanese: きょうじゅうに
     english: by the end of today
     kanji: 今日中に
+    kanji_readings:
+    - 今日: きょ
+    - 中: うじゅう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_93.mp3
   - japanese: じゅぎょうちゅうに
     english: in class; during the class
     kanji: 授業中に
+    kanji_readings:
+    - 授業: じゅぎょう
+    - 中: ちゅう
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_95.mp3
   - japanese: このあいだ
     english: the other day
     kanji: この間
+    kanji_readings:
+    - 間: あいだ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_98.mp3
   - japanese: これから
     english: from now on
     kanji: 此れから（rare）
+    kanji_readings:
+    - 此: こ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_100.mp3
   - japanese: このぐらい
     english: about this much (=これぐらい/このくらい/これくらい)
     kanji: 此の位（rare）
+    kanji_readings:
+    - 此: こ
+    - 位: ぐらい
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_102.mp3
   - japanese: じぶんで
     english: (do something) by oneself
     kanji: 自分で
+    kanji_readings:
+    - 自分: じぶん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_104.mp3
   - japanese: ほかの
     english: other
     kanji: 他の
+    kanji_readings:
+    - 他: ほか
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_106.mp3
   - japanese: ええと
     english: well…; let me see…
@@ -214,16 +318,24 @@ vocabulary:
   - japanese: じつは
     english: actually; in fact
     kanji: 実は
+    kanji_readings:
+    - 実: じつ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_111.mp3
   - japanese: ～いがい
     english: other than…
     kanji: ～以外
+    kanji_readings:
+    - 以外: いがい
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_114.mp3
   - japanese: ごめん
     english: I'm sorry. (casual)
     kanji: 御免（rare）
+    kanji_readings:
+    - 御免: ごめん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_116.mp3
   - japanese: しつれいします
     english: Excuse me; Sorry to interrupt you
     kanji: 失礼します
+    kanji_readings:
+    - 失礼: しつれい
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_118.mp3

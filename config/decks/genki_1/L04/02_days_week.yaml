@@ -9,28 +9,49 @@ vocabulary:
   - japanese: げつようび
     english: Monday
     kanji: 月曜日
+    kanji_readings:
+    - 月曜: げつよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_71.mp3
   - japanese: かようび
     english: Tuesday
     kanji: 火曜日
+    kanji_readings:
+    - 火曜: かよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_73.mp3
   - japanese: すいようび
     english: Wednesday
     kanji: 水曜日
+    kanji_readings:
+    - 水曜: すいよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_75.mp3
   - japanese: もくようび
     english: Thursday
     kanji: 木曜日
+    kanji_readings:
+    - 木曜: もくよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_77.mp3
   - japanese: きんようび
     english: Friday
     kanji: 金曜日
+    kanji_readings:
+    - 金曜: きんよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_79.mp3
   - japanese: どようび
     english: Saturday
     kanji: 土曜日
+    kanji_readings:
+    - 土曜: どよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_65.mp3
   - japanese: にちようび
     english: Sunday
     kanji: 日曜日
+    kanji_readings:
+    - 日曜: にちよう
+    - 日: び
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_67.mp3

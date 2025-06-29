@@ -15,6 +15,8 @@ vocabulary:
   - japanese: かんこく
     english: Korea
     kanji: 韓国
+    kanji_readings:
+    - 韓国: かんこく
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_6.mp3
   - japanese: カナダ
     english: Canada
@@ -22,6 +24,8 @@ vocabulary:
   - japanese: ちゅうごく
     english: China
     kanji: 中国
+    kanji_readings:
+    - 中国: ちゅうごく
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_10.mp3
   - japanese: インド
     english: India
@@ -38,6 +42,8 @@ vocabulary:
   - japanese: アジアけんきゅう
     english: Asian studies
     kanji: アジア研究
+    kanji_readings:
+    - 研究: けんきゅう
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_19.mp3
   - japanese: けいざい
     english: economics
@@ -48,6 +54,9 @@ vocabulary:
   - japanese: こくさいかんけい
     english: international relations
     kanji: 国際関係
+    kanji_readings:
+    - 国際: こくさい
+    - 関係: かんけい
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_25.mp3
   - japanese: コンピューター
     english: computer
@@ -55,6 +64,8 @@ vocabulary:
   - japanese: せいじ
     english: politics
     kanji: 政治
+    kanji_readings:
+    - 政治: せいじ
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_29.mp3
   - japanese: せいぶつがく
     english: biology
@@ -65,10 +76,14 @@ vocabulary:
   - japanese: ぶんがく
     english: literature
     kanji: 文学
+    kanji_readings:
+    - 文学: ぶんがく
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_35.mp3
   - japanese: れきし
     english: history
     kanji: 歴史
+    kanji_readings:
+    - 歴史: れきし
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_37.mp3
 - tags:
   - Occupations
@@ -76,30 +91,50 @@ vocabulary:
   - japanese: いしゃ
     english: doctor
     kanji: 医者
+    kanji_readings:
+    - 医者: いしゃ
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_40.mp3
   - japanese: かいしゃいん
     english: office worker
     kanji: 会社員
+    kanji_readings:
+    - 会社: かいしゃ
+    - 員: いん
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_42.mp3
   - japanese: かんごし
     english: nurse
     kanji: 看護師
+    kanji_readings:
+    - 看護: かんご
+    - 師: し
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_44.mp3
   - japanese: こうこうせい
     english: high school student
     kanji: 高校生
+    kanji_readings:
+    - 高校: こうこう
+    - 生: せい
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_46.mp3
   - japanese: しゅふ
     english: housewife
     kanji: 主婦
+    kanji_readings:
+    - 主婦: しゅふ
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_48.mp3
   - japanese: だいがくいんせい
     english: graduate student
     kanji: 大学院生
+    kanji_readings:
+    - 大学: だいがく
+    - 院: いん
+    - 生: せい
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_50.mp3
   - japanese: べんごし
     english: lawyer
     kanji: 弁護士
+    kanji_readings:
+    - 弁護: べんご
+    - 士: し
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_52.mp3
 - tags:
   - Family
@@ -107,24 +142,36 @@ vocabulary:
   - japanese: おかあさん
     english: mother
     kanji: お母さん
+    kanji_readings:
+    - 母: かあ
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_55.mp3
   - japanese: おとうさん
     english: father
     kanji: お父さん
+    kanji_readings:
+    - 父: とう
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_57.mp3
   - japanese: おねえさん
     english: older sister
     kanji: お姉さん
+    kanji_readings:
+    - 姉: ねえ
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_59.mp3
   - japanese: おにいさん
     english: older brother
     kanji: お兄さん
+    kanji_readings:
+    - 兄: にい
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_61.mp3
   - japanese: いもうと
     english: younger sister
     kanji: 妹
+    kanji_readings:
+    - 妹: いもうと
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_63.mp3
   - japanese: おとうと
     english: younger brother
     kanji: 弟
+    kanji_readings:
+    - 弟: おとうと
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_07/K01_07_65.mp3

@@ -9,50 +9,74 @@ vocabulary:
   - japanese: かみ
     english: hair
     kanji: 髪
+    kanji_readings:
+    - 髪: かみ
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_40.mp3
   - japanese: くち
     english: mouth
     kanji: 口
+    kanji_readings:
+    - 口: くち
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_42.mp3
   - japanese: め
     english: eye
     kanji: 目
+    kanji_readings:
+    - 目: め
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_44.mp3
   - japanese: はな
     english: nose
     kanji: 鼻
+    kanji_readings:
+    - 鼻: はな
     sound_file: tts/はな_2706e.wav
   - japanese: ゆび
     english: finger
     kanji: 指
+    kanji_readings:
+    - 指: ゆび
     sound_file: tts/ゆび_dff9c.wav
   - japanese: は
     english: tooth
     kanji: 歯
+    kanji_readings:
+    - 歯: は
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
   - japanese: まゆげ
     english: eyebrows
     kanji: 眉毛
+    kanji_readings:
+    - 眉毛: まゆげ
     sound_file: tts/まゆげ_6b6fa.wav
   - japanese: みみ
     english: ear
     kanji: 耳
+    kanji_readings:
+    - 耳: みみ
     sound_file: tts/みみ_6207a.wav
   - japanese: て
     english: hand
     kanji: 手
+    kanji_readings:
+    - 手: て
     sound_file: tts/て_3b541.wav
   - japanese: くび
     english: neck
     kanji: 首
+    kanji_readings:
+    - 首: くび
     sound_file: tts/くび_2725b.wav
   - japanese: あたま
     english: head
     kanji: 頭
+    kanji_readings:
+    - 頭: あたま
     sound_file: tts/あたま_27767.wav
   - japanese: せなか
     english: back
     kanji: 背中
+    kanji_readings:
+    - 背中: せなか
     sound_file: tts/せなか_9fb9a.wav
   - japanese: おしり
     english: buttocks
@@ -60,14 +84,20 @@ vocabulary:
   - japanese: かお
     english: face
     kanji: 顔
+    kanji_readings:
+    - 顔: かお
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_31.mp3
   - japanese: かた
     english: shoulder
     kanji: 肩
+    kanji_readings:
+    - 肩: かた
     sound_file: tts/かた_a57e6.wav
   - japanese: むね
     english: breast
     kanji: 胸
+    kanji_readings:
+    - 胸: むね
     sound_file: tts/むね_513d6.wav
   - japanese: おなか
     english: stomach
@@ -75,4 +105,6 @@ vocabulary:
   - japanese: あし
     english: leg; foot
     kanji: 足
+    kanji_readings:
+    - 足: あし
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3

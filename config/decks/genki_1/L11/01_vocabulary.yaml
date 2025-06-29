@@ -9,6 +9,8 @@ vocabulary:
   - japanese: がいこく
     english: foreign country
     kanji: 外国
+    kanji_readings:
+    - 外国: がいこく
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_3.mp3
   - japanese: オーストラリア
     english: Australia
@@ -16,10 +18,14 @@ vocabulary:
   - japanese: かわ
     english: river
     kanji: 川
+    kanji_readings:
+    - 川: かわ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_7.mp3
   - japanese: おんせん
     english: spa; hot spring
     kanji: 温泉
+    kanji_readings:
+    - 温泉: おんせん
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_9.mp3
   - japanese: つり
     english: fishing
@@ -27,10 +33,14 @@ vocabulary:
   - japanese: みずうみ
     english: lake
     kanji: 湖
+    kanji_readings:
+    - 湖: みずうみ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_14.mp3
   - japanese: やま
     english: mountain
     kanji: 山
+    kanji_readings:
+    - 山: やま
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_16.mp3
   - japanese: キャンプ
     english: camp
@@ -41,18 +51,27 @@ vocabulary:
   - japanese: じんじゃ
     english: shrine
     kanji: 神社
+    kanji_readings:
+    - 神社: じんじゃ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_22.mp3
   - japanese: びじゅつかん
     english: art museum
     kanji: 美術館
+    kanji_readings:
+    - 美術: びじゅつ
+    - 館: かん
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_24.mp3
   - japanese: しゃちょう
     english: president of a company
     kanji: 社長
+    kanji_readings:
+    - 社長: しゃちょう
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_26.mp3
   - japanese: かしゅ
     english: singer
     kanji: 歌手
+    kanji_readings:
+    - 歌手: かしゅ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_28.mp3
   - japanese: ルームメイト
     english: roommate
@@ -63,22 +82,32 @@ vocabulary:
   - japanese: しょうらい
     english: future
     kanji: 将来
+    kanji_readings:
+    - 将来: しょうらい
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_34.mp3
   - japanese: ゆめ
     english: dream
     kanji: 夢
+    kanji_readings:
+    - 夢: ゆめ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_36.mp3
   - japanese: おまつり
     english: festival
     kanji: お祭り
+    kanji_readings:
+    - 祭: まつ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_38.mp3
   - japanese: おしょうがつ
     english: New Year's
     kanji: お正月
+    kanji_readings:
+    - 正月: しょうがつ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_40.mp3
   - japanese: おかし
     english: snack; sweets
     kanji: お菓子
+    kanji_readings:
+    - 菓子: かし
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_42.mp3
   - japanese: ビール
     english: beer
@@ -89,14 +118,22 @@ vocabulary:
   - japanese: こんがっき
     english: this semester
     kanji: 今学期
+    kanji_readings:
+    - 今: こん
+    - 学期: がっき
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_49.mp3
   - japanese: らいがっき
     english: next semester
     kanji: 来学期
+    kanji_readings:
+    - 来: らい
+    - 学期: がっき
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_51.mp3
   - japanese: じゅぎょう
     english: class
     kanji: 授業
+    kanji_readings:
+    - 授業: じゅぎょう
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_53.mp3
   - japanese: こちら
     english: this person (polite)
@@ -113,6 +150,8 @@ vocabulary:
   - japanese: かう
     english: to own (a pet) (〜を)
     kanji: 飼う
+    kanji_readings:
+    - 飼: か
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_62.mp3
   - japanese: サボる
     english: to cut (classes) (〜を)
@@ -120,18 +159,26 @@ vocabulary:
   - japanese: とる
     english: to take (a class); to get (a grade) (〜を)
     kanji: 取る
+    kanji_readings:
+    - 取: と
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_66.mp3
   - japanese: ならう
     english: to learn (〜を)
     kanji: 習う
+    kanji_readings:
+    - 習: なら
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_69.mp3
   - japanese: のぼる
     english: to climb (<i>place</i>&nbsp;に)
     kanji: 登る
+    kanji_readings:
+    - 登: のぼ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_71.mp3
   - japanese: はしる
     english: to run
     kanji: 走る
+    kanji_readings:
+    - 走: はし
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_73.mp3
 - tags:
   - Ru-verbs
@@ -139,6 +186,8 @@ vocabulary:
   - japanese: つかれる
     english: to get tired
     kanji: 疲れる
+    kanji_readings:
+    - 疲: つか
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_76.mp3
   - japanese: やめる
     english: to quit (〜を)
@@ -152,6 +201,8 @@ vocabulary:
   - japanese: しょうかいする
     english: to introduce (<i>person </i>に <i>person </i>を)
     kanji: 紹介する
+    kanji_readings:
+    - 紹介: しょうかい
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_84.mp3
   - japanese: ダイエットする
     english: to go on a diet
@@ -159,10 +210,14 @@ vocabulary:
   - japanese: ちこくする
     english: to be late (for an appointment) (〜に)
     kanji: 遅刻する
+    kanji_readings:
+    - 遅刻: ちこく
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_88.mp3
   - japanese: りゅうがくする
     english: to study abroad (<i>place</i>&nbsp;に)
     kanji: 留学する
+    kanji_readings:
+    - 留学: りゅうがく
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_90.mp3
 - tags:
   - Adverbs_and_Other_Expressions
@@ -170,10 +225,14 @@ vocabulary:
   - japanese: しゅっしん
     english: coming from (<i>place</i>&nbsp;の)
     kanji: 出身
+    kanji_readings:
+    - 出身: しゅっしん
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_93.mp3
   - japanese: ひさしぶり
     english: it has been a long time
     kanji: 久しぶり
+    kanji_readings:
+    - 久: ひさ
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_95.mp3
   - japanese: まあまあ
     english: okay; so-so
@@ -184,6 +243,8 @@ vocabulary:
   - japanese: あと
     english: after (an event) (<i>event</i>&nbsp;の)
     kanji: 後
+    kanji_readings:
+    - 後: あと
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_102.mp3
   - japanese: そして
     english: and then
@@ -194,4 +255,6 @@ vocabulary:
   - japanese: 〜てん
     english: '... points'
     kanji: 〜点
+    kanji_readings:
+    - 点: てん
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_109.mp3

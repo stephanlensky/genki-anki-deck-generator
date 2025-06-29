@@ -9,18 +9,27 @@ vocabulary:
   - japanese: げりです。
     english: I have diarrhea.
     kanji: 下痢です。
+    kanji_readings:
+    - 下痢: げり
     sound_file: tts/げりです。_d428d.wav
   - japanese: べんぴです。
     english: I am constipated.
     kanji: 便秘です。
+    kanji_readings:
+    - 便秘: べんぴ
     sound_file: tts/べんぴです。_a4d2f.wav
   - japanese: せいりです。
     english: I have my period.
     kanji: 生理です。
+    kanji_readings:
+    - 生理: せいり
     sound_file: tts/せいりです。_07a94.wav
   - japanese: かふんしょうです。
     english: I have hay fever.
     kanji: 花粉症です。
+    kanji_readings:
+    - 花粉: かふん
+    - 症: しょう
     sound_file: tts/かふんしょうです。_6010a.wav
   - japanese: （〜に）アレルギーがあります。
     english: I have an allergy to ...
@@ -28,22 +37,33 @@ vocabulary:
   - japanese: むしばがあります。
     english: I have a bad tooth.
     kanji: 虫歯があります。
+    kanji_readings:
+    - 虫歯: むしば
     sound_file: tts/むしばがあります。_88f7f.wav
   - japanese: くしゃみがでます。
     english: I sneeze.
     kanji: くしゃみが出ます。
+    kanji_readings:
+    - 出: で
     sound_file: tts/くしゃみがでます。_85c8a.wav
   - japanese: はなみずがでます。
     english: I have a runny nose.
     kanji: 鼻水が出ます。
+    kanji_readings:
+    - 鼻水: はなみず
+    - 出: で
     sound_file: tts/はなみずがでます。_68679.wav
   - japanese: せなかがかゆいです。
     english: My back itches.
     kanji: 背中がかゆいです。
+    kanji_readings:
+    - 背中: せなか
     sound_file: tts/せなかがかゆいです。_a9804.wav
   - japanese: はっしんがあります。
     english: I have rashes.
     kanji: 発疹があります。
+    kanji_readings:
+    - 発疹: はっしん
     sound_file: tts/はっしんがあります。_dc380.wav
   - japanese: めまいがします。
     english: I feel dizzy.
@@ -51,10 +71,15 @@ vocabulary:
   - japanese: はきました。
     english: I threw up.
     kanji: 吐きました。
+    kanji_readings:
+    - 吐: は
     sound_file: tts/はきました。_dae98.wav
   - japanese: きぶんがわるいです。
     english: I am not feeling well.
     kanji: 気分が悪いです。
+    kanji_readings:
+    - 気分: きぶん
+    - 悪: わる
     sound_file: tts/きぶんがわるいです。_ab6ed.wav
   - japanese: やけどをしました。
     english: I burned myself.
@@ -62,6 +87,9 @@ vocabulary:
   - japanese: あしをこっせつしました。
     english: I broke my leg.
     kanji: 足を骨折しました。
+    kanji_readings:
+    - 足: あし
+    - 骨折: こっせつ
     sound_file: tts/あしをこっせつしました。_11f07.wav
   - japanese: けがをしました。
     english: I hurt myself.
@@ -69,38 +97,66 @@ vocabulary:
   - japanese: ないか
     english: physician
     kanji: 内科
+    kanji_readings:
+    - 内科: ないか
     sound_file: tts/ないか_ae456.wav
   - japanese: ひふか
     english: dermatologist
     kanji: 皮膚科
+    kanji_readings:
+    - 皮膚: ひふ
+    - 科: か
     sound_file: tts/ひふか_dff5c.wav
   - japanese: げか
     english: surgeon
     kanji: 外科
+    kanji_readings:
+    - 外科: げか
     sound_file: tts/げか_40ab9.wav
   - japanese: さんふじんか
     english: obsterician and gynecologist
     kanji: 産婦人科
+    kanji_readings:
+    - 産: さん
+    - 婦人: ふじん
+    - 科: か
     sound_file: tts/さんふじんか_13004.wav
   - japanese: せいけいげか
     english: orthopedic surgeon
     kanji: 整形外科
+    kanji_readings:
+    - 整形: せいけい
+    - 外科: げか
     sound_file: tts/せいけいげか_24e42.wav
   - japanese: がんか（めいしゃ）
     english: ophthalmologist
     kanji: 眼科（目医者）
+    kanji_readings:
+    - 眼科: がんか
+    - 目: め
+    - 医者: いしゃ
     sound_file: tts/がんか（めいしゃ）_18ef3.wav
   - japanese: しか（はいしゃ）
     english: dentist
     kanji: 歯科（歯医者）
+    kanji_readings:
+    - 歯科: しか
+    - 歯: は
+    - 医者: いしゃ
     sound_file: tts/しか（はいしゃ）_52c23.wav
   - japanese: じびか
     english: otorhinolaryngologist; ENT doctor
     kanji: 耳鼻科
+    kanji_readings:
+    - 耳鼻: じび
+    - 科: か
     sound_file: tts/じびか_1473c.wav
   - japanese: こうせいぶっしつ
     english: antibiotic
     kanji: 抗生物質
+    kanji_readings:
+    - 抗生: こうせい
+    - 物質: ぶっしつ
     sound_file: tts/こうせいぶっしつ_8b8c8.wav
   - japanese: レントゲン
     english: X-ray
@@ -108,16 +164,25 @@ vocabulary:
   - japanese: しゅじゅつ
     english: operation
     kanji: 手術
+    kanji_readings:
+    - 手術: しゅじゅつ
     sound_file: tts/しゅじゅつ_35373.wav
   - japanese: ちゅうしゃ
     english: injection
     kanji: 注射
+    kanji_readings:
+    - 注射: ちゅうしゃ
     sound_file: tts/ちゅうしゃ_4cde3.wav
   - japanese: たいおんけい
     english: thermometer
     kanji: 体温計
+    kanji_readings:
+    - 体温: たいおん
+    - 計: けい
     sound_file: tts/たいおんけい_521f1.wav
   - japanese: てんてき
     english: intravenous feeding
     kanji: 点滴
+    kanji_readings:
+    - 点滴: てんてき
     sound_file: tts/てんてき_9f947.wav

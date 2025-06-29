@@ -15,6 +15,8 @@ vocabulary:
   - japanese: みかん
     english: mandarin orange
     kanji: 蜜柑（rare）
+    kanji_readings:
+    - 蜜柑: みかん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3
   - japanese: りんご
     english: apple
@@ -46,12 +48,18 @@ vocabulary:
   - japanese: ぎゅうにく
     english: beef
     kanji: 牛肉
+    kanji_readings:
+    - 牛肉: ぎゅうにく
     sound_file: tts/ぎゅうにく_fa7f2.wav
   - japanese: ぶたにく
     english: pork
     kanji: 豚肉
+    kanji_readings:
+    - 豚肉: ぶたにく
     sound_file: tts/ぶたにく_0f9cc.wav
   - japanese: とりにく
     english: chicken
     kanji: 鶏肉
+    kanji_readings:
+    - 鶏肉: とりにく
     sound_file: tts/とりにく_d344f.wav

@@ -16,6 +16,7 @@ class Card:
     japanese: str
     english: str
     kanji: str | None = None
+    kanji_readings: list[tuple[str, str]] | None = None
     sound_file: str | None = None
     parent: CardCollection | None = None
 
@@ -53,6 +54,8 @@ class Card:
         }
         if self.kanji:
             d["kanji"] = self.kanji
+        if self.kanji_readings:
+            d["kanji_readings"] = [{k: r} for k, r in self.kanji_readings]
         if self.sound_file:
             d["sound_file"] = str(PurePosixPath(self.sound_file))
         return d
@@ -152,6 +155,13 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
             japanese=template_yaml["japanese"],
             english=template_yaml["english"],
             kanji=template_yaml.get("kanji"),
+            kanji_readings=[
+                (k, r)
+                for reading in template_yaml.get("kanji_readings", {})
+                for k, r in reading.items()
+            ]
+            if template_yaml.get("kanji_readings")
+            else None,
             sound_file=template_yaml.get("sound_file"),
         )
 

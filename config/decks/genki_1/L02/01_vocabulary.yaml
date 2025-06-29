@@ -54,6 +54,8 @@ vocabulary:
   - japanese: さかな
     english: fish
     kanji: 魚
+    kanji_readings:
+    - 魚: さかな
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_32.mp3
   - japanese: とんかつ
     english: pork cutlet
@@ -61,6 +63,8 @@ vocabulary:
   - japanese: にく
     english: meat
     kanji: 肉
+    kanji_readings:
+    - 肉: にく
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_36.mp3
   - japanese: メニュー
     english: menu
@@ -68,6 +72,8 @@ vocabulary:
   - japanese: やさい
     english: vegetable
     kanji: 野菜
+    kanji_readings:
+    - 野菜: やさい
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_40.mp3
 - tags:
   - Things
@@ -75,6 +81,8 @@ vocabulary:
   - japanese: かさ
     english: umbrella
     kanji: 傘
+    kanji_readings:
+    - 傘: かさ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_43.mp3
   - japanese: かばん
     english: bag
@@ -82,10 +90,14 @@ vocabulary:
   - japanese: くつ
     english: shoes
     kanji: 靴
+    kanji_readings:
+    - 靴: くつ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_47.mp3
   - japanese: さいふ
     english: wallet
     kanji: 財布
+    kanji_readings:
+    - 財布: さいふ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_49.mp3
   - japanese: ジーンズ
     english: jeans
@@ -93,10 +105,15 @@ vocabulary:
   - japanese: じてんしゃ
     english: bicycle
     kanji: 自転車
+    kanji_readings:
+    - 自転: じてん
+    - 車: しゃ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_53.mp3
   - japanese: しんぶん
     english: newspaper
     kanji: 新聞
+    kanji_readings:
+    - 新聞: しんぶん
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_55.mp3
   - japanese: スマホ
     english: smartphone; mobile
@@ -107,6 +124,8 @@ vocabulary:
   - japanese: とけい
     english: watch; clock
     kanji: 時計
+    kanji_readings:
+    - 時計: とけい
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_62.mp3
   - japanese: ノート
     english: notebook
@@ -117,10 +136,14 @@ vocabulary:
   - japanese: ぼうし
     english: hat; cap
     kanji: 帽子
+    kanji_readings:
+    - 帽子: ぼうし
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_69.mp3
   - japanese: ほん
     english: book
     kanji: 本
+    kanji_readings:
+    - 本: ほん
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_72.mp3
 - tags:
   - Places
@@ -128,6 +151,8 @@ vocabulary:
   - japanese: ぎんこう
     english: bank
     kanji: 銀行
+    kanji_readings:
+    - 銀行: ぎんこう
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_75.mp3
   - japanese: コンビニ
     english: convenience store
@@ -138,10 +163,16 @@ vocabulary:
   - japanese: としょかん
     english: library
     kanji: 図書館
+    kanji_readings:
+    - 図書: としょ
+    - 館: かん
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_82.mp3
   - japanese: ゆうびんきょく
     english: post office
     kanji: 郵便局
+    kanji_readings:
+    - 郵便: ゆうびん
+    - 局: きょく
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_84.mp3
 - tags:
   - Countries
@@ -152,10 +183,14 @@ vocabulary:
   - japanese: かんこく
     english: Korea
     kanji: 韓国
+    kanji_readings:
+    - 韓国: かんこく
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_89.mp3
   - japanese: ちゅうごく
     english: China
     kanji: 中国
+    kanji_readings:
+    - 中国: ちゅうごく
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_91.mp3
 - tags:
   - Majors
@@ -175,6 +210,8 @@ vocabulary:
   - japanese: れきし
     english: history
     kanji: 歴史
+    kanji_readings:
+    - 歴史: れきし
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_102.mp3
 - tags:
   - Family
@@ -182,10 +219,14 @@ vocabulary:
   - japanese: おかあさん
     english: mother
     kanji: お母さん
+    kanji_readings:
+    - 母: かあ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_105.mp3
   - japanese: おとうさん
     english: father
     kanji: お父さん
+    kanji_readings:
+    - 父: とう
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_107.mp3
 - tags:
   - Money_Matters
@@ -196,10 +237,14 @@ vocabulary:
   - japanese: 〜えん
     english: '... yen'
     kanji: 〜円
+    kanji_readings:
+    - 円: えん
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_112.mp3
   - japanese: たかい
     english: expensive; high
     kanji: 高い
+    kanji_readings:
+    - 高: たか
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_114.mp3
 - tags:
   - Expressions

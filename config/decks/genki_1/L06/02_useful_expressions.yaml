@@ -9,48 +9,85 @@ vocabulary:
   - japanese: ひだりにまがる
     english: turn left
     kanji: 左に曲がる
+    kanji_readings:
+    - 左: ひだり
+    - 曲: ま
     sound_file: tts/ひだりにまがる_4d2fb.wav
   - japanese: みぎにまがる
     english: turn right
     kanji: 右に曲がる
+    kanji_readings:
+    - 右: みぎ
+    - 曲: ま
     sound_file: tts/みぎにまがる_0e863.wav
   - japanese: まっすぐいく
     english: go straight
     kanji: まっすぐ行く
+    kanji_readings:
+    - 行: い
     sound_file: tts/まっすぐいく_5b7de.wav
   - japanese: みちをわたる
     english: cross the street
     kanji: 道を渡る
+    kanji_readings:
+    - 道: みち
+    - 渡: わた
     sound_file: tts/みちをわたる_23f4d.wav
   - japanese: ふたつめのかどをひだりにまがる
     english: turn left at the second corner
     kanji: ニつ目の角を左に曲がる
+    kanji_readings:
+    - ニ: ふた
+    - 目: め
+    - 角: かど
+    - 左: ひだり
+    - 曲: ま
     sound_file: tts/ふたつめのかどをひだりにまがる_8f42d.wav
   - japanese: ひとつめのしんごうをみぎにまがる
     english: turn right at the first traffic light
     kanji: 一つ目の信号を右に曲がる
+    kanji_readings:
+    - 一: ひと
+    - 目: め
+    - 信号: しんごう
+    - 右: みぎ
+    - 曲: ま
     sound_file: tts/ひとつめのしんごうをみぎにまがる_0aeec.wav
   - japanese: みちのひだりがわ
     english: left side of the street
     kanji: 道の左側
+    kanji_readings:
+    - 道: みち
+    - 左側: ひだりがわ
     sound_file: tts/みちのひだりがわ_54118.wav
   - japanese: みちのみぎがわ
     english: right side of the street
     kanji: 道の右側
+    kanji_readings:
+    - 道: みち
+    - 右側: みぎがわ
     sound_file: tts/みちのみぎがわ_62b56.wav
   - japanese: きた
     english: north
     kanji: 北
+    kanji_readings:
+    - 北: きた
     sound_file: tts/きた_db3dc.wav
   - japanese: にし
     english: west
     kanji: 西
+    kanji_readings:
+    - 西: にし
     sound_file: tts/にし_2321d.wav
   - japanese: ひがし
     english: east
     kanji: 東
+    kanji_readings:
+    - 東: ひがし
     sound_file: tts/ひがし_6101d.wav
   - japanese: みなみ
     english: south
     kanji: 南
+    kanji_readings:
+    - 南: みなみ
     sound_file: tts/みなみ_cdbe7.wav

@@ -9,42 +9,62 @@ vocabulary:
   - japanese: くろい
     english: black
     kanji: 黒い
+    kanji_readings:
+    - 黒: くろ
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_52.mp3
   - japanese: しろい
     english: white
     kanji: 白い
+    kanji_readings:
+    - 白: しろ
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_54.mp3
   - japanese: あかい
     english: red
     kanji: 赤い
+    kanji_readings:
+    - 赤: あか
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_50.mp3
   - japanese: あおい
     english: blue
     kanji: 青い
+    kanji_readings:
+    - 青: あお
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_48.mp3
   - japanese: きいろい
     english: yellow
     kanji: 黄色い
+    kanji_readings:
+    - 黄色: きいろ
     sound_file: tts/きいろい_41a40.wav
   - japanese: ちゃいろい
     english: brown
     kanji: 茶色い
+    kanji_readings:
+    - 茶色: ちゃいろ
     sound_file: tts/ちゃいろい_ce825.wav
   - japanese: みどり／グリーン
     english: green
     kanji: 緑
+    kanji_readings:
+    - 緑: みどり
     sound_file: tts/みどり／グリーン_f5a82.wav
   - japanese: こんいろ
     english: navy blue
     kanji: 紺色
+    kanji_readings:
+    - 紺色: こんいろ
     sound_file: tts/こんいろ_1f7c5.wav
   - japanese: みずいろ
     english: light blue
     kanji: 水色
+    kanji_readings:
+    - 水色: みずいろ
     sound_file: tts/みずいろ_7216d.wav
   - japanese: ぎんいろ／シルバー
     english: silver
     kanji: 銀色
+    kanji_readings:
+    - 銀色: ぎんいろ
     sound_file: tts/ぎんいろ／シルバー_6a786.wav
   - japanese: オレンジ
     english: orange
@@ -52,14 +72,20 @@ vocabulary:
   - japanese: むらさき
     english: purple
     kanji: 紫
+    kanji_readings:
+    - 紫: むらさき
     sound_file: tts/むらさき_12e98.wav
   - japanese: はいいろ／グレー
     english: gray
     kanji: 灰色
+    kanji_readings:
+    - 灰色: はいいろ
     sound_file: tts/はいいろ／グレー_f0b70.wav
   - japanese: きんいろ／ゴールド
     english: gold
     kanji: 金色
+    kanji_readings:
+    - 金色: きんいろ
     sound_file: tts/きんいろ／ゴールド_39a32.wav
   - japanese: ピンク
     english: pink
@@ -70,12 +96,21 @@ vocabulary:
   - japanese: かおがあおいですね。
     english: You look pale.
     kanji: 顔が青いですね。
+    kanji_readings:
+    - 顔: かお
+    - 青: あお
     sound_file: tts/かおがあおいですね。_92302.wav
   - japanese: しろくろのしゃしん
     english: black and white picture
     kanji: 白黒の写真
+    kanji_readings:
+    - 白黒: しろくろ
+    - 写真: しゃしん
     sound_file: tts/しろくろのしゃしん_474ff.wav
   - japanese: あおしんごう
     english: green light
     kanji: 青信号
+    kanji_readings:
+    - 青: あお
+    - 信号: しんごう
     sound_file: tts/あおしんごう_ed576.wav

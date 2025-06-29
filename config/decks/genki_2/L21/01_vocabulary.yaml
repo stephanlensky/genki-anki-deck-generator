@@ -9,22 +9,32 @@ vocabulary:
   - japanese: ちかん
     english: groper; pervert
     kanji: 痴漢（rare）
+    kanji_readings:
+    - 痴漢: ちかん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_3.mp3
   - japanese: どろぼう
     english: thief; burglar
     kanji: 泥棒
+    kanji_readings:
+    - 泥棒: どろぼう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_6.mp3
   - japanese: はんにん
     english: criminal
     kanji: 犯人
+    kanji_readings:
+    - 犯人: はんにん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_9.mp3
   - japanese: どうりょう
     english: colleague
     kanji: 同僚
+    kanji_readings:
+    - 同僚: どうりょう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_11.mp3
   - japanese: かいぎ
     english: business meeting; conference
     kanji: 会議
+    kanji_readings:
+    - 会議: かいぎ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_13.mp3
   - japanese: スピーチ
     english: speech
@@ -32,6 +42,8 @@ vocabulary:
   - japanese: か
     english: mosquito
     kanji: 蚊
+    kanji_readings:
+    - 蚊: か
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_18.mp3
   - japanese: ガソリン
     english: gasoline
@@ -42,42 +54,63 @@ vocabulary:
   - japanese: もんく
     english: complaint
     kanji: 文句
+    kanji_readings:
+    - 文句: もんく
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_24.mp3
   - japanese: るす
     english: absence; not at home
     kanji: 留守
+    kanji_readings:
+    - 留守: るす
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_26.mp3
   - japanese: けいさつ
     english: police; police station
     kanji: 警察
+    kanji_readings:
+    - 警察: けいさつ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_29.mp3
   - japanese: せいふ
     english: government
     kanji: 政府
+    kanji_readings:
+    - 政府: せいふ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_32.mp3
   - japanese: じゅぎょうりょう
     english: tuition
     kanji: 授業料
+    kanji_readings:
+    - 授業: じゅぎょう
+    - 料: りょう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_34.mp3
   - japanese: こうじょう
     english: factory
     kanji: 工場
+    kanji_readings:
+    - 工場: こうじょう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_36.mp3
   - japanese: かんきょう
     english: environment
     kanji: 環境
+    kanji_readings:
+    - 環境: かんきょう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_38.mp3
   - japanese: しゅうでん
     english: last train (of the day)
     kanji: 終電
+    kanji_readings:
+    - 終電: しゅうでん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_40.mp3
   - japanese: こと
     english: things; matters
     kanji: 事
+    kanji_readings:
+    - 事: こと
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_42.mp3
   - japanese: むかし
     english: old days; past
     kanji: 昔
+    kanji_readings:
+    - 昔: むかし
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_45.mp3
 - tags:
   - い-adjectives
@@ -85,10 +118,14 @@ vocabulary:
   - japanese: とおい
     english: far (away)
     kanji: 遠い
+    kanji_readings:
+    - 遠: とお
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_49.mp3
   - japanese: ひどい
     english: awful
     kanji: 酷い（rare）
+    kanji_readings:
+    - 酷: ひど
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_51.mp3
 - tags:
   - な-adjectives
@@ -96,14 +133,20 @@ vocabulary:
   - japanese: あんぜん(な)
     english: safe
     kanji: 安全
+    kanji_readings:
+    - 安全: あんぜん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_54.mp3
   - japanese: めちゃくちゃ(な)
     english: messy; disorganized
     kanji: 目茶苦茶（rare）
+    kanji_readings:
+    - 目茶苦茶: めちゃくちゃ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_56.mp3
   - japanese: へん(な)
     english: strange; unusual
     kanji: 変
+    kanji_readings:
+    - 変: へん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_58.mp3
 - tags:
   - U-verbs
@@ -111,62 +154,94 @@ vocabulary:
   - japanese: おく
     english: to put; to lay; to place (place に object を)
     kanji: 置く
+    kanji_readings:
+    - 置: お
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_62.mp3
   - japanese: つつむ
     english: to wrap; to cover (～を)
     kanji: 包む
+    kanji_readings:
+    - 包: つつ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_66.mp3
   - japanese: はる
     english: to post; to stick (place に object を)
     kanji: 貼る
+    kanji_readings:
+    - 貼: は
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_69.mp3
   - japanese: やく
     english: to bake; to burn; to grill (～を)
     kanji: 焼く
+    kanji_readings:
+    - 焼: や
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_72.mp3
   - japanese: やる
     english: to give (to pets, plants, younger siblings, etc.)  (～を)
     kanji: 遣る（rare）
+    kanji_readings:
+    - 遣: や
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_76.mp3
   - japanese: ける
     english: to kick  (～を)
     kanji: 蹴る（rare）
+    kanji_readings:
+    - 蹴: け
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_78.mp3
   - japanese: なぐる
     english: to strike; to hit; to punch  (～を)
     kanji: 殴る
+    kanji_readings:
+    - 殴: なぐ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_80.mp3
   - japanese: ふむ
     english: to step on  (～を)
     kanji: 踏む
+    kanji_readings:
+    - 踏: ふ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_84.mp3
   - japanese: さす
     english: to bite  (～を)
     kanji: 刺す
+    kanji_readings:
+    - 刺: さ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_86.mp3
   - japanese: ぬすむ
     english: to steal; to rob (～を)
     kanji: 盗む
+    kanji_readings:
+    - 盗: ぬす
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_88.mp3
   - japanese: さわる
     english: to touch (～に／を)
     kanji: 触る
+    kanji_readings:
+    - 触: さわ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_91.mp3
   - japanese: つかまる
     english: to be arrested; to be caught (～が)
     kanji: 捕まる
+    kanji_readings:
+    - 捕: つか
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_93.mp3
   - japanese: きがつく
     english: to notice (～に)
     kanji: 気が付く
+    kanji_readings:
+    - 気: き
+    - 付: つ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_96.mp3
   - japanese: ふる
     english: to turn down (somebody); to reject; to jilt (～を)
     kanji: 振る（rare）
+    kanji_readings:
+    - 振: ふ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_98.mp3
   - japanese: もんくをいう
     english: to complain
     kanji: 文句を言う
+    kanji_readings:
+    - 文句: もんく
+    - 言: い
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_102.mp3
 - tags:
   - Ru-verbs
@@ -174,18 +249,26 @@ vocabulary:
   - japanese: いじめる
     english: to bully (～を)
     kanji: 苛める（rare）
+    kanji_readings:
+    - 苛: いじ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_105.mp3
   - japanese: ほめる
     english: to praise; to say nice things (～を)
     kanji: 褒める（rare）
+    kanji_readings:
+    - 褒: ほ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_107.mp3
   - japanese: きがえる
     english: to change clothes
     kanji: 着替える
+    kanji_readings:
+    - 着替: きが
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_110.mp3
   - japanese: しんじる
     english: to believe (～を)
     kanji: 信じる
+    kanji_readings:
+    - 信: しん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_112.mp3
   - japanese: ためる
     english: to save money (～を)
@@ -193,14 +276,20 @@ vocabulary:
   - japanese: まちがえる
     english: to make a mistake (～を)
     kanji: 間違える
+    kanji_readings:
+    - 間違: まちが
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_116.mp3
   - japanese: みつける
     english: to find (～を)
     kanji: 見つける
+    kanji_readings:
+    - 見: み
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_118.mp3
   - japanese: くらべる
     english: to compare (XとY～を)
     kanji: 比べる
+    kanji_readings:
+    - 比: くら
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_120.mp3
 - tags:
   - Irregular_Verbs
@@ -208,18 +297,26 @@ vocabulary:
   - japanese: ばかにする
     english: to insult; to make a fool of… (～を)
     kanji: 馬鹿にする（rare）
+    kanji_readings:
+    - 馬鹿: ばか
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_123.mp3
   - japanese: びっくりする
     english: to be surprised (～に)
     kanji: 吃驚する（rare）
+    kanji_readings:
+    - 吃驚: びっくり
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_126.mp3
   - japanese: ひるねをする
     english: to take a nap
     kanji: 昼寝をする
+    kanji_readings:
+    - 昼寝: ひるね
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_128.mp3
   - japanese: れんらくする
     english: to contact (person に)
     kanji: 連絡する
+    kanji_readings:
+    - 連絡: れんらく
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_130.mp3
 - tags:
   - Adverbs_and_Other_Expressions
@@ -227,6 +324,9 @@ vocabulary:
   - japanese: ごぜんちゅう
     english: in the morning
     kanji: 午前中
+    kanji_readings:
+    - 午前: ごぜん
+    - 中: ちゅう
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_133.mp3
   - japanese: ～ころ
     english: time of …; when…
@@ -234,8 +334,12 @@ vocabulary:
   - japanese: すこし
     english: a little
     kanji: 少し
+    kanji_readings:
+    - 少: すこ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_138.mp3
   - japanese: とにかく
     english: anyhow; anyway
     kanji: 兎に角（rare）
+    kanji_readings:
+    - 兎に角: とにかく
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_140.mp3

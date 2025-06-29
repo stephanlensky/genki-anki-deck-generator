@@ -6,6 +6,7 @@ from genki_anki_deck_generator.commands import (
     copy_audio_from_duplicates,
     download,
     generate,
+    generate_kanji_readings,
     generate_missing_audio,
     match_vocab,
     process_audio,
@@ -27,6 +28,7 @@ def main() -> None:
         "check-duplicates": check_duplicates,
         "copy-audio-from-duplicates": copy_audio_from_duplicates,
         "generate-missing-audio": generate_missing_audio,
+        "generate-kanji-readings": generate_kanji_readings,
     }
 
     parser = argparse.ArgumentParser(

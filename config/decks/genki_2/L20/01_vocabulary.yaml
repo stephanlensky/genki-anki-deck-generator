@@ -12,22 +12,33 @@ vocabulary:
   - japanese: しょうせつ
     english: novel
     kanji: 小説
+    kanji_readings:
+    - 小説: しょうせつ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_5.mp3
   - japanese: しゅみ
     english: hobby; pastime
     kanji: 趣味
+    kanji_readings:
+    - 趣味: しゅみ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_7.mp3
   - japanese: つき
     english: moon
     kanji: 月
+    kanji_readings:
+    - 月: つき
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_9.mp3
   - japanese: うちゅうじん
     english: space alien
     kanji: 宇宙人
+    kanji_readings:
+    - 宇宙: うちゅう
+    - 人: じん
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_11.mp3
   - japanese: せんす
     english: (hand) fan
     kanji: 扇子
+    kanji_readings:
+    - 扇子: せんす
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_13.mp3
   - japanese: スニーカー
     english: sneakers
@@ -38,50 +49,75 @@ vocabulary:
   - japanese: おにぎり
     english: rice ball
     kanji: お握り（rare）
+    kanji_readings:
+    - 握: にぎ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
   - japanese: どうぶつ
     english: animal
     kanji: 動物
+    kanji_readings:
+    - 動物: どうぶつ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_21.mp3
   - japanese: あちら
     english: that way (polite)
     kanji: 彼方（rare）
+    kanji_readings:
+    - 彼方: あちら
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_23.mp3
   - japanese: かかりのもの
     english: our person in charge
     kanji: 係りの者
+    kanji_readings:
+    - 係: かか
+    - 者: もの
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_25.mp3
   - japanese: おたく
     english: (someone's) home/house
     kanji: お宅
+    kanji_readings:
+    - 宅: たく
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_27.mp3
   - japanese: ～や
     english: …shop
     kanji: ～屋
+    kanji_readings:
+    - 屋: や
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_30.mp3
   - japanese: してん
     english: branch office
     kanji: 支店
+    kanji_readings:
+    - 支店: してん
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_32.mp3
   - japanese: ドイツ
     english: Germany
     kanji: 独逸（rare）
+    kanji_readings:
+    - 独逸: ドイツ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_34.mp3
   - japanese: しんごう
     english: traffic light
     kanji: 信号
+    kanji_readings:
+    - 信号: しんごう
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_36.mp3
   - japanese: かど
     english: corner
     kanji: 角
+    kanji_readings:
+    - 角: かど
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_38.mp3
   - japanese: じ
     english: letter; character
     kanji: 字
+    kanji_readings:
+    - 字: じ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_40.mp3
   - japanese: おと
     english: sound
     kanji: 音
+    kanji_readings:
+    - 音: おと
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_43.mp3
 - tags:
   - い-adjectives
@@ -89,10 +125,14 @@ vocabulary:
   - japanese: おもい
     english: heavy; serious (illness)
     kanji: 重い
+    kanji_readings:
+    - 重: おも
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_46.mp3
   - japanese: かるい
     english: light
     kanji: 軽い
+    kanji_readings:
+    - 軽: かる
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_49.mp3
 - tags:
   - な-adjectives
@@ -100,6 +140,8 @@ vocabulary:
   - japanese: ふしぎ(な)
     english: mysterious
     kanji: 不思議
+    kanji_readings:
+    - 不思議: ふしぎ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_52.mp3
 - tags:
   - U-verbs
@@ -107,50 +149,74 @@ vocabulary:
   - japanese: おる
     english: extra-modest expression for いる
     kanji: 居る（rare）
+    kanji_readings:
+    - 居: お
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_55.mp3
   - japanese: まいる
     english: extra-modest expression for いく、くる
     kanji: 参る
+    kanji_readings:
+    - 参: まい
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_57.mp3
   - japanese: もうす
     english: extra-modest expression for いう
     kanji: 申す
+    kanji_readings:
+    - 申: もう
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_59.mp3
   - japanese: いたす
     english: extra-modest expression for する
     kanji: 致す
+    kanji_readings:
+    - 致: いた
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_61.mp3
   - japanese: いただく
     english: extra-modest expression for たべる、のむ
     kanji: 頂く
+    kanji_readings:
+    - 頂: いただ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_63.mp3
   - japanese: ござる
     english: extra-modest expression for ある
     kanji: 御座る
+    kanji_readings:
+    - 御座: ござ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_65.mp3
   - japanese: ～ておる
     english: extra-modest expression for ～ている
     kanji: ～て居る（rare）
+    kanji_readings:
+    - 居: お
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_67.mp3
   - japanese: ～でござる
     english: extra-modest expression for です
     kanji: ～御座る（rare）
+    kanji_readings:
+    - 御座: でござ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_69.mp3
   - japanese: いただく
     english: humble expression for もらう
     kanji: 頂く
+    kanji_readings:
+    - 頂: いただ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_71.mp3
   - japanese: うかがう
     english: (1) to humbly visit (place に); to humbly ask (person に)
     kanji: 伺う
+    kanji_readings:
+    - 伺: うかが
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_73.mp3
   - japanese: まがる
     english: to turn (right/left) (corner を direction に)
     kanji: 曲がる
+    kanji_readings:
+    - 曲: ま
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_76.mp3
   - japanese: もどる
     english: to return; to come back (～に)
     kanji: 戻る
+    kanji_readings:
+    - 戻: もど
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_78.mp3
 - tags:
   - Ru-verbs
@@ -158,22 +224,32 @@ vocabulary:
   - japanese: さしあげる
     english: humble expression for あげる
     kanji: 差し上げる
+    kanji_readings:
+    - 差し上: さしあ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_81.mp3
   - japanese: きこえる
     english: to be audible (～が)
     kanji: 聞こえる
+    kanji_readings:
+    - 聞: き
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_83.mp3
   - japanese: つたえる
     english: to convey message (person に)
     kanji: 伝える
+    kanji_readings:
+    - 伝: つた
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_85.mp3
   - japanese: またせる
     english: to keep (someone) waiting (～を)
     kanji: 待たせる
+    kanji_readings:
+    - 待: ま
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_87.mp3
   - japanese: つづける
     english: to continue (～を)
     kanji: 続ける
+    kanji_readings:
+    - 続: つづ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_89.mp3
 - tags:
   - Irregular_Verbs
@@ -181,14 +257,20 @@ vocabulary:
   - japanese: こうかんする
     english: to exchange (XとYを)
     kanji: 交換する
+    kanji_readings:
+    - 交換: こうかん
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_92.mp3
   - japanese: へんぴんする
     english: to return (merchandise) (～を)
     kanji: 返品する
+    kanji_readings:
+    - 返品: へんぴん
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_94.mp3
   - japanese: せいかつする
     english: to lead a life
     kanji: 生活する
+    kanji_readings:
+    - 生活: せいかつ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_96.mp3
 - tags:
   - Adverbs_and_Other_Expressions
@@ -196,10 +278,15 @@ vocabulary:
   - japanese: ～かい
     english: …th floor
     kanji: ～階
+    kanji_readings:
+    - 階: かい
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_99.mp3
   - japanese: いっかい
     english: first floor
     kanji: 一階
+    kanji_readings:
+    - 一: いっ
+    - 階: かい
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_101.mp3
   - japanese: ～みたいなX
     english: X like …
@@ -207,6 +294,8 @@ vocabulary:
   - japanese: また
     english: again
     kanji: 又（rare）
+    kanji_readings:
+    - 又: また
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_105.mp3
   - japanese: では
     english: well then (polite)
@@ -214,24 +303,36 @@ vocabulary:
   - japanese: できれば
     english: if possible
     kanji: 出来れば（rare）
+    kanji_readings:
+    - 出来: でき
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_109.mp3
   - japanese: まことに
     english: really (very polite)
     kanji: 誠に
+    kanji_readings:
+    - 誠: まこと
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_111.mp3
   - japanese: よろしかったら
     english: if it is okay (polite)
     kanji: 宜しかったら
+    kanji_readings:
+    - 宜: よろ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_113.mp3
   - japanese: かしこまりました
     english: certainly
     kanji: 畏まりました（rare）
+    kanji_readings:
+    - 畏: かしこ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_115.mp3
   - japanese: しつれいしました
     english: I'm very sorry
     kanji: 失礼しました
+    kanji_readings:
+    - 失礼: しつれい
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_117.mp3
   - japanese: もうしわけありません
     english: You have my apologies (polite)
     kanji: 申し訳ありません
+    kanji_readings:
+    - 申し訳: もうしわけ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_119.mp3
