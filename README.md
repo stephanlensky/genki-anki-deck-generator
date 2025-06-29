@@ -34,3 +34,17 @@ Running these commands separately allows you to customize the behavior of each s
 ```bash
 uv run genki-anki-deck-generator process-audio --help
 ```
+
+### Generating missing audio files with TTS
+
+To automatically generate missing audio files using VOICEVOX text-to-speech:
+
+1. Download the VOICEVOX application from [VOICEVOX's official website](https://voicevox.hiroshiba.jp/).
+2. Start the VOICEVOX application, which automatically hosts a local API server on start-up.
+3. While VOICEVOX is running, run the following command to generate missing audio files:
+
+```bash
+uv run genki-anki-deck-generator generate-missing-audio
+```
+
+For convenience, all missing audio files have been pre-generated and will be downloaded automatically when you run the `uv run genki-anki-deck-generator download` command.
