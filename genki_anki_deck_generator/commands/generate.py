@@ -247,7 +247,5 @@ def add_media_file(media_files: dict[str, Path], file: Path) -> None:
     if not file.exists():
         raise FileNotFoundError(f"Media file {file} does not exist.")
     if file.name in media_files:
-        raise ValueError(
-            f"Cannot add file {file} (file with the same name already exists at {media_files[file.name]})."
-        )
+        return
     media_files[file.name] = file

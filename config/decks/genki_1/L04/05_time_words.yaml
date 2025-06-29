@@ -8,7 +8,8 @@ vocabulary:
   vocabulary:
   - japanese: おととい
     english: the day before yesterday
-    sound_file: tts/おととい_7802e.wav
+    kanji: 一昨日（rare）
+    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_104.mp3
   - japanese: きのう
     english: yesterday
     kanji: 昨日

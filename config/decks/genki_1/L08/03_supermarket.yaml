@@ -14,7 +14,8 @@ vocabulary:
     sound_file: tts/すいか_065f6.wav
   - japanese: みかん
     english: mandarin orange
-    sound_file: tts/みかん_b522f.wav
+    kanji: 蜜柑（rare）
+    sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3
   - japanese: りんご
     english: apple
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_17.mp3

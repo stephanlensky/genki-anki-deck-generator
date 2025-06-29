@@ -7,9 +7,9 @@ vocabulary:
   - foods
   vocabulary:
   - japanese: ごはん
-    english: (white) rice
+    english: (white) rice; meal
     kanji: ご飯
-    sound_file: tts/ごはん_a921f.wav
+    sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_34.mp3
   - japanese: おかず
     english: a couple of dishes
     sound_file: tts/おかず_ec049.wav
@@ -21,8 +21,9 @@ vocabulary:
     english: Curry with rice
     sound_file: tts/カレーライス_a369e.wav
   - japanese: おにぎり
-    english: Rice balls
-    sound_file: tts/おにぎり_273c0.wav
+    english: rice ball
+    kanji: お握り（rare）
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
   - japanese: ラーメン
     english: ramen noodles
     sound_file: tts/ラーメン_65247.wav

@@ -61,7 +61,8 @@ vocabulary:
     sound_file: tts/きょうはこれでおわります。_b3b9a.wav
   - japanese: しめきり
     english: deadline
-    sound_file: tts/しめきり_cc805.wav
+    kanji: 締め切り
+    sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_54.mp3
   - japanese: れんしゅう
     english: exercise
     kanji: 練習
@@ -121,7 +122,8 @@ vocabulary:
     sound_file: tts/きょうつうご_ea0a3.wav
   - japanese: たとえば
     english: for example
-    sound_file: tts/たとえば_8d216.wav
+    kanji: 例えば
+    sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_117.mp3
   - japanese: ほかに
     english: anything else
     sound_file: tts/ほかに_06149.wav

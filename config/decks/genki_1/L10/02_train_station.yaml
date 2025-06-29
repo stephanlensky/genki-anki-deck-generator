@@ -110,9 +110,9 @@ vocabulary:
     kanji: 次発
     sound_file: tts/じはつ_62ac3.wav
   - japanese: しゅうでん
-    english: last train
+    english: last train (of the day)
     kanji: 終電
-    sound_file: tts/しゅうでん_b9664.wav
+    sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_40.mp3
   - japanese: まもなくはっしゃします。
     english: We will be leaving soon.
     kanji: まもなく発車します。

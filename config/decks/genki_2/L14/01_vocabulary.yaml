@@ -19,11 +19,11 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_7.mp3
   - japanese: おじさん
     english: uncle; middle-aged man
-    kanji: 伯父さん(rare)
+    kanji: 伯父さん（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_9.mp3
   - japanese: おばさん
     english: aunt; middle-aged woman
-    kanji: 伯母さん(rare)
+    kanji: 伯母さん（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_12.mp3
   - japanese: りょうしん
     english: parents
@@ -42,7 +42,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_23.mp3
   - japanese: みかん
     english: mandarin orange
-    kanji: 蜜柑(rare)
+    kanji: 蜜柑（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3
   - japanese: トレーナー
     english: sweatshirt
@@ -66,7 +66,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
   - japanese: ぬいぐるみ
     english: stuffed animal (e.g. teddy bear)
-    kanji: 縫いぐるみ(rare)
+    kanji: 縫いぐるみ（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_39.mp3
   - japanese: まんが
     english: comic book
@@ -138,15 +138,15 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_76.mp3
   - japanese: あげる
     english: to give (to others) (person に thing を)
-    kanji: 上げる(rare)
+    kanji: 上げる（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_78.mp3
   - japanese: くれる
     english: To give (to me) (person に thing を)
-    kanji: 呉れる(rare)
+    kanji: 呉れる（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_80.mp3
   - japanese: できる
     english: to come into existence; to be made (~が)
-    kanji: 出来る (rare)
+    kanji: 出来る （rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_82.mp3
 - tags:
   - Irregular_Verbs
@@ -171,7 +171,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_94.mp3
   - japanese: 〜たち
     english: make a noun plural
-    kanji: 〜達(rare)
+    kanji: 〜達（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_97.mp3
   - japanese: わたしたち
     english: we/us
@@ -186,11 +186,11 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_104.mp3
   - japanese: ちょうど
     english: exactly
-    kanji: 丁度 (rare)
+    kanji: 丁度 （rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_106.mp3
   - japanese: よく
     english: well
-    kanji: 良く(rare)
+    kanji: 良く（rare）
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_108.mp3
   - japanese: さあ
     english: I am not sure…
