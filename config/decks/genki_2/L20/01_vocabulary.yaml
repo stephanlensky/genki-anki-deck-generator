@@ -8,230 +8,230 @@ vocabulary:
   vocabulary:
   - japanese: アニメ
     english: animation
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_3.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_3.mp3
   - japanese: しょうせつ
     english: novel
     kanji: 小説
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_5.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_5.mp3
   - japanese: しゅみ
     english: hobby; pastime
     kanji: 趣味
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_7.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_7.mp3
   - japanese: つき
     english: moon
     kanji: 月
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_9.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_9.mp3
   - japanese: うちゅうじん
     english: space alien
     kanji: 宇宙人
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_11.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_11.mp3
   - japanese: せんす
     english: (hand) fan
     kanji: 扇子
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_13.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_13.mp3
   - japanese: スニーカー
     english: sneakers
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_15.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_15.mp3
   - japanese: ヘッドホン
     english: headphones
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_17.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_17.mp3
   - japanese: おにぎり
     english: rice ball
     kanji: お握り（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
   - japanese: どうぶつ
     english: animal
     kanji: 動物
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_21.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_21.mp3
   - japanese: あちら
     english: that way (polite)
     kanji: 彼方（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_23.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_23.mp3
   - japanese: かかりのもの
     english: our person in charge
     kanji: 係りの者
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_25.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_25.mp3
   - japanese: おたく
     english: (someone's) home/house
     kanji: お宅
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_27.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_27.mp3
   - japanese: ～や
     english: …shop
     kanji: ～屋
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_30.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_30.mp3
   - japanese: してん
     english: branch office
     kanji: 支店
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_32.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_32.mp3
   - japanese: ドイツ
     english: Germany
     kanji: 独逸（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_34.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_34.mp3
   - japanese: しんごう
     english: traffic light
     kanji: 信号
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_36.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_36.mp3
   - japanese: かど
     english: corner
     kanji: 角
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_38.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_38.mp3
   - japanese: じ
     english: letter; character
     kanji: 字
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_40.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_40.mp3
   - japanese: おと
     english: sound
     kanji: 音
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_43.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_43.mp3
 - tags:
   - い-adjectives
   vocabulary:
   - japanese: おもい
     english: heavy; serious (illness)
     kanji: 重い
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_46.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_46.mp3
   - japanese: かるい
     english: light
     kanji: 軽い
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_49.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_49.mp3
 - tags:
   - な-adjectives
   vocabulary:
   - japanese: ふしぎ(な)
     english: mysterious
     kanji: 不思議
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_52.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_52.mp3
 - tags:
   - U-verbs
   vocabulary:
   - japanese: おる
     english: extra-modest expression for いる
     kanji: 居る（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_55.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_55.mp3
   - japanese: まいる
     english: extra-modest expression for いく、くる
     kanji: 参る
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_57.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_57.mp3
   - japanese: もうす
     english: extra-modest expression for いう
     kanji: 申す
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_59.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_59.mp3
   - japanese: いたす
     english: extra-modest expression for する
     kanji: 致す
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_61.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_61.mp3
   - japanese: いただく
     english: extra-modest expression for たべる、のむ
     kanji: 頂く
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_63.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_63.mp3
   - japanese: ござる
     english: extra-modest expression for ある
     kanji: 御座る
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_65.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_65.mp3
   - japanese: ～ておる
     english: extra-modest expression for ～ている
     kanji: ～て居る（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_67.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_67.mp3
   - japanese: ～でござる
     english: extra-modest expression for です
     kanji: ～御座る（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_69.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_69.mp3
   - japanese: いただく
     english: humble expression for もらう
     kanji: 頂く
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_71.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_71.mp3
   - japanese: うかがう
     english: (1) to humbly visit (place に); to humbly ask (person に)
     kanji: 伺う
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_73.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_73.mp3
   - japanese: まがる
     english: to turn (right/left) (corner を direction に)
     kanji: 曲がる
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_76.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_76.mp3
   - japanese: もどる
     english: to return; to come back (～に)
     kanji: 戻る
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_78.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_78.mp3
 - tags:
   - Ru-verbs
   vocabulary:
   - japanese: さしあげる
     english: humble expression for あげる
     kanji: 差し上げる
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_81.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_81.mp3
   - japanese: きこえる
     english: to be audible (～が)
     kanji: 聞こえる
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_83.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_83.mp3
   - japanese: つたえる
     english: to convey message (person に)
     kanji: 伝える
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_85.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_85.mp3
   - japanese: またせる
     english: to keep (someone) waiting (～を)
     kanji: 待たせる
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_87.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_87.mp3
   - japanese: つづける
     english: to continue (～を)
     kanji: 続ける
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_89.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_89.mp3
 - tags:
   - Irregular_Verbs
   vocabulary:
   - japanese: こうかんする
     english: to exchange (XとYを)
     kanji: 交換する
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_92.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_92.mp3
   - japanese: へんぴんする
     english: to return (merchandise) (～を)
     kanji: 返品する
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_94.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_94.mp3
   - japanese: せいかつする
     english: to lead a life
     kanji: 生活する
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_96.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_96.mp3
 - tags:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: ～かい
     english: …th floor
     kanji: ～階
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_99.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_99.mp3
   - japanese: いっかい
     english: first floor
     kanji: 一階
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_101.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_101.mp3
   - japanese: ～みたいなX
     english: X like …
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_103.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_103.mp3
   - japanese: また
     english: again
     kanji: 又（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_105.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_105.mp3
   - japanese: では
     english: well then (polite)
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_107.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_107.mp3
   - japanese: できれば
     english: if possible
     kanji: 出来れば（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_109.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_109.mp3
   - japanese: まことに
     english: really (very polite)
     kanji: 誠に
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_111.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_111.mp3
   - japanese: よろしかったら
     english: if it is okay (polite)
     kanji: 宜しかったら
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_113.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_113.mp3
   - japanese: かしこまりました
     english: certainly
     kanji: 畏まりました（rare）
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_115.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_115.mp3
   - japanese: しつれいしました
     english: I'm very sorry
     kanji: 失礼しました
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_117.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_117.mp3
   - japanese: もうしわけありません
     english: You have my apologies (polite)
     kanji: 申し訳ありません
-    sound_file: Kaiwa_Bunpo_L20/K20_05/K20_05_119.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_119.mp3

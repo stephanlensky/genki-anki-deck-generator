@@ -8,219 +8,219 @@ vocabulary:
   vocabulary:
   - japanese: おなか
     english: stomach
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3
   - japanese: あし
     english: leg; foot
     kanji: 足
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3
   - japanese: のど
     english: throat
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_8.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_8.mp3
   - japanese: は
     english: tooth
     kanji: 歯
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
   - japanese: インフルエンザ
     english: influenza
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_12.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_12.mp3
   - japanese: かぜ
     english: cold
     kanji: 風邪
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_14.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_14.mp3
   - japanese: せき
     english: cough
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_16.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_16.mp3
   - japanese: ふつかよい
     english: hangover
     kanji: 二日酔い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_18.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_18.mp3
   - japanese: ホームシック
     english: homesickness
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_20.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_20.mp3
   - japanese: アレルギー
     english: allergy
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_22.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_22.mp3
   - japanese: ジュース
     english: juice
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_24.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_24.mp3
   - japanese: たまご
     english: egg
     kanji: 卵
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_26.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_26.mp3
   - japanese: ふく
     english: clothes
     kanji: 服
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_28.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_28.mp3
   - japanese: もの
     english: thing (concrete object)
     kanji: 物
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_30.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_30.mp3
   - japanese: プレゼント
     english: present
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_32.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_32.mp3
   - japanese: きっぷ
     english: train ticket
     kanji: 切符
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_34.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_34.mp3
   - japanese: 〜だい
     english: charge; fee
     kanji: 〜代
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_36.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_36.mp3
   - japanese: ようじ
     english: business to take care of
     kanji: 用事
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_39.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_39.mp3
   - japanese: おてあらい
     english: restroom
     kanji: お手洗い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_41.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_41.mp3
   - japanese: しあい
     english: match; game
     kanji: 試合
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_43.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_43.mp3
   - japanese: せいじ
     english: politics
     kanji: 政治
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_46.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_46.mp3
   - japanese: せいせき
     english: grade (on a test, etc.)
     kanji: 成績
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_48.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_48.mp3
   - japanese: かのじょ
     english: she; girlfriend
     kanji: 彼女
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_50.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_50.mp3
   - japanese: かれ
     english: he; boyfriend
     kanji: 彼
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_53.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_53.mp3
   - japanese: かれし
     english: boyfriend
     kanji: 彼氏
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_56.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_56.mp3
   - japanese: いみ
     english: meaning
     kanji: 意味
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_58.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_58.mp3
 - tags:
   - い-adjectives
   vocabulary:
   - japanese: せまい
     english: narrow; not spacious
     kanji: 狭い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_61.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_61.mp3
   - japanese: ひろい
     english: wide; spacious
     kanji: 広い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_63.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_63.mp3
   - japanese: わるい
     english: bad
     kanji: 悪い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_66.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_66.mp3
   - japanese: いたい
     english: hurt; painful
     kanji: 痛い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_68.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_68.mp3
   - japanese: あまい
     english: sweet
     kanji: 甘い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_71.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_71.mp3
   - japanese: おおい
     english: there are many ...
     kanji: 多い
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_73.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_73.mp3
 - tags:
   - な-adjectives
   vocabulary:
   - japanese: すてき（な）
     english: nice
     kanji: 素敵
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_76.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_76.mp3
 - tags:
   - U-verbs
   vocabulary:
   - japanese: あるく
     english: to walk
     kanji: 歩く
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_79.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_79.mp3
   - japanese: かぜをひく
     english: to catch a cold
     kanji: 風邪をひく
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_81.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_81.mp3
   - japanese: ねつがある
     english: to have a fever
     kanji: 熱がある
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_83.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_83.mp3
   - japanese: のどがかわく
     english: to become thirsty
     kanji: 喉が渇く
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_85.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_85.mp3
   - japanese: はらう
     english: to pay (〜を)
     kanji: 払う
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_87.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_87.mp3
   - japanese: なくす
     english: to lose (〜を)
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_89.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_89.mp3
   - japanese: きょうみがある
     english: to be interested (in ...) (<i>topic </i>に)
     kanji: 興味がある
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_91.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_91.mp3
 - tags:
   - Ru-verbs
   vocabulary:
   - japanese: せきがでる
     english: to cough
     kanji: せきが出る
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_94.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_94.mp3
   - japanese: わかれる
     english: to break up; to separate (<i>person</i>&nbsp;と)
     kanji: 別れる
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_96.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_96.mp3
 - tags:
   - Irregular_Verbs
   vocabulary:
   - japanese: きんちょうする
     english: to get nervous
     kanji: 緊張する
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_100.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_100.mp3
   - japanese: しんぱいする
     english: to worry
     kanji: 心配する
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_102.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_102.mp3
 - tags:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: おだいじに
     english: Get well soon.
     kanji: お大事に
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_105.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_105.mp3
   - japanese: げんきがない
     english: don't look well
     kanji: 元気がない
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_107.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_107.mp3
   - japanese: できるだけ
     english: as much as possible
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_109.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_109.mp3
   - japanese: たぶん
     english: probably; maybe
     kanji: 多分
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_111.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_111.mp3
   - japanese: もうすぐ
     english: very soon; in a few moments/days
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_114.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_114.mp3
   - japanese: はじめて
     english: for the first time
     kanji: 初めて
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_118.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_118.mp3
   - japanese: にさんにち
     english: for two to three days
     kanji: 二三日
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_120.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_120.mp3
   - japanese: それに
     english: moreover, ...
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_122.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_122.mp3
   - japanese: おなじ
     english: same
     kanji: 同じ
-    sound_file: Kaiwa_Bunpo_L12/K12_05/K12_05_124.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_124.mp3

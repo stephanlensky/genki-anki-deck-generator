@@ -9,7 +9,7 @@ vocabulary:
   - japanese: ほん
     english: book
     kanji: 本
-    sound_file: Kaiwa_Bunpo_L02/K02_05/K02_05_72.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_72.mp3
   - japanese: こくばん
     english: blackboard
     kanji: 黒板
@@ -17,7 +17,7 @@ vocabulary:
   - japanese: つくえ
     english: desk
     kanji: 机
-    sound_file: Kaiwa_Bunpo_L04/K04_07/K04_07_25.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_25.mp3
   - japanese: けしゴム
     english: eraser
     kanji: 消しゴム
@@ -25,25 +25,25 @@ vocabulary:
   - japanese: じしょ
     english: dictionary
     kanji: 辞書
-    sound_file: Kaiwa_Bunpo_L15/K15_07/K15_07_14.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_14.mp3
   - japanese: えんぴつ
     english: pencil
     kanji: 鉛筆
-    sound_file: Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
   - japanese: でんき
     english: electricity; light
     kanji: 電気
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
   - japanese: ドア
     english: door
     sound_file: tts/ドア_f7030.wav
   - japanese: カーテン
     english: curtain
-    sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
   - japanese: まど
     english: window
     kanji: 窓
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
   - japanese: いす
     english: chair
     kanji: 椅子

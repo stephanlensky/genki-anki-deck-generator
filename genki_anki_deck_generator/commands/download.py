@@ -15,14 +15,14 @@ def run(args: argparse.Namespace) -> None:
     audio_dir = config.download_dir / "audio"
     fonts_dir = config.download_dir / "fonts"
 
-    for deck in config.decks:
-        deck_dir = audio_dir / deck
+    for audio_source in config.sources.audio:
+        deck_dir = audio_dir / audio_source
         if not deck_dir.exists():
             google_drive_download(
-                file_id=config.sources.audio[deck], destination=deck_dir, unzip=True
+                file_id=config.sources.audio[audio_source], destination=deck_dir, unzip=True
             )
         else:
-            print(f"Skipping download of {config.decks[deck]} audio, already exists at {deck_dir}")
+            print(f"Skipping download of {audio_source} audio, already exists at {deck_dir}")
 
     if not fonts_dir.exists():
         google_drive_download(

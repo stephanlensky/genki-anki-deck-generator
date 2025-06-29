@@ -17,7 +17,7 @@ vocabulary:
     sound_file: tts/みかん_b522f.wav
   - japanese: りんご
     english: apple
-    sound_file: Kaiwa_Bunpo_L10/K10_05/K10_05_17.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_17.mp3
   - japanese: もも
     english: peach
     sound_file: tts/もも_0bbab.wav

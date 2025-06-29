@@ -9,206 +9,206 @@ vocabulary:
   - japanese: たべもの
     english: food
     kanji: 食べ物
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_3.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_3.mp3
   - japanese: のみもの
     english: drink
     kanji: 飲み物
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_5.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_5.mp3
   - japanese: くだもの
     english: fruit
     kanji: 果物
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_7.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_7.mp3
   - japanese: やすみ
     english: holiday; day off; absence
     kanji: 休み
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_9.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_9.mp3
   - japanese: りょこう
     english: travel
     kanji: 旅行
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_13.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_13.mp3
   - japanese: うみ
     english: sea
     kanji: 海
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_15.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_15.mp3
   - japanese: サーフィン
     english: surfing
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_17.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_17.mp3
   - japanese: おみやげ
     english: souvenir
     kanji: お土産
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_19.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_19.mp3
   - japanese: バス
     english: bus
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_21.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_21.mp3
   - japanese: てんき
     english: weather
     kanji: 天気
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_23.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_23.mp3
   - japanese: しゅくだい
     english: homework
     kanji: 宿題
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_25.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_25.mp3
   - japanese: テスト
     english: test
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_27.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_27.mp3
   - japanese: たんじょうび
     english: birthday
     kanji: 誕生日
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_29.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_29.mp3
   - japanese: へや
     english: room
     kanji: 部屋
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_31.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_31.mp3
   - japanese: ぼく
     english: I (used by men)
     kanji: 僕
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_33.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_33.mp3
   - japanese: Lサイズ（エルサイズ）
     english: size L
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_35.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_35.mp3
 - tags:
   - い-adjectives
   vocabulary:
   - japanese: あたらしい
     english: new
     kanji: 新しい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_38.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_38.mp3
   - japanese: ふるい
     english: old (thing - not used for people)
     kanji: 古い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_40.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_40.mp3
   - japanese: あつい
     english: hot
     kanji: 暑い (weather) 熱い (thing)
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_42.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_42.mp3
   - japanese: さむい
     english: cold (weather - not used for things)
     kanji: 寒い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_44.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_44.mp3
   - japanese: いそがしい
     english: busy (people/days)
     kanji: 忙しい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_48.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_48.mp3
   - japanese: おおきい
     english: large
     kanji: 大きい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_50.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_50.mp3
   - japanese: ちいさい
     english: small
     kanji: 小さい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_52.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_52.mp3
   - japanese: おもしろい
     english: interesting; funny
     kanji: 面白い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_54.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_54.mp3
   - japanese: つまらない
     english: boring
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_57.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_57.mp3
   - japanese: やさしい
     english: easy (problem); kind (person)
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_59.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_59.mp3
   - japanese: むずかしい
     english: difficult
     kanji: 難しい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_62.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_62.mp3
   - japanese: かっこいい
     english: good-looking (conjugates like いい)
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_64.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_64.mp3
   - japanese: こわい
     english: frightening
     kanji: 怖い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_66.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_66.mp3
   - japanese: たのしい
     english: fun
     kanji: 楽しい
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_68.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_68.mp3
   - japanese: やすい
     english: inexpensive; cheap (thing)
     kanji: 安い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_70.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_70.mp3
 - tags:
   - な-adjectives
   vocabulary:
   - japanese: すき（な）
     english: fond of; to like (〜が)
     kanji: 好き
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_74.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_74.mp3
   - japanese: きらい（な）
     english: disgusted with; to dislike (〜が)
     kanji: 嫌い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_77.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_77.mp3
   - japanese: だいすき（な）
     english: very fond of; to love (〜が)
     kanji: 大好き
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_80.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_80.mp3
   - japanese: だいきらい（な）
     english: to hate (〜が)
     kanji: 大嫌い
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_83.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_83.mp3
   - japanese: きれい（な）
     english: beautiful; clean
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_85.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_85.mp3
   - japanese: げんき（な）
     english: healthy; energetic
     kanji: 元気
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_88.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_88.mp3
   - japanese: しずか（な）
     english: quiet
     kanji: 静か
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_91.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_91.mp3
   - japanese: にぎやか（な）
     english: lively
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_93.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_93.mp3
   - japanese: ひま（な）
     english: not busy; free (time)
     kanji: 暇
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_95.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_95.mp3
 - tags:
   - U-verbs
   vocabulary:
   - japanese: およぐ
     english: to swim
     kanji: 泳ぐ
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_99.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_99.mp3
   - japanese: きく
     english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
     kanji: 聞く
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_101.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_101.mp3
   - japanese: のる
     english: to ride; to board (〜に)
     kanji: 乗る
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_103.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_103.mp3
   - japanese: やる
     english: to do; to perform (〜を)
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_106.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_106.mp3
 - tags:
   - Ru-verbs
   vocabulary:
   - japanese: でかける
     english: to go out
     kanji: 出かける
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_110.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_110.mp3
 - tags:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: いっしょに
     english: together
     kanji: 一緒に
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_113.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_113.mp3
   - japanese: すごく
     english: extremely
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_115.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_115.mp3
   - japanese: だいじょうぶ
     english: It's okay; Not to worry; Everything is under control.
     kanji: 大丈夫
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_117.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_117.mp3
   - japanese: とても
     english: very
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_121.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_121.mp3
   - japanese: どんな
     english: what kind of ...
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_123.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_123.mp3
   - japanese: 〜まい
     english: '[counter for flat objects]'
     kanji: 〜枚
-    sound_file: Kaiwa_Bunpo_L05/K05_07/K05_07_125.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_125.mp3

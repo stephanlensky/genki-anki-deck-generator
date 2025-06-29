@@ -142,7 +142,7 @@ def run(args: argparse.Namespace) -> None:
         for template in templates:
             for template_card_index, card in enumerate(template.iter_cards()):
                 qualified_sound_file_path: Path | None = (
-                    Path("sources/audio") / deck / card.sound_file if card.sound_file else None
+                    Path("sources/audio") / card.sound_file if card.sound_file else None
                 )
                 note = GenkiNote(
                     model=model,

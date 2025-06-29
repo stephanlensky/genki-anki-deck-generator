@@ -9,108 +9,108 @@ vocabulary:
   - japanese: ひゃく
     english: '100'
     kanji: 百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_4.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_4.mp3
   - japanese: にひゃく
     english: '200'
     kanji: 二百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_5.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_5.mp3
   - japanese: さんびゃく*
     english: '300'
     kanji: 三百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_6.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_6.mp3
   - japanese: よんひゃく
     english: '400'
     kanji: 四百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_7.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_7.mp3
   - japanese: ごひゃく
     english: '500'
     kanji: 五百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_8.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_8.mp3
   - japanese: ろっぴゃく*
     english: '600'
     kanji: 六百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_9.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_9.mp3
   - japanese: ななひゃく
     english: '700'
     kanji: 七百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_10.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_10.mp3
   - japanese: はっぴゃく*
     english: '800'
     kanji: 八百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_11.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_11.mp3
   - japanese: きゅうひゃく
     english: '900'
     kanji: 九百
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_12.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_12.mp3
   - japanese: せん
     english: '1000'
     kanji: 千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_13.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_13.mp3
   - japanese: にせん
     english: '2000'
     kanji: 二千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_14.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_14.mp3
   - japanese: さんぜん*
     english: '3000'
     kanji: 三千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_15.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_15.mp3
   - japanese: よんせん
     english: '4000'
     kanji: 四千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_16.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_16.mp3
   - japanese: ごせん
     english: '5000'
     kanji: 五千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_17.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_17.mp3
   - japanese: ろくせん
     english: '6000'
     kanji: 六千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_18.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_18.mp3
   - japanese: ななせん
     english: '7000'
     kanji: 七千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_19.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_19.mp3
   - japanese: はっせん*
     english: '8000'
     kanji: 八千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_20.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_20.mp3
   - japanese: きゅうせん
     english: '9000'
     kanji: 九千
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_21.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_21.mp3
   - japanese: いちまん*
     english: '10000'
     kanji: 一万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_22.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_22.mp3
   - japanese: にまん
     english: '20000'
     kanji: 二万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_23.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_23.mp3
   - japanese: さんまん
     english: '30000'
     kanji: 三万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_24.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_24.mp3
   - japanese: よんまん
     english: '40000'
     kanji: 四万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_25.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_25.mp3
   - japanese: ごまん
     english: '50000'
     kanji: 五万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_26.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_26.mp3
   - japanese: ろくまん
     english: '60000'
     kanji: 六万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_27.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_27.mp3
   - japanese: ななまん
     english: '70000'
     kanji: 七万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_28.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_28.mp3
   - japanese: はちまん
     english: '80000'
     kanji: 八万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_29.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_29.mp3
   - japanese: きゅうまん
     english: '90000'
     kanji: 九万
-    sound_file: Kaiwa_Bunpo_L02/K02_07/K02_07_30.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_07/K02_07_30.mp3

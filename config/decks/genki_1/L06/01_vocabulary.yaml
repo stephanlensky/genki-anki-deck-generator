@@ -9,196 +9,196 @@ vocabulary:
   - japanese: かんじ
     english: kanji; Chinese character
     kanji: 漢字
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_3.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_3.mp3
   - japanese: きょうかしょ
     english: textbook
     kanji: 教科書
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_6.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_6.mp3
   - japanese: ページ
     english: page
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_8.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_8.mp3
   - japanese: つぎ
     english: next
     kanji: 次
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_10.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_10.mp3
   - japanese: おかね
     english: money
     kanji: お金
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_12.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_12.mp3
   - japanese: にもつ
     english: baggage
     kanji: 荷物
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_14.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_14.mp3
   - japanese: パソコン
     english: personal computer
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_16.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_16.mp3
   - japanese: シャワー
     english: shower
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_18.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_18.mp3
   - japanese: エアコン
     english: air conditioner
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_20.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_20.mp3
   - japanese: でんき
     english: electricity; light
     kanji: 電気
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
   - japanese: まど
     english: window
     kanji: 窓
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
   - japanese: でんしゃ
     english: train
     kanji: 電車
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_27.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_27.mp3
   - japanese: くに
     english: country; place of origin
     kanji: 国
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_29.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_29.mp3
   - japanese: こんしゅう
     english: this week
     kanji: 今週
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_32.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_32.mp3
   - japanese: らいしゅう
     english: next week
     kanji: 来週
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_34.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_34.mp3
   - japanese: らいねん
     english: next year
     kanji: 来年
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_36.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_36.mp3
   - japanese: よる
     english: night
     kanji: 夜
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_38.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_38.mp3
 - tags:
   - な-adjectives
   vocabulary:
   - japanese: たいへん（な）
     english: tough (situation)
     kanji: 大変
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_41.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_41.mp3
 - tags:
   - U-verbs
   vocabulary:
   - japanese: あそぶ
     english: to play; to spend time pleasantly
     kanji: 遊ぶ
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_44.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_44.mp3
   - japanese: いそぐ
     english: to hurry
     kanji: 急ぐ
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_47.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_47.mp3
   - japanese: かえす
     english: to return (a thing) (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
     kanji: 返す
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_49.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_49.mp3
   - japanese: けす
     english: to turn off; to erase (〜を)
     kanji: 消す
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_51.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_51.mp3
   - japanese: しぬ
     english: to die
     kanji: 死ぬ
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_54.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_54.mp3
   - japanese: すわる
     english: to sit down (<i>seat</i>&nbsp;に)
     kanji: 座る
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_56.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_56.mp3
   - japanese: たつ
     english: to stand up
     kanji: 立つ
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_58.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_58.mp3
   - japanese: たばこをすう
     english: to smoke
     kanji: たばこを吸う
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_60.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_60.mp3
   - japanese: つかう
     english: to use (〜を)
     kanji: 使う
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_62.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_62.mp3
   - japanese: てつだう
     english: to help (<i>person</i>/<i>task</i>&nbsp;を)
     kanji: 手伝う
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_64.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_64.mp3
   - japanese: はいる
     english: to enter (〜に)
     kanji: 入る
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_66.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_66.mp3
   - japanese: もつ
     english: to carry; to hold (〜を)
     kanji: 持つ
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_68.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_68.mp3
   - japanese: やすむ
     english: (1) to be absent (from ...) (〜を)<div>(2) to rest</div>
     kanji: 休む
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_71.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_71.mp3
 - tags:
   - Ru-verbs
   vocabulary:
   - japanese: あける
     english: to open (something) (〜を)
     kanji: 開ける
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_75.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_75.mp3
   - japanese: しめる
     english: to close (something) (〜を)
     kanji: 閉める
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_77.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_77.mp3
   - japanese: おしえる
     english: to teach; to instruct (person に thing を)
     kanji: 教える
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_79.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_79.mp3
   - japanese: わすれる
     english: to forget; to leave behind (〜を)
     kanji: 忘れる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_82.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_82.mp3
   - japanese: おりる
     english: to get off (〜を)
     kanji: 降りる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_85.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_85.mp3
   - japanese: かりる
     english: to borrow (person に thing を)
     kanji: 借りる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_87.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_87.mp3
   - japanese: シャワーをあびる
     english: to take a shower
     kanji: シャワーを浴びる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_89.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_89.mp3
   - japanese: つける
     english: to turn on (〜を)
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_91.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_91.mp3
 - tags:
   - Irregular_Verbs
   vocabulary:
   - japanese: でんわする
     english: to call (〜に)
     kanji: 電話する
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_94.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_94.mp3
   - japanese: つれてくる
     english: to bring (a person) (〜を)
     kanji: 連れてくる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_96.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_96.mp3
   - japanese: もってくる
     english: to bring (a thing) (〜を)
     kanji: 持ってくる
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_98.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_98.mp3
 - tags:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: あとで
     english: later on
     kanji: 後で
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_101.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_101.mp3
   - japanese: すぐ
     english: right away
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_103.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_103.mp3
   - japanese: ゆっくり
     english: slowly; leisurely; unhurriedly
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_105.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_105.mp3
   - japanese: けっこうです
     english: That would be fine.; That wouldn't be necessary.
     kanji: 結構です
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_109.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_109.mp3
   - japanese: ほんとうですか
     english: Really?
     kanji: 本当ですか
-    sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_112.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_112.mp3

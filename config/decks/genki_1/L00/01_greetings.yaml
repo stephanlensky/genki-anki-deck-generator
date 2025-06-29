@@ -8,58 +8,58 @@ vocabulary:
   vocabulary:
   - japanese: おはよう。
     english: Good morning.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_1.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_1.mp3
   - japanese: おはよう　ございます。
     english: Good morning. (polite)
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_3.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_3.mp3
   - japanese: こんにちは。
     english: Good afternoon.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_5.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_5.mp3
   - japanese: こんばんは。
     english: Good evening.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_7.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_7.mp3
   - japanese: さようなら。
     english: Good-bye.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_9.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_9.mp3
   - japanese: おやすみ（なさい）。
     english: Good night.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_11.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_11.mp3
   - japanese: ありがとう。
     english: Thank you.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_13.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_13.mp3
   - japanese: ありがとう　ございます。
     english: Thank you. (polite)
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_15.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_15.mp3
   - japanese: すみません。
     english: Excuse me.; I'm sorry.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_17.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_17.mp3
   - japanese: いいえ。
     english: No.; Not at all.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_20.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_20.mp3
   - japanese: いってきます。
     english: I'll go and come back.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_22.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_22.mp3
   - japanese: いってらっしゃい。
     english: Please go and come back.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_24.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_24.mp3
   - japanese: ただいま。
     english: I'm home.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_26.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_26.mp3
   - japanese: おかえり（なさい）。
     english: Welcome home.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_28.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_28.mp3
   - japanese: いただきます。
     english: Thank you for the meal. (before eating)
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_30.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_30.mp3
   - japanese: ごちそうさま（でした）。
     english: Thank you for the meal. (after eating)
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_32.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_32.mp3
   - japanese: はじめまして。
     english: How do you do?
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_34.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_34.mp3
   - japanese: 〜です。
     english: I am ...
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_36.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_36.mp3
   - japanese: よろしく　おねがいします。
     english: Nice to meet you.
-    sound_file: Kaiwa_Bunpo_L00/K00_01/K00_01_38.mp3
+    sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_38.mp3
