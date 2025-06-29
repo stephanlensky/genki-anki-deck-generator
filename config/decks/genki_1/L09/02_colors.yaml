@@ -25,42 +25,57 @@ vocabulary:
   - japanese: きいろい
     english: yellow
     kanji: 黄色い
+    sound_file: tts/きいろい_41a40.wav
   - japanese: ちゃいろい
     english: brown
     kanji: 茶色い
+    sound_file: tts/ちゃいろい_ce825.wav
   - japanese: みどり／グリーン
     english: green
     kanji: 緑
+    sound_file: tts/みどり／グリーン_f5a82.wav
   - japanese: こんいろ
     english: navy blue
     kanji: 紺色
+    sound_file: tts/こんいろ_1f7c5.wav
   - japanese: みずいろ
     english: light blue
     kanji: 水色
+    sound_file: tts/みずいろ_7216d.wav
   - japanese: ぎんいろ／シルバー
     english: silver
     kanji: 銀色
+    sound_file: tts/ぎんいろ／シルバー_6a786.wav
   - japanese: オレンジ
     english: orange
+    sound_file: tts/オレンジ_f6ad8.wav
   - japanese: むらさき
     english: purple
     kanji: 紫
+    sound_file: tts/むらさき_12e98.wav
   - japanese: はいいろ／グレー
     english: gray
     kanji: 灰色
+    sound_file: tts/はいいろ／グレー_f0b70.wav
   - japanese: きんいろ／ゴールド
     english: gold
     kanji: 金色
+    sound_file: tts/きんいろ／ゴールド_39a32.wav
   - japanese: ピンク
     english: pink
+    sound_file: tts/ピンク_14f39.wav
   - japanese: ベージュ
     english: beige
+    sound_file: tts/ベージュ_70307.wav
   - japanese: かおがあおいですね。
     english: You look pale.
     kanji: 顔が青いですね。
+    sound_file: tts/かおがあおいですね。_92302.wav
   - japanese: しろくろのしゃしん
     english: black and white picture
     kanji: 白黒の写真
+    sound_file: tts/しろくろのしゃしん_474ff.wav
   - japanese: あおしんごう
     english: green light
     kanji: 青信号
+    sound_file: tts/あおしんごう_ed576.wav

@@ -9,85 +9,115 @@ vocabulary:
   - japanese: げりです。
     english: I have diarrhea.
     kanji: 下痢です。
+    sound_file: tts/げりです。_d428d.wav
   - japanese: べんぴです。
     english: I am constipated.
     kanji: 便秘です。
+    sound_file: tts/べんぴです。_a4d2f.wav
   - japanese: せいりです。
     english: I have my period.
     kanji: 生理です。
+    sound_file: tts/せいりです。_07a94.wav
   - japanese: かふんしょうです。
     english: I have hay fever.
     kanji: 花粉症です。
+    sound_file: tts/かふんしょうです。_6010a.wav
   - japanese: （〜に）アレルギーがあります。
     english: I have an allergy to ...
+    sound_file: tts/（〜に）アレルギーがあります。_4694d.wav
   - japanese: むしばがあります。
     english: I have a bad tooth.
     kanji: 虫歯があります。
+    sound_file: tts/むしばがあります。_88f7f.wav
   - japanese: くしゃみがでます。
     english: I sneeze.
     kanji: くしゃみが出ます。
+    sound_file: tts/くしゃみがでます。_85c8a.wav
   - japanese: はなみずがでます。
     english: I have a runny nose.
     kanji: 鼻水が出ます。
+    sound_file: tts/はなみずがでます。_68679.wav
   - japanese: せなかがかゆいです。
     english: My back itches.
     kanji: 背中がかゆいです。
+    sound_file: tts/せなかがかゆいです。_a9804.wav
   - japanese: はっしんがあります。
     english: I have rashes.
     kanji: 発疹があります。
+    sound_file: tts/はっしんがあります。_dc380.wav
   - japanese: めまいがします。
     english: I feel dizzy.
+    sound_file: tts/めまいがします。_8967e.wav
   - japanese: はきました。
     english: I threw up.
     kanji: 吐きました。
+    sound_file: tts/はきました。_dae98.wav
   - japanese: きぶんがわるいです。
     english: I am not feeling well.
     kanji: 気分が悪いです。
+    sound_file: tts/きぶんがわるいです。_ab6ed.wav
   - japanese: やけどをしました。
     english: I burned myself.
+    sound_file: tts/やけどをしました。_c0de7.wav
   - japanese: あしをこっせつしました。
     english: I broke my leg.
     kanji: 足を骨折しました。
+    sound_file: tts/あしをこっせつしました。_11f07.wav
   - japanese: けがをしました。
     english: I hurt myself.
+    sound_file: tts/けがをしました。_7a35a.wav
   - japanese: ないか
     english: physician
     kanji: 内科
+    sound_file: tts/ないか_ae456.wav
   - japanese: ひふか
     english: dermatologist
     kanji: 皮膚科
+    sound_file: tts/ひふか_dff5c.wav
   - japanese: げか
     english: surgeon
     kanji: 外科
+    sound_file: tts/げか_40ab9.wav
   - japanese: さんふじんか
     english: obsterician and gynecologist
     kanji: 産婦人科
+    sound_file: tts/さんふじんか_13004.wav
   - japanese: せいけいげか
     english: orthopedic surgeon
     kanji: 整形外科
+    sound_file: tts/せいけいげか_24e42.wav
   - japanese: がんか（めいしゃ）
     english: ophthalmologist
     kanji: 眼科（目医者）
+    sound_file: tts/がんか（めいしゃ）_18ef3.wav
   - japanese: しか（はいしゃ）
     english: dentist
     kanji: 歯科（歯医者）
+    sound_file: tts/しか（はいしゃ）_52c23.wav
   - japanese: じびか
     english: otorhinolaryngologist; ENT doctor
     kanji: 耳鼻科
+    sound_file: tts/じびか_1473c.wav
   - japanese: こうせいぶっしつ
     english: antibiotic
     kanji: 抗生物質
+    sound_file: tts/こうせいぶっしつ_8b8c8.wav
   - japanese: レントゲン
     english: X-ray
+    sound_file: tts/レントゲン_34a63.wav
   - japanese: しゅじゅつ
     english: operation
     kanji: 手術
+    sound_file: tts/しゅじゅつ_35373.wav
   - japanese: ちゅうしゃ
     english: injection
     kanji: 注射
+    sound_file: tts/ちゅうしゃ_4cde3.wav
   - japanese: たいおんけい
     english: thermometer
     kanji: 体温計
+    sound_file: tts/たいおんけい_521f1.wav
   - japanese: てんてき
     english: intravenous feeding
     kanji: 点滴
+    sound_file: tts/てんてき_9f947.wav

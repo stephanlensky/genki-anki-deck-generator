@@ -9,65 +9,86 @@ vocabulary:
   - japanese: ふつう
     english: local (train)
     kanji: 普通
+    sound_file: tts/ふつう_69530.wav
   - japanese: きゅうこう
     english: express (train)
     kanji: 急行
+    sound_file: tts/きゅうこう_91832.wav
   - japanese: とっきゅう
     english: super express (train)
     kanji: 特急
+    sound_file: tts/とっきゅう_5787c.wav
   - japanese: 〜いき
     english: bound for ...
     kanji: 〜行き
+    sound_file: tts/〜いき_dfa75.wav
   - japanese: 〜ほうめん
     english: serving ... areas
     kanji: 〜方面
+    sound_file: tts/〜ほうめん_ca44a.wav
   - japanese: じょうしゃけん
     english: (boarding) ticket
     kanji: 乗車券
+    sound_file: tts/じょうしゃけん_a22db.wav
   - japanese: ていきけん
     english: commuter's pass
     kanji: 定期券
+    sound_file: tts/ていきけん_53c74.wav
   - japanese: がくわり
     english: student discount
     kanji: 学割
+    sound_file: tts/がくわり_c02e9.wav
   - japanese: していせき
     english: reserved seat
     kanji: 指定席
+    sound_file: tts/していせき_9f951.wav
   - japanese: こうつうけいアイシーカード
     english: rechargeable card such as Suica, Icoca, Pasmo, etc.
     kanji: 交通系ICカード
+    sound_file: tts/こうつうけいアイシーカード_631ee.wav
   - japanese: じゆうせき
     english: general admission seat
     kanji: 自由席
+    sound_file: tts/じゆうせき_47452.wav
   - japanese: いちごうしゃ
     english: Car No. 1
     kanji: 一号車
+    sound_file: tts/いちごうしゃ_7823d.wav
   - japanese: おうふく
     english: round trip
     kanji: 往復
+    sound_file: tts/おうふく_dd3ed.wav
   - japanese: かたみち
     english: one way
     kanji: 片道
+    sound_file: tts/かたみち_61aee.wav
   - japanese: 〜ばんせん
     english: track number ...
     kanji: 〜番線
+    sound_file: tts/〜ばんせん_7aea3.wav
   - japanese: きっぷうりば
     english: ticket vending area
     kanji: 切符売り場
+    sound_file: tts/きっぷうりば_3f54e.wav
   - japanese: かいさつ
     english: gate
     kanji: 改札
+    sound_file: tts/かいさつ_a51fe.wav
   - japanese: ホーム
     english: platform
+    sound_file: tts/ホーム_c4565.wav
   - japanese: ばいてん
     english: shop; stand
     kanji: 売店
+    sound_file: tts/ばいてん_c7e78.wav
   - japanese: でぐち
     english: exit
     kanji: 出口
+    sound_file: tts/でぐち_258c9.wav
   - japanese: いりぐち
     english: entrance
     kanji: 入口
+    sound_file: tts/いりぐち_f0575.wav
   - japanese: かいだん
     english: stairs
     kanji: 階段
@@ -75,42 +96,56 @@ vocabulary:
   - japanese: のりかえ
     english: transfer
     kanji: 乗り換え
+    sound_file: tts/のりかえ_9cdfd.wav
   - japanese: つぎは〜
     english: next (stop), ...
     kanji: 次は〜
+    sound_file: tts/つぎは〜_1cb67.wav
   - japanese: せんぱつ
     english: departing first
     kanji: 先発
+    sound_file: tts/せんぱつ_f7d53.wav
   - japanese: じはつ
     english: departing second
     kanji: 次発
+    sound_file: tts/じはつ_62ac3.wav
   - japanese: しゅうでん
     english: last train
     kanji: 終電
+    sound_file: tts/しゅうでん_b9664.wav
   - japanese: まもなくはっしゃします。
     english: We will be leaving soon.
     kanji: まもなく発車します。
+    sound_file: tts/まもなくはっしゃします。_21c5f.wav
   - japanese: でんしゃがまいります。
     english: A train is arriving.
     kanji: 電車が参ります。
+    sound_file: tts/でんしゃがまいります。_2e013.wav
   - japanese: つぎは〜にとまります。
     english: Next (we'll stop at) ...
     kanji: 次は〜に止まります。
+    sound_file: tts/つぎは〜にとまります。_51564.wav
   - japanese: ドアがしまります。ごちゅういください。
     english: The doors are closing. Please be careful.
     kanji: ドアが閉まります。ご注意ください。
+    sound_file: tts/ドアがしまります。ごちゅういください。_c4c66.wav
   - japanese: このでんしゃはあきはばらにとまりますか。
     english: Does this train stop at Akihabara?
     kanji: この電車は秋葉原に止まりますか。
+    sound_file: tts/このでんしゃはあきはばらにとまりますか。_e8e48.wav
   - japanese: しゅうでんはなんじですか。
     english: What time is the last train?
     kanji: 終電は何時ですか。
+    sound_file: tts/しゅうでんはなんじですか。_355aa.wav
   - japanese: とうきょうまでのしていせきをいちまいおねがいします。
     english: One reserved ticket to Tokyo, please.
     kanji: 東京までの指定席を一枚お願いします。
+    sound_file: tts/とうきょうまでのしていせきをいちまいおねがいします。_54da7.wav
   - japanese: がくわりがつかえますか。
     english: Can I get a student discount?
     kanji: 学割が使えますか。
+    sound_file: tts/がくわりがつかえますか。_1a2da.wav
   - japanese: かまくらいきのでんしゃはどれですか。
     english: Which one is the train bound for Kamakura?
     kanji: 鎌倉行きの電車はどれですか。
+    sound_file: tts/かまくらいきのでんしゃはどれですか。_bb5ab.wav

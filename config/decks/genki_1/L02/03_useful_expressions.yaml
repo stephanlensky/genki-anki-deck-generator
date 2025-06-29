@@ -13,6 +13,7 @@ vocabulary:
   - japanese: こくばん
     english: blackboard
     kanji: 黒板
+    sound_file: tts/こくばん_ab9e6.wav
   - japanese: つくえ
     english: desk
     kanji: 机
@@ -20,6 +21,7 @@ vocabulary:
   - japanese: けしゴム
     english: eraser
     kanji: 消しゴム
+    sound_file: tts/けしゴム_6633d.wav
   - japanese: じしょ
     english: dictionary
     kanji: 辞書
@@ -34,6 +36,7 @@ vocabulary:
     sound_file: Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
   - japanese: ドア
     english: door
+    sound_file: tts/ドア_f7030.wav
   - japanese: カーテン
     english: curtain
     sound_file: Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
@@ -44,22 +47,31 @@ vocabulary:
   - japanese: いす
     english: chair
     kanji: 椅子
+    sound_file: tts/いす_44ec0.wav
   - japanese: わかりましたか。
     english: Do you understand?
     kanji: 分かりましたか。
+    sound_file: tts/わかりましたか。_01de7.wav
   - japanese: わかりました。
     english: I do understand./I understood.
     kanji: 分かりました。
+    sound_file: tts/わかりました。_dbdbf.wav
   - japanese: わかりません。
     english: I don't understand./I don't know.
     kanji: 分かりません。
+    sound_file: tts/わかりません。_1f89d.wav
   - japanese: ゆっくり　いってください。
     english: Please say it slowly.
+    sound_file: tts/ゆっくり　いってください。_1fd4f.wav
   - japanese: もういちど　いってください。
     english: Please say it again.
+    sound_file: tts/もういちど　いってください。_1248b.wav
   - japanese: ちょっと　まってください。
     english: Please wait for a while.
+    sound_file: tts/ちょっと　まってください。_47f16.wav
   - japanese: きいてください。
     english: Please listen./Please ask.
+    sound_file: tts/きいてください。_805b8.wav
   - japanese: １０ページを　みてください。
     english: Please look at page 10.
+    sound_file: tts/１０ページを　みてください。_65249.wav

@@ -5,5 +5,5 @@ download_dir = "sources"
 dedupe = true
 
 [settings.sources]
-audio = { genki_1 = "1RXnr3nEiv5gFGIQqdMugrETwXu-lsar1", genki_2 = "1KPkNM85bM4zymzqO-aLWELah-RVM2p3O" }
+audio = { genki_1 = "1RXnr3nEiv5gFGIQqdMugrETwXu-lsar1", genki_2 = "1KPkNM85bM4zymzqO-aLWELah-RVM2p3O", tts = "1EjqNDK4Pw6d9pUDKassyKU_mWZC1r1ap" }
 fonts = "1BW6v1gTps7NTl8Zvg9D4C5pjbyrpCu63"

@@ -8,6 +8,7 @@ vocabulary:
   vocabulary:
   - japanese: おととい
     english: the day before yesterday
+    sound_file: tts/おととい_7802e.wav
   - japanese: きのう
     english: yesterday
     kanji: 昨日
@@ -30,6 +31,7 @@ vocabulary:
   - japanese: にしゅうかんまえ
     english: two weeks ago
     kanji: 二週間前
+    sound_file: tts/にしゅうかんまえ_9345e.wav
   - japanese: せんしゅう
     english: last week
     kanji: 先週
@@ -45,9 +47,11 @@ vocabulary:
   - japanese: さらいしゅう
     english: the week after next
     kanji: 再来週
+    sound_file: tts/さらいしゅう_342b0.wav
   - japanese: にかげつまえ
     english: two months ago
     kanji: 二か月前
+    sound_file: tts/にかげつまえ_e08f9.wav
   - japanese: せんげつ
     english: last month
     kanji: 先月
@@ -63,8 +67,10 @@ vocabulary:
   - japanese: さらいげつ
     english: the month after next
     kanji: 再来月
+    sound_file: tts/さらいげつ_e1137.wav
   - japanese: おととし
     english: the year before last
+    sound_file: tts/おととし_b441f.wav
   - japanese: きょねん
     english: last year
     kanji: 去年
@@ -80,3 +86,4 @@ vocabulary:
   - japanese: さらいねん
     english: the year after next
     kanji: 再来年
+    sound_file: tts/さらいねん_d3669.wav

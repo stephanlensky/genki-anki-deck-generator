@@ -9,36 +9,48 @@ vocabulary:
   - japanese: いちがつ
     english: January
     kanji: 一月
+    sound_file: tts/いちがつ_f60ec.wav
   - japanese: にがつ
     english: February
     kanji: 二月
+    sound_file: tts/にがつ_59c47.wav
   - japanese: さんがつ
     english: March
     kanji: 三月
+    sound_file: tts/さんがつ_cec66.wav
   - japanese: しがつ*
     english: April
     kanji: 四月
+    sound_file: tts/しがつ_b8cbe.wav
   - japanese: ごがつ
     english: May
     kanji: 五月
+    sound_file: tts/ごがつ_fc7f1.wav
   - japanese: ろくがつ
     english: June
     kanji: 六月
+    sound_file: tts/ろくがつ_208db.wav
   - japanese: しちがつ*
     english: July
     kanji: 七月
+    sound_file: tts/しちがつ_74166.wav
   - japanese: はちがつ
     english: August
     kanji: 八月
+    sound_file: tts/はちがつ_68a34.wav
   - japanese: くがつ*
     english: September
     kanji: 九月
+    sound_file: tts/くがつ_7934a.wav
   - japanese: じゅうがつ
     english: October
     kanji: 十月
+    sound_file: tts/じゅうがつ_bc577.wav
   - japanese: じゅういちがつ
     english: November
     kanji: 十一月
+    sound_file: tts/じゅういちがつ_9f348.wav
   - japanese: じゅうにがつ
     english: December
     kanji: 十二月
+    sound_file: tts/じゅうにがつ_ef231.wav

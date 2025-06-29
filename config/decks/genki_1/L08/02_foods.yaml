@@ -9,30 +9,43 @@ vocabulary:
   - japanese: ごはん
     english: (white) rice
     kanji: ご飯
+    sound_file: tts/ごはん_a921f.wav
   - japanese: おかず
     english: a couple of dishes
+    sound_file: tts/おかず_ec049.wav
   - japanese: みそしる
     english: soup
     kanji: みそ汁
+    sound_file: tts/みそしる_01670.wav
   - japanese: カレーライス
     english: Curry with rice
+    sound_file: tts/カレーライス_a369e.wav
   - japanese: おにぎり
     english: Rice balls
+    sound_file: tts/おにぎり_273c0.wav
   - japanese: ラーメン
     english: ramen noodles
+    sound_file: tts/ラーメン_65247.wav
   - japanese: うどん
     english: udon noodles
+    sound_file: tts/うどん_0aeeb.wav
   - japanese: パスタ
     english: pasta
+    sound_file: tts/パスタ_b3d82.wav
   - japanese: ぎょうざ
     english: dumplings
+    sound_file: tts/ぎょうざ_4b3c7.wav
   - japanese: ぎゅうどん
     english: beef rice bowl
     kanji: 牛丼
+    sound_file: tts/ぎゅうどん_bbbc4.wav
   - japanese: ハンバーグ
     english: hamburger steak
+    sound_file: tts/ハンバーグ_b670d.wav
   - japanese: さしみ
     english: raw seafood
+    sound_file: tts/さしみ_1d9fc.wav
   - japanese: おこのみやき
     english: savory pancake
     kanji: お好み焼き
+    sound_file: tts/おこのみやき_09767.wav

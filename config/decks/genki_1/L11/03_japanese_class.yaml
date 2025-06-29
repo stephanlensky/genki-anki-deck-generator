@@ -8,48 +8,64 @@ vocabulary:
   vocabulary:
   - japanese: どちらでもいいです。
     english: Both are fine.
+    sound_file: tts/どちらでもいいです。_aeab4.wav
   - japanese: おなじです。
     english: Same thing.
     kanji: 同じです。
+    sound_file: tts/おなじです。_cf555.wav
   - japanese: だいたいおなじです。
     english: More or less the same.
     kanji: だいたい同じです。
+    sound_file: tts/だいたいおなじです。_23434.wav
   - japanese: ちょっとちがいます。
     english: A little different.
     kanji: ちょっと違います。
+    sound_file: tts/ちょっとちがいます。_9aab2.wav
   - japanese: つかえません。
     english: Can't use it.
     kanji: 使えません
+    sound_file: tts/つかえません。_a3256.wav
   - japanese: だめです。
     english: No good.
+    sound_file: tts/だめです。_c17cf.wav
   - japanese: てをあげてください。
     english: Raise your hand.
     kanji: 手をあげてください。
+    sound_file: tts/てをあげてください。_068f5.wav
   - japanese: よんできてください。
     english: Read it before coming to class.
     kanji: 読んできてください。
+    sound_file: tts/よんできてください。_9bb79.wav
   - japanese: しゅくだいをだしてください。
     english: Hand in the homework.
     kanji: 宿題を出してください。
+    sound_file: tts/しゅくだいをだしてください。_7f9d8.wav
   - japanese: １０ページをひらいてください。
     english: Open the book to page 10.
     kanji: １０ページを開いてください。
+    sound_file: tts/１０ページをひらいてください。_19087.wav
   - japanese: きょうかしょをとじてください。
     english: Close the textbook.
     kanji: 教科書を閉じてください。
+    sound_file: tts/きょうかしょをとじてください。_de5c5.wav
   - japanese: となりのひとにきいてください。
     english: Ask the person sitting next to you.
     kanji: となりの人に聞いてください。
+    sound_file: tts/となりのひとにきいてください。_0c5e6.wav
   - japanese: やめてください。
     english: Please stop.
+    sound_file: tts/やめてください。_a53a6.wav
   - japanese: きょうはこれでおわります。
     english: That's it for today.
     kanji: 今日はこれで終わります。
+    sound_file: tts/きょうはこれでおわります。_b3b9a.wav
   - japanese: しめきり
     english: deadline
+    sound_file: tts/しめきり_cc805.wav
   - japanese: れんしゅう
     english: exercise
     kanji: 練習
+    sound_file: tts/れんしゅう_b77d8.wav
   - japanese: いみ
     english: meaning
     kanji: 意味
@@ -57,6 +73,7 @@ vocabulary:
   - japanese: はつおん
     english: pronunciation
     kanji: 発音
+    sound_file: tts/はつおん_6b99c.wav
   - japanese: ぶんぽう
     english: grammar
     kanji: 文法
@@ -64,43 +81,58 @@ vocabulary:
   - japanese: しつもん
     english: question
     kanji: 質問
+    sound_file: tts/しつもん_ac02a.wav
   - japanese: こたえ
     english: answer
     kanji: 答
+    sound_file: tts/こたえ_f70e2.wav
   - japanese: れい
     english: example
     kanji: 例
+    sound_file: tts/れい_3e7d4.wav
   - japanese: かっこ
     english: ( ) (parentheses)
+    sound_file: tts/かっこ_9dd8a.wav
   - japanese: まる
     english: ○ (correct)
+    sound_file: tts/まる_0931b.wav
   - japanese: ばつ
     english: ☓ (wrong)
+    sound_file: tts/ばつ_6facb.wav
   - japanese: くだけたいいかた
     english: colloquial expression
     kanji: くだけた言い方
+    sound_file: tts/くだけたいいかた_62692.wav
   - japanese: かたいいいかた
     english: bookish expression
     kanji: かたい言い方
+    sound_file: tts/かたいいいかた_5e7d6.wav
   - japanese: ていねいないいかた
     english: polite expression
     kanji: ていねいな言い方
+    sound_file: tts/ていねいないいかた_6fc60.wav
   - japanese: ほうげん
     english: dialect
     kanji: 方言
+    sound_file: tts/ほうげん_859bc.wav
   - japanese: きょうつうご
     english: common language
     kanji: 共通語
+    sound_file: tts/きょうつうご_ea0a3.wav
   - japanese: たとえば
     english: for example
+    sound_file: tts/たとえば_8d216.wav
   - japanese: ほかに
     english: anything else
+    sound_file: tts/ほかに_06149.wav
   - japanese: 〜ばん
     english: number ...
     sound_file: Kaiwa_Bunpo_L01/K01_05/K01_05_60.mp3
   - japanese: 〜ぎょうめ
     english: line number ...
     kanji: 〜行目
+    sound_file: tts/〜ぎょうめ_7390a.wav
   - japanese: ふたりずつ
     english: two people each
     kanji: 二人ずつ
+    sound_file: tts/ふたりずつ_3cb26.wav
