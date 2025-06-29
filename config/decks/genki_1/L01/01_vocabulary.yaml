@@ -130,6 +130,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_05/K01_05_64.mp3
   - japanese: なん／なに
     english: what
+    kanji: 何
     sound_file: genki_1/Kaiwa_Bunpo_L01/K01_05/K01_05_66.mp3
 - tags:
   - Expressions
