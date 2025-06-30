@@ -1,0 +1,41 @@
+{% if kanji %}
+<p lang="jp" style="display: flex; justify-content: center; flex-wrap: wrap; align-items: baseline;">
+  {% for char, reading in kanji_ruby_data %}
+  <ruby>
+    {% if reading %}
+    <span class="rt{% if loop.index0 == 0 or not kanji_ruby_data[loop.index0 - 1][1] %} rt-left{% endif %}{% if loop.index0 == kanji_ruby_data|length - 1 or not kanji_ruby_data[loop.index0 + 1][1] %} rt-right{% endif %}">
+      {% if hidden %}<span class="furigana hidden">{% endif %}{{reading}}{% if hidden %}</span>{% endif %}
+    </span>
+    {% endif %}
+    <span class="rb">{{char}}</span>
+  </ruby>
+  {% endfor %}
+</p>
+{% else %}
+<p lang="jp" class="kana-only">{{japanese}}</p>
+{% endif %}
+{% if hidden %}
+<script>
+  // remove "hidden" class from ALL furigana on the page when hovering one
+  document.querySelectorAll(".furigana").forEach(function (furigana) {
+    furigana.addEventListener("mouseover", function () {
+      document.querySelectorAll(".furigana").forEach(function (f) {
+        f.classList.remove("hidden");
+        f.classList.add("visible");
+      });
+    });
+    furigana.addEventListener("mouseout", function () {
+      document.querySelectorAll(".furigana").forEach(function (f) {
+        f.classList.remove("visible");
+        f.classList.add("hidden");
+      });
+    });
+    furigana.addEventListener("click", function () {
+      document.querySelectorAll(".furigana").forEach(function (f) {
+        f.classList.remove("hidden");
+        f.classList.add("visible");
+      });
+    });
+  });
+</script>
+{% endif %}

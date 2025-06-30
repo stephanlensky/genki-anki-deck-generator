@@ -2,117 +2,18 @@ import argparse
 from pathlib import Path, PurePosixPath
 
 import genanki
+import minify_html
 
 from genki_anki_deck_generator.config import get_config
 from genki_anki_deck_generator.template import Card, Template, load_templates
 from genki_anki_deck_generator.utils.duplicates import remove_duplicates
-
-HTML_KANJI_KANA_QUESTION = """
-{{#kanji}}
-<p lang="jp">
-<span class="furigana hidden">{{japanese_kana}}</span><br />
-<span class="kanji">{{kanji}}</span>
-</p>
-{{/kanji}}
-{{^kanji}}
-<p lang="jp" class="kana-only">{{japanese_kana}}</p>
-{{/kanji}}
-"""
-HTML_KANJI_KANA_ANSWER = """
-{{#kanji}}
-<p lang="jp">
-<span class="furigana">{{japanese_kana}}</span><br />
-<span class="kanji">{{kanji}}</span>
-</p>
-{{/kanji}}
-{{^kanji}}
-<p lang="jp" class="kana-only">{{japanese_kana}}</p>
-{{/kanji}}
-"""
+from genki_anki_deck_generator.utils.jinja import render_template
 
 HTML_SOUND = """
 {{#sound}}
 <div class="spacer"></div>
 {{sound}}
 {{/sound}}
-"""
-HTML_FRONT_SIDE = """
-<div class="frontside">
-{{FrontSide}}
-</div>
-<div class="spacer"></div>
-"""
-HTML_ENGLISH = """
-<p>{{english}}</p>
-"""
-HTML_ENGLISH_MEANING = """
-<p class="heading">Meaning:</p>
-<p>{{english}}</p>
-"""
-HTML_JAPANESE = """
-<p class="heading">Japanese:</p>
-"""
-HTML_KANJI_MEANING = """
-{{#kanji_meaning}}
-<div class="spacer"></div>
-<p class="heading">Kanji meaning:</p>
-<p lang="jp">
-{{kanji}}<br />
-{{kanji_meaning}}
-</p>
-{{/kanji_meaning}}
-"""
-CSS = """
-
-@font-face {
-  font-family: "Noto Sans Japanese";
-  src: url("_NotoSansCJKjp-Regular.woff2") format("woff2");
-}
-
-.card {
-  font-family: "Noto Sans Japanese";
-  font-size: 30px;
-  text-align: center;
-}
-
-p {
-  font-size: 1em;
-  margin: 0;
-  padding: 0;
-}
-
-.heading {
-  font-size: 0.9em;
-  color: var(--fg-subtle, #BBB);
-}
-
-.spacer {
-  height: 1em;
-}
-
-.kana-only {
-  font-size: 1.4em;
-}
-
-.kanji {
-  font-size: 2em;
-}
-
-.furigana {
-  font-size: 1.2em;
-}
-
-.hidden:not(.frontside *) {
-  color: var(--fg, #DDD);
-  background: var(--fg, #DDD);
-  border:1px solid var(--fg, #DDD);
-  border-radius:10px;
-}
-
-.hidden:hover:hover:not(.frontside *) {
-  background:none;
-  border-color:transparent;
-}
 """
 
 
@@ -191,6 +92,17 @@ class GenkiNote(genanki.Note):  # type: ignore
         guid = genanki.guid_for(
             "genki_anki_deck_generator", deck, str(template.path), card.japanese
         )
+
+        context = card.to_dict()
+        context["kanji_ruby_data"] = (
+            get_kanji_ruby_data(
+                card.kanji,
+                card.kanji_readings if card.kanji_readings else [(card.kanji, card.japanese)],
+            )
+            if card.kanji
+            else None
+        )
+        context["formatted_kanji_meanings"] = ", ".join(kanji_meanings)
         super().__init__(
             model=model,
             fields=[
@@ -201,12 +113,47 @@ class GenkiNote(genanki.Note):  # type: ignore
                 f"[sound:{PurePosixPath(qualified_sound_file_path).name}]"
                 if qualified_sound_file_path
                 else "",
+                minify_html.minify(
+                    render_template(Path("japanese_question.html"), context),
+                    minify_js=False,
+                ),
+                minify_html.minify(
+                    render_template(Path("japanese_answer.html"), context),
+                    minify_js=False,
+                ),
+                minify_html.minify(
+                    render_template(Path("english_question.html"), context),
+                    minify_js=False,
+                ),
+                minify_html.minify(
+                    render_template(Path("english_answer.html"), context),
+                    minify_js=False,
+                ),
                 sort_id,
             ],
             tags=[tag.replace(" ", "_") for tag in card.tags],
             due=card_index,
             guid=guid,
         )
+
+
+def get_kanji_ruby_data(kanji: str, kanji_readings: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    i = 0
+    j = 0
+    kanji_ruby_data = []
+    while j < len(kanji):
+        if (
+            i < len(kanji_readings)
+            and kanji_readings[i][0] == kanji[j : j + len(kanji_readings[i][0])]
+        ):
+            reading = kanji_readings[i][1]
+            kanji_ruby_data.append((kanji[j : j + len(kanji_readings[i][0])], reading))
+            i += 1
+            j += len(kanji_readings[i - 1][0])
+        else:
+            kanji_ruby_data.append((kanji[j], ""))
+            j += 1
+    return kanji_ruby_data
 
 
 def get_anki_model() -> genanki.Model:
@@ -219,26 +166,26 @@ def get_anki_model() -> genanki.Model:
             {"name": "english"},
             {"name": "kanji_meaning"},
             {"name": "sound"},
+            {"name": "japanese_question"},
+            {"name": "japanese_answer"},
+            {"name": "english_question"},
+            {"name": "english_answer"},
             {"name": "sort_id"},
         ],
         templates=[
             {
                 "name": "japanese -> english",
-                "qfmt": HTML_KANJI_KANA_QUESTION,
-                "afmt": HTML_FRONT_SIDE + HTML_ENGLISH_MEANING + HTML_KANJI_MEANING + HTML_SOUND,
+                "qfmt": "{{japanese_question}}",
+                "afmt": "{{japanese_answer}}" + HTML_SOUND,
             },
             {
                 "name": "english -> japanese",
-                "qfmt": HTML_ENGLISH,
-                "afmt": HTML_FRONT_SIDE
-                + HTML_JAPANESE
-                + HTML_KANJI_KANA_ANSWER
-                + HTML_KANJI_MEANING
-                + HTML_SOUND,
+                "qfmt": "{{english_question}}",
+                "afmt": "{{english_answer}}" + HTML_SOUND,
             },
         ],
-        css=CSS,
-        sort_field_index=5,  # sort_id
+        css=render_template(Path("style.css"), {}),
+        sort_field_index=9,  # sort_id
     )
     return anki_model
 
