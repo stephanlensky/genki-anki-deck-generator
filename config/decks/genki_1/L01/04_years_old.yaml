@@ -10,7 +10,7 @@ vocabulary:
     english: one year old
     kanji: 一歳
     kanji_readings:
-    - 一: いち
+    - 一: いっ
     - 歳: さい
     sound_file: tts/いっさい_19a4d.wav
   - japanese: にさい
