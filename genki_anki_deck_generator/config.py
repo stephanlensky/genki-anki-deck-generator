@@ -9,13 +9,13 @@ CONFIG_PATH = Path("config/config.toml")
 DECKS_PATH = Path("config/decks")
 
 
-@dataclass
+@dataclass(kw_only=True)
 class ConfigSources:
     audio: dict[str, str]
     fonts: str
 
 
-@dataclass
+@dataclass(kw_only=True)
 class Config:
     decks: dict[str, str]
     deck_ids: dict[str, int]
@@ -24,20 +24,20 @@ class Config:
     dedupe: bool = True
 
 
-@dataclass
+@dataclass(kw_only=True)
 class DeckAudioFileOverride:
     fuse_with_next: int | None = None
     resplit: int | None = None
 
 
-@dataclass
+@dataclass(kw_only=True)
 class DeckAudioFile:
     sound_file: Path
     sound_silence_threshold: int
     overrides: dict[int, DeckAudioFileOverride] | None = None
 
 
-@dataclass
+@dataclass(kw_only=True)
 class DeckConfig:
     audio: list[DeckAudioFile]
     templates: list[Path]

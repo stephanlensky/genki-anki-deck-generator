@@ -47,8 +47,9 @@ vocabulary:
     english: headphones
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_17.mp3
   - japanese: おにぎり
+    japanese_note: (rare)
     english: rice ball
-    kanji: お握り（rare）
+    kanji: お握り
     kanji_readings:
     - 握: にぎ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
@@ -59,8 +60,9 @@ vocabulary:
     - 動物: どうぶつ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_21.mp3
   - japanese: あちら
+    japanese_note: (rare)
     english: that way (polite)
-    kanji: 彼方（rare）
+    kanji: 彼方
     kanji_readings:
     - 彼方: あちら
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_23.mp3
@@ -90,8 +92,9 @@ vocabulary:
     - 支店: してん
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_32.mp3
   - japanese: ドイツ
+    japanese_note: (rare)
     english: Germany
-    kanji: 独逸（rare）
+    kanji: 独逸
     kanji_readings:
     - 独逸: ドイツ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_34.mp3
@@ -147,8 +150,9 @@ vocabulary:
   - U-verbs
   vocabulary:
   - japanese: おる
+    japanese_note: (rare)
     english: extra-modest expression for いる
-    kanji: 居る（rare）
+    kanji: 居る
     kanji_readings:
     - 居: お
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_55.mp3
@@ -183,14 +187,16 @@ vocabulary:
     - 御座: ござ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_65.mp3
   - japanese: ～ておる
+    japanese_note: (rare)
     english: extra-modest expression for ～ている
-    kanji: ～て居る（rare）
+    kanji: ～て居る
     kanji_readings:
     - 居: お
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_67.mp3
   - japanese: ～でござる
+    japanese_note: (rare)
     english: extra-modest expression for です
-    kanji: ～御座る（rare）
+    kanji: ～御座る
     kanji_readings:
     - 御座: でござ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_69.mp3
@@ -292,8 +298,9 @@ vocabulary:
     english: X like …
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_103.mp3
   - japanese: また
+    japanese_note: (rare)
     english: again
-    kanji: 又（rare）
+    kanji: 又
     kanji_readings:
     - 又: また
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_105.mp3
@@ -301,8 +308,9 @@ vocabulary:
     english: well then (polite)
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_107.mp3
   - japanese: できれば
+    japanese_note: (rare)
     english: if possible
-    kanji: 出来れば（rare）
+    kanji: 出来れば
     kanji_readings:
     - 出来: でき
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_109.mp3
@@ -319,8 +327,9 @@ vocabulary:
     - 宜: よろ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_113.mp3
   - japanese: かしこまりました
+    japanese_note: (rare)
     english: certainly
-    kanji: 畏まりました（rare）
+    kanji: 畏まりました
     kanji_readings:
     - 畏: かしこ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_115.mp3

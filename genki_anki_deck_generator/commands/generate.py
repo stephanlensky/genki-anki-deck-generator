@@ -107,6 +107,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             model=model,
             fields=[
                 card.japanese,
+                card.japanese_note if card.japanese_note else "",
                 card.kanji if card.kanji else "",
                 card.english,
                 ", ".join(kanji_meanings),
@@ -162,6 +163,7 @@ def get_anki_model() -> genanki.Model:
         "Simple Model",
         fields=[
             {"name": "japanese_kana"},
+            {"name": "japanese_note"},
             {"name": "kanji"},
             {"name": "english"},
             {"name": "kanji_meaning"},
@@ -185,7 +187,7 @@ def get_anki_model() -> genanki.Model:
             },
         ],
         css=render_template(Path("style.css"), {}),
-        sort_field_index=9,  # sort_id
+        sort_field_index=10,  # sort_id
     )
     return anki_model
 

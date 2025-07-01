@@ -25,8 +25,9 @@ vocabulary:
     - 親: しん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_7.mp3
   - japanese: ごみ
+    japanese_note: (rare, ゴミ is common)
     english: garbage
-    kanji: 塵（rare, ゴミ is common）
+    kanji: 塵
     kanji_readings:
     - 塵: ごみ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_9.mp3
@@ -128,8 +129,9 @@ vocabulary:
     - 起: お
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_43.mp3
   - japanese: おごる
+    japanese_note: (rare)
     english: to treat (someone) to a meal (person に meal を)
-    kanji: 奢る（rare）
+    kanji: 奢る
     kanji_readings:
     - 奢: おご
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_45.mp3
@@ -230,8 +232,9 @@ vocabulary:
     - 遅: おく
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_79.mp3
   - japanese: アイロンをかける
+    japanese_note: (rare)
     english: to iron (clothes) (～に)
-    kanji: アイロンを掛ける（rare）
+    kanji: アイロンを掛ける
     kanji_readings:
     - 掛: か
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_81.mp3
@@ -288,14 +291,16 @@ vocabulary:
     - 間: あいだ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_98.mp3
   - japanese: これから
+    japanese_note: (rare)
     english: from now on
-    kanji: 此れから（rare）
+    kanji: 此れから
     kanji_readings:
     - 此: こ
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_100.mp3
   - japanese: このぐらい
+    japanese_note: (rare)
     english: about this much (=これぐらい/このくらい/これくらい)
-    kanji: 此の位（rare）
+    kanji: 此の位
     kanji_readings:
     - 此: こ
     - 位: ぐらい
@@ -328,8 +333,9 @@ vocabulary:
     - 以外: いがい
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_114.mp3
   - japanese: ごめん
+    japanese_note: (rare)
     english: I'm sorry. (casual)
-    kanji: 御免（rare）
+    kanji: 御免
     kanji_readings:
     - 御免: ごめん
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_116.mp3

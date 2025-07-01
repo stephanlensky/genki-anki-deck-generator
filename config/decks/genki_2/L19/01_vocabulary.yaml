@@ -45,14 +45,16 @@ vocabulary:
     - 敬語: けいご
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_13.mp3
   - japanese: こちら
+    japanese_note: (rare)
     english: this way (polite)
-    kanji: 此方（rare）
+    kanji: 此方
     kanji_readings:
     - 此方: こちら
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_15.mp3
   - japanese: どちら
+    japanese_note: (rare)
     english: where (polite)
-    kanji: 何方（rare）
+    kanji: 何方
     kanji_readings:
     - 何方: どちら
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_17.mp3
@@ -118,8 +120,9 @@ vocabulary:
   - な-adjectives
   vocabulary:
   - japanese: まじめ(な)
+    japanese_note: (rare)
     english: serious; sober; diligent
-    kanji: 真面目（rare）
+    kanji: 真面目
     kanji_readings:
     - 真面目: まじめ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_43.mp3
@@ -142,8 +145,9 @@ vocabulary:
     - 下: くだ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_55.mp3
   - japanese: なさる
+    japanese_note: (rare)
     english: honorific expression for する
-    kanji: 為さる（rare）
+    kanji: 為さる
     kanji_readings:
     - 為: な
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_57.mp3
@@ -160,8 +164,9 @@ vocabulary:
     - 覧: らん
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_61.mp3
   - japanese: おっしゃる
+    japanese_note: (rare)
     english: honorific expression for いう
-    kanji: 仰る（rare）
+    kanji: 仰る
     kanji_readings:
     - 仰: おっしゃ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_63.mp3
@@ -220,14 +225,16 @@ vocabulary:
     - 遅: おく
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_84.mp3
   - japanese: かける
+    japanese_note: (rare)
     english: to sit down (seat に)
-    kanji: 掛ける（rare）
+    kanji: 掛ける
     kanji_readings:
     - 掛: か
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_86.mp3
   - japanese: もてる
+    japanese_note: (rare, モテル also common)
     english: to be popular (in terms of romantic interest) (people に)
-    kanji: 持てる（rare、モテル also common）
+    kanji: 持てる
     kanji_readings:
     - 持: も
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_88.mp3
@@ -241,8 +248,9 @@ vocabulary:
   - Irregular_Verbs
   vocabulary:
   - japanese: ごちそうする
+    japanese_note: (rare)
     english: to treat/invite (someone) to a meal (person に meal を)
-    kanji: ご馳走する（rare）
+    kanji: ご馳走する
     kanji_readings:
     - 馳走: ちそう
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_93.mp3
@@ -268,8 +276,9 @@ vocabulary:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: おととい
+    japanese_note: (rare)
     english: the day before yesterday
-    kanji: 一昨日（rare）
+    kanji: 一昨日
     kanji_readings:
     - 一昨日: おととい
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_104.mp3
@@ -280,14 +289,16 @@ vocabulary:
     - 毎朝: まいあさ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_106.mp3
   - japanese: それで
+    japanese_note: (rare)
     english: then; therefore
-    kanji: 其れで（rare）
+    kanji: 其れで
     kanji_readings:
     - 其: そ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_108.mp3
   - japanese: なぜ
+    japanese_note: (rare)
     english: why (=どうして)
-    kanji: 何故（rare）
+    kanji: 何故
     kanji_readings:
     - 何故: なぜ
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_110.mp3
@@ -298,8 +309,9 @@ vocabulary:
     - 本当: ほんとう
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_112.mp3
   - japanese: まだ
+    japanese_note: (rare)
     english: still
-    kanji: 未だ（rare）
+    kanji: 未だ
     kanji_readings:
     - 未: ま
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_115.mp3

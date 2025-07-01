@@ -46,8 +46,9 @@ vocabulary:
     english: contact lenses
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_21.mp3
   - japanese: ひげ
+    japanese_note: (rare)
     english: beard
-    kanji: 髭（rare）
+    kanji: 髭
     kanji_readings:
     - 髭: ひげ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_23.mp3
@@ -205,8 +206,9 @@ vocabulary:
     - 髪: かみ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_81.mp3
   - japanese: ひげをそる
+    japanese_note: (rare)
     english: to shave one's beard
-    kanji: 髭を剃る（rare）
+    kanji: 髭を剃る
     kanji_readings:
     - 髭: ひげ
     - 剃: そ
@@ -291,15 +293,16 @@ vocabulary:
     - 離婚: りこん
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_110.mp3
   - japanese: する
+    japanese_note: (e.g. ネクタイをする)
     english: to wear small items (necktie, watch, etc.) (～を)
-    kanji: （e.g. ネクタイをする)
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_112.mp3
 - tags:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: ずいぶん
+    japanese_note: (rare)
     english: very
-    kanji: 随分（rare）
+    kanji: 随分
     kanji_readings:
     - 随分: ずいぶん
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_115.mp3
@@ -325,8 +328,9 @@ vocabulary:
     - 前: まえ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_123.mp3
   - japanese: やっぱり
+    japanese_note: (rare)
     english: after all
-    kanji: 矢っ張り（rare）
+    kanji: 矢っ張り
     kanji_readings:
     - 矢っ張: やっぱ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_125.mp3
@@ -334,14 +338,16 @@ vocabulary:
     english: I wonder…(casual)
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_127.mp3
   - japanese: そうか
+    japanese_note: (rare)
     english: I see.(casual)
-    kanji: 然うか（rare）
+    kanji: 然うか
     kanji_readings:
     - 然: そ
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_129.mp3
   - japanese: おめでとうございます
+    japanese_note: (rare)
     english: Congratulations!
-    kanji: お目出度う御座います（rare）
+    kanji: お目出度う御座います
     kanji_readings:
     - 目出度: めでと
     - 御座: ござ

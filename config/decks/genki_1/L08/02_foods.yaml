@@ -25,8 +25,9 @@ vocabulary:
     english: Curry with rice
     sound_file: tts/カレーライス_a369e.wav
   - japanese: おにぎり
+    japanese_note: (rare)
     english: rice ball
-    kanji: お握り（rare）
+    kanji: お握り
     kanji_readings:
     - 握: にぎ
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3

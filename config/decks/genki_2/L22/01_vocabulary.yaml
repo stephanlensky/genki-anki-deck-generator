@@ -117,8 +117,9 @@ vocabulary:
     - 家事: かじ
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_40.mp3
   - japanese: ヨーロッパ
+    japanese_note: (rare)
     english: Europe
-    kanji: 欧羅巴（rare）
+    kanji: 欧羅巴
     kanji_readings:
     - 欧羅巴: ヨーロッパ
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_42.mp3
@@ -144,8 +145,9 @@ vocabulary:
   - い-adjectives
   vocabulary:
   - japanese: うるさい
+    japanese_note: (rare)
     english: noisy; annoying
-    kanji: 煩い（rare）
+    kanji: 煩い
     kanji_readings:
     - 煩: うるさ
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_51.mp3
@@ -296,14 +298,16 @@ vocabulary:
   - Adverbs_and_Other_Expressions
   vocabulary:
   - japanese: こんなふう
+    japanese_note: (rare)
     english: like this
-    kanji: こんな風（rare）
+    kanji: こんな風
     kanji_readings:
     - 風: ふう
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_110.mp3
   - japanese: じゆうに
+    japanese_note: (rare)
     english: freely
-    kanji: 自由に（rare）
+    kanji: 自由に
     kanji_readings:
     - 自由: じゆう
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_112.mp3
@@ -333,8 +337,9 @@ vocabulary:
     english: …for example
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_123.mp3
   - japanese: そんなこと（は）ない
+    japanese_note: (rare)
     english: I don't think so.
-    kanji: そんな事はない（rare）
+    kanji: そんな事はない
     kanji_readings:
     - 事: こと
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_125.mp3

@@ -13,8 +13,9 @@ vocabulary:
     english: watermelon
     sound_file: tts/すいか_065f6.wav
   - japanese: みかん
+    japanese_note: (rare)
     english: mandarin orange
-    kanji: 蜜柑（rare）
+    kanji: 蜜柑
     kanji_readings:
     - 蜜柑: みかん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3

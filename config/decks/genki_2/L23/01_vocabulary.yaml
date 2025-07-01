@@ -19,8 +19,9 @@ vocabulary:
     - 袋: ふくろ
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_5.mp3
   - japanese: ただ
+    japanese_note: (rare)
     english: free of charge
-    kanji: 只（rare）
+    kanji: 只
     kanji_readings:
     - 只: ただ
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_9.mp3
@@ -124,8 +125,9 @@ vocabulary:
   - い-adjectives
   vocabulary:
   - japanese: まずい
+    japanese_note: (rare)
     english: (food is) terrible
-    kanji: 不味い（rare）
+    kanji: 不味い
     kanji_readings:
     - 不味: まず
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_45.mp3
@@ -133,8 +135,9 @@ vocabulary:
   - な-adjectives
   vocabulary:
   - japanese: かわいそう(な)
+    japanese_note: (rare)
     english: pitiful; feel sorry for; poor thing
-    kanji: 可哀相（rare）
+    kanji: 可哀相
     kanji_readings:
     - 可哀相: かわいそう
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_48.mp3
@@ -155,8 +158,9 @@ vocabulary:
     - 違: ちが
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_55.mp3
   - japanese: なくなる
+    japanese_note: (rare)
     english: to be lost; to disappear (～が)
-    kanji: 無くなる（rare）
+    kanji: 無くなる
     kanji_readings:
     - 無: な
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_58.mp3
@@ -170,8 +174,9 @@ vocabulary:
     - 世話: せわ
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_64.mp3
   - japanese: おなかをこわす
+    japanese_note: (rare)
     english: to have a stomache
-    kanji: お腹を壊す（rare）
+    kanji: お腹を壊す
     kanji_readings:
     - 腹: なか
     - 壊: こわ
@@ -209,8 +214,8 @@ vocabulary:
   - Irregular_Verbs
   vocabulary:
   - japanese: がっかりする
+    japanese_note: or ガッカリする (hiragana is more common)
     english: to be disappointed (～に)
-    kanji: ガッカリする（hiragana is more common）
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_79.mp3
   - japanese: がまんする
     english: to be tolerant/patient (～を)
@@ -267,8 +272,9 @@ vocabulary:
     english: extremely
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_105.mp3
   - japanese: そろそろ
+    japanese_note: (hiragana is more common)
     english: it is about time to...
-    kanji: ソロソロ(hiragana is more common)
+    kanji: ソロソロ
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_107.mp3
   - japanese: さいごに
     english: finally
@@ -283,8 +289,9 @@ vocabulary:
     - 元気: げんき
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_111.mp3
   - japanese: そうそう
+    japanese_note: (rare)
     english: You are right.
-    kanji: 然う然う（rare）
+    kanji: 然う然う
     kanji_readings:
     - 然う然: そうそ
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_113.mp3

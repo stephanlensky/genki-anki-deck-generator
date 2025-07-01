@@ -7,8 +7,9 @@ vocabulary:
   - Useful_Expressions
   vocabulary:
   - japanese: おととい
+    japanese_note: (rare)
     english: the day before yesterday
-    kanji: 一昨日（rare）
+    kanji: 一昨日
     kanji_readings:
     - 一昨: おととい
     - 日: にち

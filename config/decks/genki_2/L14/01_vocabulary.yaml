@@ -22,14 +22,16 @@ vocabulary:
     english: partner
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_7.mp3
   - japanese: おじさん
+    japanese_note: (rare)
     english: uncle; middle-aged man
-    kanji: 伯父さん（rare）
+    kanji: 伯父さん
     kanji_readings:
     - 伯父: おじ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_9.mp3
   - japanese: おばさん
+    japanese_note: (rare)
     english: aunt; middle-aged woman
-    kanji: 伯母さん（rare）
+    kanji: 伯母さん
     kanji_readings:
     - 伯母: おば
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_12.mp3
@@ -55,8 +57,9 @@ vocabulary:
     english: chocolate
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_23.mp3
   - japanese: みかん
+    japanese_note: (rare)
     english: mandarin orange
-    kanji: 蜜柑（rare）
+    kanji: 蜜柑
     kanji_readings:
     - 蜜柑: みかん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_25.mp3
@@ -85,8 +88,9 @@ vocabulary:
     - 鉛筆: えんぴつ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
   - japanese: ぬいぐるみ
+    japanese_note: (rare)
     english: stuffed animal (e.g. teddy bear)
-    kanji: 縫いぐるみ（rare）
+    kanji: 縫いぐるみ
     kanji_readings:
     - 縫: ぬ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_39.mp3
@@ -153,8 +157,9 @@ vocabulary:
     - 洒落: しゃれ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_64.mp3
   - japanese: けち(な)
+    japanese_note: (hiragana is more common)
     english: stingy; cheap
-    kanji: ケチ(hiragana is also common)
+    kanji: ケチ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_67.mp3
 - tags:
   - U-verbs
@@ -181,20 +186,23 @@ vocabulary:
     - 諦: あきら
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_76.mp3
   - japanese: あげる
+    japanese_note: (rare)
     english: to give (to others) (person に thing を)
-    kanji: 上げる（rare）
+    kanji: 上げる
     kanji_readings:
     - 上: あ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_78.mp3
   - japanese: くれる
+    japanese_note: (rare)
     english: To give (to me) (person に thing を)
-    kanji: 呉れる（rare）
+    kanji: 呉れる
     kanji_readings:
     - 呉: く
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_80.mp3
   - japanese: できる
+    japanese_note: (rare)
     english: to come into existence; to be made (~が)
-    kanji: 出来る （rare）
+    kanji: '出来る '
     kanji_readings:
     - 出来: でき
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_82.mp3
@@ -226,14 +234,16 @@ vocabulary:
     - 君: くん
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_94.mp3
   - japanese: 〜たち
+    japanese_note: (rare)
     english: make a noun plural
-    kanji: 〜達（rare）
+    kanji: 〜達
     kanji_readings:
     - 達: たち
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_97.mp3
   - japanese: わたしたち
+    japanese_note: (私たち is also common)
     english: we/us
-    kanji: 私達(私たちis common)
+    kanji: 私達
     kanji_readings:
     - 私: わたし
     - 達: たち
@@ -249,14 +259,16 @@ vocabulary:
     - 急: きゅう
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_104.mp3
   - japanese: ちょうど
+    japanese_note: (rare)
     english: exactly
-    kanji: 丁度 （rare）
+    kanji: '丁度 '
     kanji_readings:
     - 丁度: ちょうど
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_106.mp3
   - japanese: よく
+    japanese_note: (rare)
     english: well
-    kanji: 良く（rare）
+    kanji: 良く
     kanji_readings:
     - 良: よ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_108.mp3

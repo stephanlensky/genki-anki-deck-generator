@@ -7,8 +7,9 @@ vocabulary:
   - Nouns
   vocabulary:
   - japanese: ちかん
+    japanese_note: (rare)
     english: groper; pervert
-    kanji: 痴漢（rare）
+    kanji: 痴漢
     kanji_readings:
     - 痴漢: ちかん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_3.mp3
@@ -122,8 +123,9 @@ vocabulary:
     - 遠: とお
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_49.mp3
   - japanese: ひどい
+    japanese_note: (rare)
     english: awful
-    kanji: 酷い（rare）
+    kanji: 酷い
     kanji_readings:
     - 酷: ひど
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_51.mp3
@@ -137,8 +139,9 @@ vocabulary:
     - 安全: あんぜん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_54.mp3
   - japanese: めちゃくちゃ(な)
+    japanese_note: (rare)
     english: messy; disorganized
-    kanji: 目茶苦茶（rare）
+    kanji: 目茶苦茶
     kanji_readings:
     - 目茶苦茶: めちゃくちゃ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_56.mp3
@@ -176,14 +179,16 @@ vocabulary:
     - 焼: や
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_72.mp3
   - japanese: やる
+    japanese_note: (rare)
     english: to give (to pets, plants, younger siblings, etc.)  (～を)
-    kanji: 遣る（rare）
+    kanji: 遣る
     kanji_readings:
     - 遣: や
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_76.mp3
   - japanese: ける
+    japanese_note: (rare)
     english: to kick  (～を)
-    kanji: 蹴る（rare）
+    kanji: 蹴る
     kanji_readings:
     - 蹴: け
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_78.mp3
@@ -231,8 +236,9 @@ vocabulary:
     - 付: つ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_96.mp3
   - japanese: ふる
+    japanese_note: (rare)
     english: to turn down (somebody); to reject; to jilt (～を)
-    kanji: 振る（rare）
+    kanji: 振る
     kanji_readings:
     - 振: ふ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_98.mp3
@@ -247,14 +253,16 @@ vocabulary:
   - Ru-verbs
   vocabulary:
   - japanese: いじめる
+    japanese_note: (rare)
     english: to bully (～を)
-    kanji: 苛める（rare）
+    kanji: 苛める
     kanji_readings:
     - 苛: いじ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_105.mp3
   - japanese: ほめる
+    japanese_note: (rare)
     english: to praise; to say nice things (～を)
-    kanji: 褒める（rare）
+    kanji: 褒める
     kanji_readings:
     - 褒: ほ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_107.mp3
@@ -295,14 +303,16 @@ vocabulary:
   - Irregular_Verbs
   vocabulary:
   - japanese: ばかにする
+    japanese_note: (rare)
     english: to insult; to make a fool of… (～を)
-    kanji: 馬鹿にする（rare）
+    kanji: 馬鹿にする
     kanji_readings:
     - 馬鹿: ばか
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_123.mp3
   - japanese: びっくりする
+    japanese_note: (rare)
     english: to be surprised (～に)
-    kanji: 吃驚する（rare）
+    kanji: 吃驚する
     kanji_readings:
     - 吃驚: びっくり
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_126.mp3
@@ -338,8 +348,9 @@ vocabulary:
     - 少: すこ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_138.mp3
   - japanese: とにかく
+    japanese_note: (rare)
     english: anyhow; anyway
-    kanji: 兎に角（rare）
+    kanji: 兎に角
     kanji_readings:
     - 兎に角: とにかく
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_140.mp3

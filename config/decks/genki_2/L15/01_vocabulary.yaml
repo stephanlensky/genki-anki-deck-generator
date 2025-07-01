@@ -195,8 +195,9 @@ vocabulary:
     - 誘: さそ
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_73.mp3
   - japanese: しゃべる
+    japanese_note: (rare)
     english: to chat
-    kanji: 喋る（rare）
+    kanji: 喋る
     kanji_readings:
     - 喋: しゃべ
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_75.mp3

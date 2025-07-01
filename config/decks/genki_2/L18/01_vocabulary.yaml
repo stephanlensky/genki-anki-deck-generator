@@ -41,8 +41,9 @@ vocabulary:
     english: shampoo
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_19.mp3
   - japanese: ろうそく
+    japanese_note: (rare)
     english: candle
-    kanji: 蝋燭（rare）
+    kanji: 蝋燭
     kanji_readings:
     - 蝋燭: ろうそく
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_21.mp3
@@ -214,8 +215,9 @@ vocabulary:
     - 頼: たの
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_83.mp3
   - japanese: つく
+    japanese_note: (rare)
     english: (something) turns on (～が)
-    kanji: 点く（rare）
+    kanji: 点く
     kanji_readings:
     - 点: つ
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_85.mp3
@@ -283,8 +285,9 @@ vocabulary:
     - 今: いま
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_107.mp3
   - japanese: ～までに
+    japanese_note: (rare)
     english: by (time/date)
-    kanji: ～迄に（rare）
+    kanji: ～迄に
     kanji_readings:
     - 迄: まで
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_109.mp3
@@ -295,14 +298,16 @@ vocabulary:
     - 本当: ほんとう
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_111.mp3
   - japanese: まず
+    japanese_note: (rare)
     english: first of all
-    kanji: 先ず（rare）
+    kanji: 先ず
     kanji_readings:
     - 先: ま
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_113.mp3
   - japanese: おかげで
+    japanese_note: (rare)
     english: thanks to… (…の)
-    kanji: お陰で（rare）
+    kanji: お陰で
     kanji_readings:
     - 陰: かげ
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_115.mp3
@@ -322,7 +327,7 @@ vocabulary:
   - japanese: おつかれさま（でした）
     english: You must be tired after working so hard. (greeting between friends and
       coworkers)
-    kanji: お疲れ様(でした)
+    kanji: お疲れ様（でした）
     kanji_readings:
     - 疲: つか
     - 様: さま

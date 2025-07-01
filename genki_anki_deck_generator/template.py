@@ -10,10 +10,11 @@ from genki_anki_deck_generator.config import get_config, get_deck_config
 from genki_anki_deck_generator.utils.kanji_meanings import get_kanji_meanings
 
 
-@dataclass
+@dataclass(kw_only=True)
 class Card:
     template: Template
     japanese: str
+    japanese_note: str | None = None
     english: str
     kanji: str | None = None
     kanji_readings: list[tuple[str, str]] | None = None
@@ -50,8 +51,10 @@ class Card:
     def to_dict(self) -> dict[str, Any]:
         d: dict[str, Any] = {
             "japanese": self.japanese,
-            "english": self.english,
         }
+        if self.japanese_note:
+            d["japanese_note"] = self.japanese_note
+        d["english"] = self.english
         if self.kanji:
             d["kanji"] = self.kanji
         if self.kanji_readings:
@@ -61,7 +64,7 @@ class Card:
         return d
 
 
-@dataclass
+@dataclass(kw_only=True)
 class CardCollection:
     tags: list[str] = field(default_factory=list)
     vocabulary: list[Card | CardCollection] = field(default_factory=list)
@@ -93,7 +96,7 @@ class CardCollection:
         return False
 
 
-@dataclass
+@dataclass(kw_only=True)
 class Template:
     path: Path
     cards: CardCollection
@@ -153,6 +156,7 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
         return Card(
             template=template,
             japanese=template_yaml["japanese"],
+            japanese_note=template_yaml.get("japanese_note"),
             english=template_yaml["english"],
             kanji=template_yaml.get("kanji"),
             kanji_readings=[
