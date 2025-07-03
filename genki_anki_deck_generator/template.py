@@ -22,7 +22,7 @@ class Card:
     parent: CardCollection | None = None
 
     def __post_init__(self) -> None:
-        self._kanji_meanings: list[list[str] | None] | None = None
+        self._kanji_meanings: dict[str, list[str] | None] | None = None
 
     @property
     def tags(self) -> list[str]:
@@ -34,7 +34,7 @@ class Card:
         return tags
 
     @property
-    def kanji_meanings(self) -> list[list[str] | None] | None:
+    def kanji_meanings(self) -> dict[str, list[str] | None] | None:
         """Get the meanings of the kanji in this card."""
         if not self.kanji:
             return None
@@ -42,7 +42,7 @@ class Card:
             return self._kanji_meanings
 
         kanjis = [k for k in self.kanji if k != "."]
-        self._kanji_meanings = [get_kanji_meanings(k) for k in kanjis]
+        self._kanji_meanings = {k: get_kanji_meanings(k) for k in kanjis}
         return self._kanji_meanings
 
     def __str__(self) -> str:

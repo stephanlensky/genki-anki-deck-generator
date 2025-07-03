@@ -1,8 +1,6 @@
-{% if formatted_kanji_meanings %}
+{% if kanji_meanings %}
 <div class="spacer"></div>
 <p class="heading">Kanji meanings:</p>
-<p lang="jp">
-{{ kanji }}<br />
-{{ formatted_kanji_meanings }}
-</p>
+{{ kanji_meanings.items() | selectattr(1, 'ne', none) | map(attribute=0) | join(', ') }}<br />
+{{ kanji_meanings.values() | select('ne', none) | map('first') | join(', ') }}
 {% endif %}

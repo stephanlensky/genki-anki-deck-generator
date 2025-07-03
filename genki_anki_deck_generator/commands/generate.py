@@ -83,10 +83,10 @@ class GenkiNote(genanki.Note):  # type: ignore
         qualified_sound_file_path: Path | None,
     ) -> None:
         self.card = card
-        kanji_meanings = (
-            [meaning[0] for meaning in card.kanji_meanings if meaning]
+        simple_kanji_meanings = (
+            {k: meaning[0] for k, meaning in card.kanji_meanings.items() if meaning}
             if card.kanji_meanings
-            else []
+            else {}
         )
         sort_id = f"{deck}::{template.path}::{template_card_index:03d}"
         guid = genanki.guid_for(
@@ -102,7 +102,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             if card.kanji
             else None
         )
-        context["formatted_kanji_meanings"] = ", ".join(kanji_meanings)
+        context["kanji_meanings"] = card.kanji_meanings if card.kanji_meanings else {}
         super().__init__(
             model=model,
             fields=[
@@ -110,24 +110,28 @@ class GenkiNote(genanki.Note):  # type: ignore
                 card.japanese_note if card.japanese_note else "",
                 card.kanji if card.kanji else "",
                 card.english,
-                ", ".join(kanji_meanings),
+                ", ".join(simple_kanji_meanings),
                 f"[sound:{PurePosixPath(qualified_sound_file_path).name}]"
                 if qualified_sound_file_path
                 else "",
                 minify_html.minify(
                     render_template(Path("japanese_question.html"), context),
+                    keep_closing_tags=True,
                     minify_js=False,
                 ),
                 minify_html.minify(
                     render_template(Path("japanese_answer.html"), context),
+                    keep_closing_tags=True,
                     minify_js=False,
                 ),
                 minify_html.minify(
                     render_template(Path("english_question.html"), context),
+                    keep_closing_tags=True,
                     minify_js=False,
                 ),
                 minify_html.minify(
                     render_template(Path("english_answer.html"), context),
+                    keep_closing_tags=True,
                     minify_js=False,
                 ),
                 sort_id,
