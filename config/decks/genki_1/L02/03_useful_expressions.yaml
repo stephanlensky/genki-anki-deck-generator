@@ -92,6 +92,9 @@ vocabulary:
     sound_file: tts/もういちど　いってください。_1248b.wav
   - japanese: ちょっと　まってください。
     english: Please wait for a while.
+    kanji: ちょっと　待ってください。
+    kanji_readings:
+    - 待: ま
     sound_file: tts/ちょっと　まってください。_47f16.wav
   - japanese: きいてください。
     english: Please listen./Please ask.
