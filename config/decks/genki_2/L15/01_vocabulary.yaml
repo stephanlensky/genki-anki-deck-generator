@@ -163,36 +163,42 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_61.mp3
 - tags:
   - U-verbs
+  - Verb
   vocabulary:
   - japanese: うる
     english: to sell （〜を）
     kanji: 売る
     kanji_readings:
     - 売: う
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_64.mp3
   - japanese: おろす
     english: to withdraw (money)　（〜を）
     kanji: 下ろす
     kanji_readings:
     - 下: お
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_66.mp3
   - japanese: かく
     english: to draw; to paint　（〜を）
     kanji: 描く
     kanji_readings:
     - 描: か
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_68.mp3
   - japanese: さがす
     english: to look for
     kanji: 探す
     kanji_readings:
     - 探: さが
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_71.mp3
   - japanese: さそう
     english: to invite
     kanji: 誘う
     kanji_readings:
     - 誘: さそ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_73.mp3
   - japanese: しゃべる
     japanese_note: (rare)
@@ -200,18 +206,21 @@ vocabulary:
     kanji: 喋る
     kanji_readings:
     - 喋: しゃべ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_75.mp3
   - japanese: つきあう
     english: (1) to date (someone) (personと); (2) to keep company (purpose に）
     kanji: 付き合う
     kanji_readings:
     - 付き合: つきあ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_77.mp3
   - japanese: つく
     english: to arrive
     kanji: 着く
     kanji_readings:
     - 着: つ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_80.mp3
   - japanese: ほけんにはいる
     english: to buy insurance
@@ -219,63 +228,75 @@ vocabulary:
     kanji_readings:
     - 保険: ほけん
     - 入: はい
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_82.mp3
 - tags:
   - Ru-verbs
+  - Verb
   vocabulary:
   - japanese: きをつける
     english: to be cautious/careful(〜に)
     kanji: 気をつける
     kanji_readings:
     - 気: き
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_85.mp3
   - japanese: しらべる
     english: to look into (matterを)
     kanji: 調べる
     kanji_readings:
     - 調: しら
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_88.mp3
   - japanese: みえる
     english: to be visible(〜が）
     kanji: 見える
     kanji_readings:
     - 見: み
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_90.mp3
 - tags:
   - Irregular_Verbs
+  - Verb
   vocabulary:
   - japanese: する
     english: to decide on (itemに)
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_93.mp3
   - japanese: かんこうする
     english: sightseeing
     kanji: 観光する
     kanji_readings:
     - 観光: かんこう
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_95.mp3
   - japanese: よやくする
     english: to reserve(〜を)
     kanji: 予約する
     kanji_readings:
     - 予約: よやく
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_97.mp3
   - japanese: さんかする
     english: to participate(~に)
     kanji: 参加する
     kanji_readings:
     - 参加: さんか
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_99.mp3
   - japanese: そつぎょうする
     english: to graduate (school/programを)
     kanji: 卒業する
     kanji_readings:
     - 卒業: そつぎょう
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_101.mp3
   - japanese: はっぴょうする
     english: to make a presentation; to make public
     kanji: 発表する
     kanji_readings:
     - 発表: はっぴょう
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_103.mp3
 - tags:
   - Adverbs_and_Other_Expressions

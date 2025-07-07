@@ -209,48 +209,58 @@ vocabulary:
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_79.mp3
 - tags:
   - U-verbs
+  - Verb
   vocabulary:
   - japanese: あう
     english: to meet; to see (a person) (<i>person</i>&nbsp;に)
     kanji: 会う
     kanji_readings:
     - 会: あ
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_82.mp3
   - japanese: ある
     english: there is ... (<i>place</i>&nbsp;に <i>thing</i>&nbsp;が)
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_85.mp3
   - japanese: かう
     english: to buy (〜を)
     kanji: 買う
     kanji_readings:
     - 買: か
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_87.mp3
   - japanese: かく
     english: to write (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
     kanji: 書く
     kanji_readings:
     - 書: か
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_89.mp3
   - japanese: とる
     english: to take (a picture) (〜を)
     kanji: 撮る
     kanji_readings:
     - 撮: と
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_91.mp3
   - japanese: まつ
     english: to wait (〜を)
     kanji: 待つ
     kanji_readings:
     - 待: ま
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_93.mp3
   - japanese: わかる
     english: to understand (〜が)
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_95.mp3
 - tags:
   - Ru-verbs
+  - Verb
   vocabulary:
   - japanese: いる
     english: (a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)
+    verb_type: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_98.mp3
 - tags:
   - Adverbs_and_Other_Expressions

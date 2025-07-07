@@ -197,30 +197,35 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_81.mp3
 - tags:
   - U-verbs
+  - Verb
   vocabulary:
   - japanese: あむ
     english: to knit (~を)
     kanji: 編む
     kanji_readings:
     - 編: あ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_84.mp3
   - japanese: がんばる
     english: to do one's best; to try hard
     kanji: 頑張る
     kanji_readings:
     - 頑張: がんば
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_86.mp3
   - japanese: なく
     english: to cry
     kanji: 泣く
     kanji_readings:
     - 泣: な
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_89.mp3
   - japanese: みがく
     english: to brush (teeth); to polish (~を)
     kanji: 磨く
     kanji_readings:
     - 磨: みが
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_91.mp3
   - japanese: やくそくをまもる
     english: to keep a promise (lit.”protect a promise”)
@@ -228,15 +233,18 @@ vocabulary:
     kanji_readings:
     - 約束: やくそく
     - 守: まも
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_94.mp3
 - tags:
   - Irregular_Verbs
+  - Verb
   vocabulary:
   - japanese: かんどうする
     english: to be moved; touched (by …) (~に)
     kanji: 感動する
     kanji_readings:
     - 感動: かんどう
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_97.mp3
 - tags:
   - Adverbs_and_Other_Expressions

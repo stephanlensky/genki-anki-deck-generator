@@ -230,36 +230,43 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_95.mp3
 - tags:
   - U-verbs
+  - Verb
   vocabulary:
   - japanese: およぐ
     english: to swim
     kanji: 泳ぐ
     kanji_readings:
     - 泳: およ
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_99.mp3
   - japanese: きく
     english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
     kanji: 聞く
     kanji_readings:
     - 聞: き
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_101.mp3
   - japanese: のる
     english: to ride; to board (〜に)
     kanji: 乗る
     kanji_readings:
     - 乗: の
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_103.mp3
   - japanese: やる
     english: to do; to perform (〜を)
+    verb_type: godan
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_106.mp3
 - tags:
   - Ru-verbs
+  - Verb
   vocabulary:
   - japanese: でかける
     english: to go out
     kanji: 出かける
     kanji_readings:
     - 出: で
+    verb_type: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_110.mp3
 - tags:
   - Adverbs_and_Other_Expressions

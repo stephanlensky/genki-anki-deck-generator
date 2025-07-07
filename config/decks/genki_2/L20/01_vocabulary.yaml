@@ -148,6 +148,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_52.mp3
 - tags:
   - U-verbs
+  - Verb
   vocabulary:
   - japanese: おる
     japanese_note: (rare)
@@ -155,36 +156,42 @@ vocabulary:
     kanji: 居る
     kanji_readings:
     - 居: お
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_55.mp3
   - japanese: まいる
     english: extra-modest expression for いく、くる
     kanji: 参る
     kanji_readings:
     - 参: まい
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_57.mp3
   - japanese: もうす
     english: extra-modest expression for いう
     kanji: 申す
     kanji_readings:
     - 申: もう
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_59.mp3
   - japanese: いたす
     english: extra-modest expression for する
     kanji: 致す
     kanji_readings:
     - 致: いた
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_61.mp3
   - japanese: いただく
     english: extra-modest expression for たべる、のむ
     kanji: 頂く
     kanji_readings:
     - 頂: いただ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_63.mp3
   - japanese: ござる
     english: extra-modest expression for ある
     kanji: 御座る
     kanji_readings:
     - 御座: ござ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_65.mp3
   - japanese: ～ておる
     japanese_note: (rare)
@@ -192,6 +199,7 @@ vocabulary:
     kanji: ～て居る
     kanji_readings:
     - 居: お
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_67.mp3
   - japanese: ～でござる
     japanese_note: (rare)
@@ -199,84 +207,99 @@ vocabulary:
     kanji: ～御座る
     kanji_readings:
     - 御座: でござ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_69.mp3
   - japanese: いただく
     english: humble expression for もらう
     kanji: 頂く
     kanji_readings:
     - 頂: いただ
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_71.mp3
   - japanese: うかがう
     english: (1) to humbly visit (place に); to humbly ask (person に)
     kanji: 伺う
     kanji_readings:
     - 伺: うかが
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_73.mp3
   - japanese: まがる
     english: to turn (right/left) (corner を direction に)
     kanji: 曲がる
     kanji_readings:
     - 曲: ま
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_76.mp3
   - japanese: もどる
     english: to return; to come back (～に)
     kanji: 戻る
     kanji_readings:
     - 戻: もど
+    verb_type: godan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_78.mp3
 - tags:
   - Ru-verbs
+  - Verb
   vocabulary:
   - japanese: さしあげる
     english: humble expression for あげる
     kanji: 差し上げる
     kanji_readings:
     - 差し上: さしあ
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_81.mp3
   - japanese: きこえる
     english: to be audible (～が)
     kanji: 聞こえる
     kanji_readings:
     - 聞: き
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_83.mp3
   - japanese: つたえる
     english: to convey message (person に)
     kanji: 伝える
     kanji_readings:
     - 伝: つた
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_85.mp3
   - japanese: またせる
     english: to keep (someone) waiting (～を)
     kanji: 待たせる
     kanji_readings:
     - 待: ま
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_87.mp3
   - japanese: つづける
     english: to continue (～を)
     kanji: 続ける
     kanji_readings:
     - 続: つづ
+    verb_type: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_89.mp3
 - tags:
   - Irregular_Verbs
+  - Verb
   vocabulary:
   - japanese: こうかんする
     english: to exchange (XとYを)
     kanji: 交換する
     kanji_readings:
     - 交換: こうかん
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_92.mp3
   - japanese: へんぴんする
     english: to return (merchandise) (～を)
     kanji: 返品する
     kanji_readings:
     - 返品: へんぴん
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_94.mp3
   - japanese: せいかつする
     english: to lead a life
     kanji: 生活する
     kanji_readings:
     - 生活: せいかつ
+    verb_type: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_96.mp3
 - tags:
   - Adverbs_and_Other_Expressions
