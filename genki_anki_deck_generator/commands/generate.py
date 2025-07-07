@@ -6,12 +6,13 @@ import minify_html
 
 from genki_anki_deck_generator.config import get_config
 from genki_anki_deck_generator.template import Card, Template, load_templates
+from genki_anki_deck_generator.utils.conjugations import get_conjugations
 from genki_anki_deck_generator.utils.duplicates import remove_duplicates
 from genki_anki_deck_generator.utils.jinja import render_template
 
 HTML_SOUND = """
 {{#sound}}
-<div class="spacer"></div>
+<div class="spacer-small"></div>
 {{sound}}
 {{/sound}}
 """
@@ -103,6 +104,7 @@ class GenkiNote(genanki.Note):  # type: ignore
             else None
         )
         context["kanji_meanings"] = card.kanji_meanings if card.kanji_meanings else {}
+        context["conjugations"] = get_conjugations(card)
         super().__init__(
             model=model,
             fields=[

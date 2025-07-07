@@ -1,0 +1,70 @@
+{% if verb_type %}
+<div class="spacer-small"></div>
+<p class="heading">Verb type:</p>
+<p>
+  {{ verb_type | capitalize }}{% if conjugations %} <a class="show-conjugations" href="#">(show)</a>{% endif %}
+</p>
+{% if conjugations %}
+<table class="conjugation-table" style="display: none">
+  <thead>
+    <tr>
+      <th>Form</th>
+      <th>Conjugation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div class="conjugation-name">
+          <div>Plain</div>
+          <a class="conjugation-explanation" href="https://jpdb.io/conjugation/verb/%E3%82%8B">?</a>
+        </div>
+      </td>
+      <td>{{ conjugations.plain }}</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="conjugation-name">
+          <div>Past</div>
+          <a class="conjugation-explanation" href="https://jpdb.io/conjugation/verb/%E3%81%9F">?</a>
+        </div>
+      </td>
+      <td>{{ conjugations.past }}</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="conjugation-name">
+          <div>Negative</div>
+          <a class="conjugation-explanation" href="https://jpdb.io/conjugation/verb/%E3%81%AA%E3%81%84">?</a>
+        </div>
+      </td>
+      <td>{{ conjugations.negative }}</td>
+    <tr>
+      <td>
+        <div class="conjugation-name">
+          <div>〜ます</div>
+          <a class="conjugation-explanation" href="https://jpdb.io/conjugation/verb/%E3%81%BE%E3%81%99">?</a>
+        </div>
+      </td>
+      <td>{{ conjugations.polite }}</td>
+    </tr>
+  </tbody>
+</table>
+<script type="text/javascript">
+  const showConjugationsLink = document.querySelector(".show-conjugations");
+  let conjugationsVisible = false;
+  showConjugationsLink.addEventListener("click", function (event) {
+    event.preventDefault();
+    const conjugationsDiv = document.querySelector(".conjugation-table");
+    if (conjugationsVisible) {
+      conjugationsVisible = false;
+      conjugationsDiv.style.display = "none";
+      showConjugationsLink.textContent = "(show)";
+    } else {
+      conjugationsVisible = true;
+      conjugationsDiv.style.display = "inline-block";
+      showConjugationsLink.textContent = "(hide)";
+    }
+  });
+</script>
+{% endif %} {% endif %}

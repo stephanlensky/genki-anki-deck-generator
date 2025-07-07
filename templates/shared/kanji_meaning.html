@@ -1,5 +1,5 @@
 {% if kanji_meanings %}
-<div class="spacer"></div>
+<div class="spacer-small"></div>
 <p class="heading">Kanji meanings:</p>
 {{ kanji_meanings.items() | selectattr(1, 'ne', none) | map(attribute=0) | join(', ') }}<br />
 {{ kanji_meanings.values() | select('ne', none) | map('first') | join(', ') }}
