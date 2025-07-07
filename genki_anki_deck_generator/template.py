@@ -11,7 +11,7 @@ from genki_anki_deck_generator.config import get_config, get_deck_config
 from genki_anki_deck_generator.utils.kanji_meanings import get_kanji_meanings
 
 
-class VerbType(StrEnum):
+class VerbGroup(StrEnum):
     ICHIDAN = "ichidan"
     GODAN = "godan"
     IRREGULAR = "irregular"
@@ -25,7 +25,7 @@ class Card:
     english: str
     kanji: str | None = None
     kanji_readings: list[tuple[str, str]] | None = None
-    verb_type: VerbType | None = None
+    verb_group: VerbGroup | None = None
     sound_file: str | None = None
     parent: CardCollection | None = None
 
@@ -67,8 +67,8 @@ class Card:
             d["kanji"] = self.kanji
         if self.kanji_readings:
             d["kanji_readings"] = [{k: r} for k, r in self.kanji_readings]
-        if self.verb_type:
-            d["verb_type"] = self.verb_type.value
+        if self.verb_group:
+            d["verb_group"] = self.verb_group.value
         if self.sound_file:
             d["sound_file"] = str(PurePosixPath(self.sound_file))
         return d
@@ -176,8 +176,8 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
             ]
             if template_yaml.get("kanji_readings")
             else None,
-            verb_type=VerbType(template_yaml["verb_type"])
-            if "verb_type" in template_yaml
+            verb_group=VerbGroup(template_yaml["verb_group"])
+            if "verb_group" in template_yaml
             else None,
             sound_file=template_yaml.get("sound_file"),
         )

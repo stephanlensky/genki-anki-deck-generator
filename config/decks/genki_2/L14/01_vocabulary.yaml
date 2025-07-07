@@ -169,14 +169,14 @@ vocabulary:
     kanji: 送る
     kanji_readings:
     - 送: おく
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_71.mp3
   - japanese: にあう
     english: to look good on somebody (thing が）
     kanji: 似合う
     kanji_readings:
     - 似合: にあ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_73.mp3
 - tags:
   - Ru-verbs
@@ -187,7 +187,7 @@ vocabulary:
     kanji: 諦める
     kanji_readings:
     - 諦: あきら
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_76.mp3
   - japanese: あげる
     japanese_note: (rare)
@@ -195,7 +195,7 @@ vocabulary:
     kanji: 上げる
     kanji_readings:
     - 上: あ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_78.mp3
   - japanese: くれる
     japanese_note: (rare)
@@ -203,7 +203,7 @@ vocabulary:
     kanji: 呉れる
     kanji_readings:
     - 呉: く
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_80.mp3
   - japanese: できる
     japanese_note: (rare)
@@ -211,7 +211,7 @@ vocabulary:
     kanji: '出来る '
     kanji_readings:
     - 出来: でき
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_82.mp3
 - tags:
   - Irregular_Verbs
@@ -222,18 +222,18 @@ vocabulary:
     kanji: 相談する
     kanji_readings:
     - 相談: そうだん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_86.mp3
   - japanese: ちゅういする
     english: To give warning (person に); to watch out (~に)
     kanji: 注意する
     kanji_readings:
     - 注意: ちゅうい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_88.mp3
   - japanese: プロポーズする
     english: to propose marriage (person に)
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_91.mp3
 - tags:
   - Adverbs_and_Other_Expressions

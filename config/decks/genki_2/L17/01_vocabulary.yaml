@@ -241,35 +241,35 @@ vocabulary:
     kanji: 入れる
     kanji_readings:
     - 入: い
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_92.mp3
   - japanese: うまれる
     english: to be born (～が)
     kanji: 生まれる
     kanji_readings:
     - 生: う
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_94.mp3
   - japanese: かぎをかける
     english: to lock (～に)
     kanji: 鍵をかける
     kanji_readings:
     - 鍵: かぎ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_96.mp3
   - japanese: たりる
     english: to be sufficient; to be enough (～が)
     kanji: 足りる
     kanji_readings:
     - 足: た
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_98.mp3
   - japanese: なれる
     english: to get used to… (～に)
     kanji: 慣れる
     kanji_readings:
     - 慣: な
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_101.mp3
 - tags:
   - Irregular_Verbs
@@ -280,33 +280,33 @@ vocabulary:
     kanji: お祈りする
     kanji_readings:
     - 祈: いの
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_104.mp3
   - japanese: けしょうする
     english: to put makeup on
     kanji: 化粧する
     kanji_readings:
     - 化粧: けしょう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_106.mp3
   - japanese: しゅうしょくする
     english: to get a full-time job (at) (companyに)
     kanji: 就職する
     kanji_readings:
     - 就職: しゅうしょく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_108.mp3
   - japanese: りこんする
     english: to get a divorce (personと)
     kanji: 離婚する
     kanji_readings:
     - 離婚: りこん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_110.mp3
   - japanese: する
     japanese_note: (e.g. ネクタイをする)
     english: to wear small items (necktie, watch, etc.) (～を)
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_112.mp3
 - tags:
   - Adverbs_and_Other_Expressions

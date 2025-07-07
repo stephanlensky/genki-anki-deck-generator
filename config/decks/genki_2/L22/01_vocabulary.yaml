@@ -185,49 +185,49 @@ vocabulary:
     kanji_readings:
     - 風: かぜ
     - 吹: ふ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_65.mp3
   - japanese: コピーをとる
     english: to make a photocopy
     kanji: コピーを取る
     kanji_readings:
     - 取: と
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_67.mp3
   - japanese: はこぶ
     english: to carry (～を)
     kanji: 運ぶ
     kanji_readings:
     - 運: はこ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_69.mp3
   - japanese: ひろう
     english: to pick up (something) (～を)
     kanji: 拾う
     kanji_readings:
     - 拾: ひろ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_71.mp3
   - japanese: ほ（う）っておく
     english: to leave (someone/something) alone; to neglect (～を)
     kanji: 放っておく
     kanji_readings:
     - 放: ほう
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_73.mp3
   - japanese: まにあう
     english: to be in time  (～に)
     kanji: 間に合う
     kanji_readings:
     - 間に合: まにあ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_77.mp3
   - japanese: かつ
     english: to win (～に)
     kanji: 勝つ
     kanji_readings:
     - 勝: か
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_79.mp3
 - tags:
   - Ru-verbs
@@ -238,7 +238,7 @@ vocabulary:
     kanji: 受ける
     kanji_readings:
     - 受: う
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_82.mp3
   - japanese: けいかくをたてる
     english: to make a plan
@@ -246,28 +246,28 @@ vocabulary:
     kanji_readings:
     - 計画: けいかく
     - 立: た
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_84.mp3
   - japanese: そだてる
     english: to raise; to bring up (～を)
     kanji: 育てる
     kanji_readings:
     - 育: そだ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_86.mp3
   - japanese: たすける
     english: to help; to rescue (～を)
     kanji: 助ける
     kanji_readings:
     - 助: たす
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_89.mp3
   - japanese: まける
     english: to lose (a match) (～に)
     kanji: 負ける
     kanji_readings:
     - 負: ま
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_92.mp3
 - tags:
   - Irregular_Verbs
@@ -278,42 +278,42 @@ vocabulary:
     kanji: お願いする
     kanji_readings:
     - 願: ねが
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_95.mp3
   - japanese: さんせいする
     english: to agree (～に)
     kanji: 賛成する
     kanji_readings:
     - 賛成: さんせい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_97.mp3
   - japanese: はんたいする
     english: to oppose; to object to (～に)
     kanji: 反対する
     kanji_readings:
     - 反対: はんたい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_99.mp3
   - japanese: しっぱいする
     english: to fail; to be unsuccessful
     kanji: 失敗する
     kanji_readings:
     - 失敗: しっぱい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_102.mp3
   - japanese: てつやする
     english: to stay up all night
     kanji: 徹夜する
     kanji_readings:
     - 徹夜: てつや
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_105.mp3
   - japanese: ほんやくする
     english: to translate (source と target に)
     kanji: 翻訳する
     kanji_readings:
     - 翻訳: ほんやく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_107.mp3
 - tags:
   - Adverbs_and_Other_Expressions

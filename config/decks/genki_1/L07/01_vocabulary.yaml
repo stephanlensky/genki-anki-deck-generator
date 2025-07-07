@@ -208,64 +208,64 @@ vocabulary:
     kanji: 歌う
     kanji_readings:
     - 歌: うた
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_77.mp3
   - japanese: かぶる
     english: to put on (a hat) (〜を)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_79.mp3
   - japanese: はく
     english: to put on (items below your waist) (〜を)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_81.mp3
   - japanese: しる
     english: to get to know (〜を)
     kanji: 知る
     kanji_readings:
     - 知: し
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_83.mp3
   - japanese: しっています
     english: I know
     kanji: 知っています
     kanji_readings:
     - 知: し
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_85.mp3
   - japanese: しりません
     english: I do not know
     kanji: 知りません
     kanji_readings:
     - 知: し
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_87.mp3
   - japanese: すむ
     english: to live (〜にすんでいます)
     kanji: 住む
     kanji_readings:
     - 住: す
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_89.mp3
   - japanese: はたらく
     english: to work
     kanji: 働く
     kanji_readings:
     - 働: はたら
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_91.mp3
   - japanese: ふとる
     english: to gain weight
     kanji: 太る
     kanji_readings:
     - 太: ふと
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_93.mp3
   - japanese: ふとっています
     english: to be on the heavy side; overweight
     kanji: 太っています
     kanji_readings:
     - 太: ふと
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_95.mp3
 - tags:
   - Ru-verbs
@@ -273,22 +273,22 @@ vocabulary:
   vocabulary:
   - japanese: （めがねを）かける
     english: to put on (glasses)
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_99.mp3
   - japanese: きる
     english: to put on (clothes above your waist) (〜を)
     kanji: 着る
     kanji_readings:
     - 着: き
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_101.mp3
   - japanese: やせる
     english: to lose weight
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_103.mp3
   - japanese: やせています
     english: to be thin
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_105.mp3
 - tags:
   - Irregular_Verbs
@@ -299,7 +299,7 @@ vocabulary:
     kanji: 結婚する
     kanji_readings:
     - 結婚: けっこん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L07/K07_05/K07_05_108.mp3
 - tags:
   - Adverbs_and_Other_Expressions

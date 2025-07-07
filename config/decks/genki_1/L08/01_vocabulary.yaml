@@ -167,25 +167,25 @@ vocabulary:
     kanji: 洗う
     kanji_readings:
     - 洗: あら
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_68.mp3
   - japanese: いう
     english: to say
     kanji: 言う
     kanji_readings:
     - 言: い
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_70.mp3
   - japanese: いる
     english: to need (〜が)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_72.mp3
   - japanese: おそくなる
     english: to be late
     kanji: 遅くなる
     kanji_readings:
     - 遅: おそ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_74.mp3
   - japanese: おふろにはいる
     english: to take a bath
@@ -193,28 +193,28 @@ vocabulary:
     kanji_readings:
     - 風呂: ふろ
     - 入: はい
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_76.mp3
   - japanese: おもう
     english: to think
     kanji: 思う
     kanji_readings:
     - 思: おも
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_78.mp3
   - japanese: きる
     english: to cut (〜を)
     kanji: 切る
     kanji_readings:
     - 切: き
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_80.mp3
   - japanese: つくる
     english: to make (〜を)
     kanji: 作る
     kanji_readings:
     - 作: つく
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_82.mp3
   - japanese: （あめ／ゆきが）ふる
     english: (rain/snow) falls
@@ -223,14 +223,14 @@ vocabulary:
     - 雨: あめ
     - 雪: ゆき
     - 降: ふ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_84.mp3
   - japanese: もっていく
     english: to take (a thing) (〜を)
     kanji: 持っていく
     kanji_readings:
     - 持: も
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_86.mp3
 - tags:
   - Ru-verbs
@@ -241,14 +241,14 @@ vocabulary:
     kanji: 捨てる
     kanji_readings:
     - 捨: す
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_89.mp3
   - japanese: はじめる
     english: to begin (〜を)
     kanji: 始める
     kanji_readings:
     - 始: はじ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_91.mp3
 - tags:
   - Irregular_Verbs
@@ -259,28 +259,28 @@ vocabulary:
     kanji: 運転する
     kanji_readings:
     - 運転: うんてん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_94.mp3
   - japanese: せんたくする
     english: to do laundry (〜を)
     kanji: 洗濯する
     kanji_readings:
     - 洗濯: せんたく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_96.mp3
   - japanese: そうじする
     english: to clean (〜を)
     kanji: 掃除する
     kanji_readings:
     - 掃除: そうじ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_98.mp3
   - japanese: りょうりする
     english: to cook
     kanji: 料理する
     kanji_readings:
     - 料理: りょうり
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_100.mp3
 - tags:
   - Adverbs_and_Other_Expressions

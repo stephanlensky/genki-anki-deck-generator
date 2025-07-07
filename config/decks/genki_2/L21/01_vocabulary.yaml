@@ -160,28 +160,28 @@ vocabulary:
     kanji: 置く
     kanji_readings:
     - 置: お
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_62.mp3
   - japanese: つつむ
     english: to wrap; to cover (～を)
     kanji: 包む
     kanji_readings:
     - 包: つつ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_66.mp3
   - japanese: はる
     english: to post; to stick (place に object を)
     kanji: 貼る
     kanji_readings:
     - 貼: は
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_69.mp3
   - japanese: やく
     english: to bake; to burn; to grill (～を)
     kanji: 焼く
     kanji_readings:
     - 焼: や
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_72.mp3
   - japanese: やる
     japanese_note: (rare)
@@ -189,7 +189,7 @@ vocabulary:
     kanji: 遣る
     kanji_readings:
     - 遣: や
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_76.mp3
   - japanese: ける
     japanese_note: (rare)
@@ -197,49 +197,49 @@ vocabulary:
     kanji: 蹴る
     kanji_readings:
     - 蹴: け
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_78.mp3
   - japanese: なぐる
     english: to strike; to hit; to punch  (～を)
     kanji: 殴る
     kanji_readings:
     - 殴: なぐ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_80.mp3
   - japanese: ふむ
     english: to step on  (～を)
     kanji: 踏む
     kanji_readings:
     - 踏: ふ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_84.mp3
   - japanese: さす
     english: to bite  (～を)
     kanji: 刺す
     kanji_readings:
     - 刺: さ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_86.mp3
   - japanese: ぬすむ
     english: to steal; to rob (～を)
     kanji: 盗む
     kanji_readings:
     - 盗: ぬす
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_88.mp3
   - japanese: さわる
     english: to touch (～に／を)
     kanji: 触る
     kanji_readings:
     - 触: さわ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_91.mp3
   - japanese: つかまる
     english: to be arrested; to be caught (～が)
     kanji: 捕まる
     kanji_readings:
     - 捕: つか
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_93.mp3
   - japanese: きがつく
     english: to notice (～に)
@@ -247,7 +247,7 @@ vocabulary:
     kanji_readings:
     - 気: き
     - 付: つ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_96.mp3
   - japanese: ふる
     japanese_note: (rare)
@@ -255,7 +255,7 @@ vocabulary:
     kanji: 振る
     kanji_readings:
     - 振: ふ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_98.mp3
   - japanese: もんくをいう
     english: to complain
@@ -263,7 +263,7 @@ vocabulary:
     kanji_readings:
     - 文句: もんく
     - 言: い
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_102.mp3
 - tags:
   - Ru-verbs
@@ -275,7 +275,7 @@ vocabulary:
     kanji: 苛める
     kanji_readings:
     - 苛: いじ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_105.mp3
   - japanese: ほめる
     japanese_note: (rare)
@@ -283,46 +283,46 @@ vocabulary:
     kanji: 褒める
     kanji_readings:
     - 褒: ほ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_107.mp3
   - japanese: きがえる
     english: to change clothes
     kanji: 着替える
     kanji_readings:
     - 着替: きが
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_110.mp3
   - japanese: しんじる
     english: to believe (～を)
     kanji: 信じる
     kanji_readings:
     - 信: しん
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_112.mp3
   - japanese: ためる
     english: to save money (～を)
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_114.mp3
   - japanese: まちがえる
     english: to make a mistake (～を)
     kanji: 間違える
     kanji_readings:
     - 間違: まちが
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_116.mp3
   - japanese: みつける
     english: to find (～を)
     kanji: 見つける
     kanji_readings:
     - 見: み
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_118.mp3
   - japanese: くらべる
     english: to compare (XとY～を)
     kanji: 比べる
     kanji_readings:
     - 比: くら
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_120.mp3
 - tags:
   - Irregular_Verbs
@@ -334,7 +334,7 @@ vocabulary:
     kanji: 馬鹿にする
     kanji_readings:
     - 馬鹿: ばか
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_123.mp3
   - japanese: びっくりする
     japanese_note: (rare)
@@ -342,21 +342,21 @@ vocabulary:
     kanji: 吃驚する
     kanji_readings:
     - 吃驚: びっくり
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_126.mp3
   - japanese: ひるねをする
     english: to take a nap
     kanji: 昼寝をする
     kanji_readings:
     - 昼寝: ひるね
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_128.mp3
   - japanese: れんらくする
     english: to contact (person に)
     kanji: 連絡する
     kanji_readings:
     - 連絡: れんらく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_130.mp3
 - tags:
   - Adverbs_and_Other_Expressions

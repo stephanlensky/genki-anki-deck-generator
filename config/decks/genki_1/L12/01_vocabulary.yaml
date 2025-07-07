@@ -197,21 +197,21 @@ vocabulary:
     kanji: 歩く
     kanji_readings:
     - 歩: ある
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_79.mp3
   - japanese: かぜをひく
     english: to catch a cold
     kanji: 風邪をひく
     kanji_readings:
     - 風邪: かぜ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_81.mp3
   - japanese: ねつがある
     english: to have a fever
     kanji: 熱がある
     kanji_readings:
     - 熱: ねつ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_83.mp3
   - japanese: のどがかわく
     english: to become thirsty
@@ -219,25 +219,25 @@ vocabulary:
     kanji_readings:
     - 喉: のど
     - 渇: かわ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_85.mp3
   - japanese: はらう
     english: to pay (〜を)
     kanji: 払う
     kanji_readings:
     - 払: はら
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_87.mp3
   - japanese: なくす
     english: to lose (〜を)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_89.mp3
   - japanese: きょうみがある
     english: to be interested (in ...) (<i>topic </i>に)
     kanji: 興味がある
     kanji_readings:
     - 興味: きょうみ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_91.mp3
 - tags:
   - Ru-verbs
@@ -248,14 +248,14 @@ vocabulary:
     kanji: せきが出る
     kanji_readings:
     - 出: で
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_94.mp3
   - japanese: わかれる
     english: to break up; to separate (<i>person</i>&nbsp;と)
     kanji: 別れる
     kanji_readings:
     - 別: わか
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_96.mp3
 - tags:
   - Irregular_Verbs
@@ -266,14 +266,14 @@ vocabulary:
     kanji: 緊張する
     kanji_readings:
     - 緊張: きんちょう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_100.mp3
   - japanese: しんぱいする
     english: to worry
     kanji: 心配する
     kanji_readings:
     - 心配: しんぱい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_102.mp3
 - tags:
   - Adverbs_and_Other_Expressions

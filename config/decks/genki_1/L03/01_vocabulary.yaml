@@ -182,42 +182,42 @@ vocabulary:
     kanji: 行く
     kanji_readings:
     - 行: い
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_74.mp3
   - japanese: かえる
     english: to go back; to return (<i>destination</i> に/へ)
     kanji: 帰る
     kanji_readings:
     - 帰: かえ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_76.mp3
   - japanese: きく
     english: to listen; to hear (〜を); to ask (<i>person</i>&nbsp;に)
     kanji: 聞く
     kanji_readings:
     - 聞: き
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_79.mp3
   - japanese: のむ
     english: to drink (〜を)
     kanji: 飲む
     kanji_readings:
     - 飲: の
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_82.mp3
   - japanese: はなす
     english: to speak; to talk (<i>language</i> を/で)
     kanji: 話す
     kanji_readings:
     - 話: はな
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_84.mp3
   - japanese: よむ
     english: to read (〜を)
     kanji: 読む
     kanji_readings:
     - 読: よ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_87.mp3
 - tags:
   - Ru-verbs
@@ -228,28 +228,28 @@ vocabulary:
     kanji: 起きる
     kanji_readings:
     - 起: お
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_90.mp3
   - japanese: たべる
     english: to eat (〜を)
     kanji: 食べる
     kanji_readings:
     - 食: た
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_92.mp3
   - japanese: ねる
     english: to sleep; to go to sleep
     kanji: 寝る
     kanji_readings:
     - 寝: ね
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_94.mp3
   - japanese: みる
     english: to see; to look at; to watch (〜を)
     kanji: 見る
     kanji_readings:
     - 見: み
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_97.mp3
 - tags:
   - Irregular_Verbs
@@ -260,18 +260,18 @@ vocabulary:
     kanji: 来る
     kanji_readings:
     - 来: く
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_102.mp3
   - japanese: する
     english: to do (〜を)
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_104.mp3
   - japanese: べんきょうする
     english: to study (〜を)
     kanji: 勉強する
     kanji_readings:
     - 勉強: べんきょう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_106.mp3
 - tags:
   - Adjectives

@@ -151,14 +151,14 @@ vocabulary:
     kanji_readings:
     - 雨: あめ
     - 止: や
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_53.mp3
   - japanese: ちがう
     english: to be different; to be wrong (～と)
     kanji: 違う
     kanji_readings:
     - 違: ちが
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_55.mp3
   - japanese: なくなる
     japanese_note: (rare)
@@ -166,18 +166,18 @@ vocabulary:
     kanji: 無くなる
     kanji_readings:
     - 無: な
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_58.mp3
   - japanese: いなくなる
     english: (someone) is gone; to disappear (～が)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_61.mp3
   - japanese: おせわになる
     english: to be in someone's care (～に)
     kanji: お世話になる
     kanji_readings:
     - 世話: せわ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_64.mp3
   - japanese: おなかをこわす
     japanese_note: (rare)
@@ -186,7 +186,7 @@ vocabulary:
     kanji_readings:
     - 腹: なか
     - 壊: こわ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_66.mp3
   - japanese: きにいる
     english: to find something agreeable (～が/を)
@@ -194,7 +194,7 @@ vocabulary:
     kanji_readings:
     - 気: き
     - 入: い
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_68.mp3
   - japanese: わるぐちをいう
     english: to talk behind someone's back
@@ -202,7 +202,7 @@ vocabulary:
     kanji_readings:
     - 悪口: わるぐち
     - 言: い
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_70.mp3
 - tags:
   - Ru-verbs
@@ -213,14 +213,14 @@ vocabulary:
     kanji: 答える
     kanji_readings:
     - 答: こた
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_73.mp3
   - japanese: はなれる
     english: (something/someone) separates; parts from (～と)
     kanji: 離れる
     kanji_readings:
     - 離: はな
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_75.mp3
 - tags:
   - Irregular_Verbs
@@ -229,57 +229,57 @@ vocabulary:
   - japanese: がっかりする
     japanese_note: or ガッカリする (hiragana is more common)
     english: to be disappointed (～に)
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_79.mp3
   - japanese: がまんする
     english: to be tolerant/patient (～を)
     kanji: 我慢する
     kanji_readings:
     - 我慢: がまん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_81.mp3
   - japanese: どうじょうする
     english: to sympathize (～に)
     kanji: 同情する
     kanji_readings:
     - 同情: どうじょう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_84.mp3
   - japanese: ～かおをする
     english: to look… (facial expression)
     kanji: ～顔をする
     kanji_readings:
     - 顔: かお
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_86.mp3
   - japanese: カンニングする
     english: to cheat in an exam
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_88.mp3
   - japanese: チェックする
     english: to check (～を)
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_90.mp3
   - japanese: せわをする
     english: to take care of…(～の)
     kanji: 世話をする
     kanji_readings:
     - 世話: せわ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_92.mp3
   - japanese: ゆうしょうする
     english: to win a championship
     kanji: 優勝する
     kanji_readings:
     - 優勝: ゆうしょう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_94.mp3
   - japanese: もどってくる
     english: (something/someone) comes back
     kanji: 戻ってくる
     kanji_readings:
     - 戻: もど
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_96.mp3
 - tags:
   - Adverbs_and_Other_Expressions

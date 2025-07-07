@@ -224,7 +224,7 @@ vocabulary:
     kanji: 遅れる
     kanji_readings:
     - 遅: おく
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_84.mp3
   - japanese: かける
     japanese_note: (rare)
@@ -232,7 +232,7 @@ vocabulary:
     kanji: 掛ける
     kanji_readings:
     - 掛: か
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_86.mp3
   - japanese: もてる
     japanese_note: (rare, モテル also common)
@@ -240,14 +240,14 @@ vocabulary:
     kanji: 持てる
     kanji_readings:
     - 持: も
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_88.mp3
   - japanese: はれる
     english: to become sunny
     kanji: 晴れる
     kanji_readings:
     - 晴: は
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_90.mp3
 - tags:
   - Irregular_Verbs
@@ -259,28 +259,28 @@ vocabulary:
     kanji: ご馳走する
     kanji_readings:
     - 馳走: ちそう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_93.mp3
   - japanese: えんりょする
     english: to hold back for the time being; to refrain from
     kanji: 遠慮する
     kanji_readings:
     - 遠慮: えんりょ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_96.mp3
   - japanese: しょうたいする
     english: to invite someone (to an event/a place) (person を event に)
     kanji: 招待する
     kanji_readings:
     - 招待: しょうたい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_99.mp3
   - japanese: はなしをする
     english: to have a talk
     kanji: 話をする
     kanji_readings:
     - 話: はなし
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_101.mp3
 - tags:
   - Adverbs_and_Other_Expressions

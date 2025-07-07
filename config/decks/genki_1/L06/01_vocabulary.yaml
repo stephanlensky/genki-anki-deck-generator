@@ -115,91 +115,91 @@ vocabulary:
     kanji: 遊ぶ
     kanji_readings:
     - 遊: あそ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_44.mp3
   - japanese: いそぐ
     english: to hurry
     kanji: 急ぐ
     kanji_readings:
     - 急: いそ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_47.mp3
   - japanese: かえす
     english: to return (a thing) (<i>person</i>&nbsp;に <i>thing</i>&nbsp;を)
     kanji: 返す
     kanji_readings:
     - 返: かえ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_49.mp3
   - japanese: けす
     english: to turn off; to erase (〜を)
     kanji: 消す
     kanji_readings:
     - 消: け
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_51.mp3
   - japanese: しぬ
     english: to die
     kanji: 死ぬ
     kanji_readings:
     - 死: し
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_54.mp3
   - japanese: すわる
     english: to sit down (<i>seat</i>&nbsp;に)
     kanji: 座る
     kanji_readings:
     - 座: すわ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_56.mp3
   - japanese: たつ
     english: to stand up
     kanji: 立つ
     kanji_readings:
     - 立: た
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_58.mp3
   - japanese: たばこをすう
     english: to smoke
     kanji: たばこを吸う
     kanji_readings:
     - 吸: す
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_60.mp3
   - japanese: つかう
     english: to use (〜を)
     kanji: 使う
     kanji_readings:
     - 使: つか
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_62.mp3
   - japanese: てつだう
     english: to help (<i>person</i>/<i>task</i>&nbsp;を)
     kanji: 手伝う
     kanji_readings:
     - 手伝: てつだ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_64.mp3
   - japanese: はいる
     english: to enter (〜に)
     kanji: 入る
     kanji_readings:
     - 入: はい
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_66.mp3
   - japanese: もつ
     english: to carry; to hold (〜を)
     kanji: 持つ
     kanji_readings:
     - 持: も
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_68.mp3
   - japanese: やすむ
     english: (1) to be absent (from ...) (〜を)<div>(2) to rest</div>
     kanji: 休む
     kanji_readings:
     - 休: やす
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_71.mp3
 - tags:
   - Ru-verbs
@@ -210,53 +210,53 @@ vocabulary:
     kanji: 開ける
     kanji_readings:
     - 開: あ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_75.mp3
   - japanese: しめる
     english: to close (something) (〜を)
     kanji: 閉める
     kanji_readings:
     - 閉: し
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_77.mp3
   - japanese: おしえる
     english: to teach; to instruct (person に thing を)
     kanji: 教える
     kanji_readings:
     - 教: おし
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_79.mp3
   - japanese: わすれる
     english: to forget; to leave behind (〜を)
     kanji: 忘れる
     kanji_readings:
     - 忘: わす
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_82.mp3
   - japanese: おりる
     english: to get off (〜を)
     kanji: 降りる
     kanji_readings:
     - 降: お
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_85.mp3
   - japanese: かりる
     english: to borrow (person に thing を)
     kanji: 借りる
     kanji_readings:
     - 借: か
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_87.mp3
   - japanese: シャワーをあびる
     english: to take a shower
     kanji: シャワーを浴びる
     kanji_readings:
     - 浴: あ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_89.mp3
   - japanese: つける
     english: to turn on (〜を)
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_91.mp3
 - tags:
   - Irregular_Verbs
@@ -267,21 +267,21 @@ vocabulary:
     kanji: 電話する
     kanji_readings:
     - 電話: でんわ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_94.mp3
   - japanese: つれてくる
     english: to bring (a person) (〜を)
     kanji: 連れてくる
     kanji_readings:
     - 連: つ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_96.mp3
   - japanese: もってくる
     english: to bring (a thing) (〜を)
     kanji: 持ってくる
     kanji_readings:
     - 持: も
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_98.mp3
 - tags:
   - Adverbs_and_Other_Expressions

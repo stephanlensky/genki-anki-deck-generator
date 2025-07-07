@@ -225,18 +225,18 @@ vocabulary:
   vocabulary:
   - japanese: かかる
     english: to take (amount of time/money) (<i>no particle</i>)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_83.mp3
   - japanese: とまる
     english: to stay (at a hotel, etc.) (〜に)
     kanji: 泊まる
     kanji_readings:
     - 泊: と
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_86.mp3
   - japanese: なる
     english: to become
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_88.mp3
 - tags:
   - Ru-verbs
@@ -247,7 +247,7 @@ vocabulary:
     kanji: 決める
     kanji_readings:
     - 決: き
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_91.mp3
 - tags:
   - Irregular_Verbs
@@ -255,21 +255,21 @@ vocabulary:
   vocabulary:
   - japanese: ごろごろする
     english: to chill out at home; to stay home and do nothing
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_94.mp3
   - japanese: りょこうする
     english: to travel
     kanji: 旅行する
     kanji_readings:
     - 旅行: りょこう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_97.mp3
   - japanese: れんしゅうする
     english: to practice (〜を)
     kanji: 練習する
     kanji_readings:
     - 練習: れんしゅう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_99.mp3
 - tags:
   - Adverbs_and_Other_Expressions

@@ -163,14 +163,14 @@ vocabulary:
     kanji: 踊る
     kanji_readings:
     - 踊: おど
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_64.mp3
   - japanese: おわる
     english: (something) ends (〜が)
     kanji: 終わる
     kanji_readings:
     - 終: お
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_66.mp3
   - japanese: くすりをのむ
     english: to take medicine
@@ -178,32 +178,32 @@ vocabulary:
     kanji_readings:
     - 薬: くすり
     - 飲: の
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_68.mp3
   - japanese: にんきがある
     english: to be popular
     kanji: 人気がある
     kanji_readings:
     - 人気: にんき
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_70.mp3
   - japanese: はじまる
     english: (something) begins (〜が)
     kanji: 始まる
     kanji_readings:
     - 始: はじ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_72.mp3
   - japanese: ひく
     english: to play (a string instrument or piano) (〜を)
     kanji: 弾く
     kanji_readings:
     - 弾: ひ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_74.mp3
   - japanese: もらう
     english: to get (from somebody) (<i>person</i> に <i>thing</i> を)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_76.mp3
 - tags:
   - Ru-verbs
@@ -214,14 +214,14 @@ vocabulary:
     kanji: 覚える
     kanji_readings:
     - 覚: おぼ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_79.mp3
   - japanese: でる
     english: (1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>
     kanji: 出る
     kanji_readings:
     - 出: で
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_81.mp3
 - tags:
   - Irregular_Verbs
@@ -232,14 +232,14 @@ vocabulary:
     kanji: 運動する
     kanji_readings:
     - 運動: うんどう
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_86.mp3
   - japanese: さんぽする
     english: to take a walk
     kanji: 散歩する
     kanji_readings:
     - 散歩: さんぽ
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_88.mp3
 - tags:
   - Adverbs_and_Other_Expressions

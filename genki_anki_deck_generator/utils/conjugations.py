@@ -2,7 +2,7 @@ from typing import TypedDict
 
 from japanese_verb_conjugator_v2 import VerbClass, generate_japanese_verb_by_str
 
-from genki_anki_deck_generator.template import Card, VerbType
+from genki_anki_deck_generator.template import Card, VerbGroup
 
 
 class ConjugationDict(TypedDict):
@@ -14,7 +14,7 @@ class ConjugationDict(TypedDict):
 
 
 def get_conjugations(card: Card) -> ConjugationDict | None:
-    if card.verb_type is None:
+    if card.verb_group is None:
         return None
 
     verb_class = _get_verb_class(card)
@@ -37,11 +37,11 @@ def get_conjugations(card: Card) -> ConjugationDict | None:
 
 
 def _get_verb_class(card: Card) -> VerbClass:
-    if card.verb_type == VerbType.ICHIDAN:
+    if card.verb_group == VerbGroup.ICHIDAN:
         return VerbClass.ICHIDAN
-    elif card.verb_type == VerbType.GODAN:
+    elif card.verb_group == VerbGroup.GODAN:
         return VerbClass.GODAN
-    elif card.verb_type == VerbType.IRREGULAR:
+    elif card.verb_group == VerbGroup.IRREGULAR:
         return VerbClass.IRREGULAR
     else:
-        raise ValueError(f"Unknown verb type: {card.verb_type}")
+        raise ValueError(f"Unknown verb group: {card.verb_group}")

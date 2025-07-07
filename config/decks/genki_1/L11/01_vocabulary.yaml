@@ -144,50 +144,50 @@ vocabulary:
   vocabulary:
   - japanese: うそをつく
     english: to tell a lie
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_58.mp3
   - japanese: おなかがすく
     english: to become hungry
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_60.mp3
   - japanese: かう
     english: to own (a pet) (〜を)
     kanji: 飼う
     kanji_readings:
     - 飼: か
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_62.mp3
   - japanese: サボる
     english: to cut (classes) (〜を)
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_64.mp3
   - japanese: とる
     english: to take (a class); to get (a grade) (〜を)
     kanji: 取る
     kanji_readings:
     - 取: と
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_66.mp3
   - japanese: ならう
     english: to learn (〜を)
     kanji: 習う
     kanji_readings:
     - 習: なら
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_69.mp3
   - japanese: のぼる
     english: to climb (<i>place</i>&nbsp;に)
     kanji: 登る
     kanji_readings:
     - 登: のぼ
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_71.mp3
   - japanese: はしる
     english: to run
     kanji: 走る
     kanji_readings:
     - 走: はし
-    verb_type: godan
+    verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_73.mp3
 - tags:
   - Ru-verbs
@@ -198,11 +198,11 @@ vocabulary:
     kanji: 疲れる
     kanji_readings:
     - 疲: つか
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_76.mp3
   - japanese: やめる
     english: to quit (〜を)
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_78.mp3
 - tags:
   - Irregular_Verbs
@@ -210,32 +210,32 @@ vocabulary:
   vocabulary:
   - japanese: けんかする
     english: to have a fight; to quarrel
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_81.mp3
   - japanese: しょうかいする
     english: to introduce (<i>person </i>に <i>person </i>を)
     kanji: 紹介する
     kanji_readings:
     - 紹介: しょうかい
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_84.mp3
   - japanese: ダイエットする
     english: to go on a diet
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_86.mp3
   - japanese: ちこくする
     english: to be late (for an appointment) (〜に)
     kanji: 遅刻する
     kanji_readings:
     - 遅刻: ちこく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_88.mp3
   - japanese: りゅうがくする
     english: to study abroad (<i>place</i>&nbsp;に)
     kanji: 留学する
     kanji_readings:
     - 留学: りゅうがく
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_90.mp3
 - tags:
   - Adverbs_and_Other_Expressions

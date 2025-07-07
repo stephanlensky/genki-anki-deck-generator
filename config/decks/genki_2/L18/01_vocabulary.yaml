@@ -236,42 +236,42 @@ vocabulary:
     kanji: 落ちる
     kanji_readings:
     - 落: お
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_90.mp3
   - japanese: かたづける
     english: to tidy up（～を）
     kanji: 片付ける
     kanji_readings:
     - 片付: かたづ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_92.mp3
   - japanese: かんがえる
     english: to think (about); to consider
     kanji: 考える
     kanji_readings:
     - 考: かんが
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_94.mp3
   - japanese: きえる
     english: (something) goes off (～が)
     kanji: 消える
     kanji_readings:
     - 消: き
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_97.mp3
   - japanese: こわれる
     english: (something) breaks (～が)
     kanji: 壊れる
     kanji_readings:
     - 壊: こわ
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_99.mp3
   - japanese: よごれる
     english: to become dirty (～が)
     kanji: 汚れる
     kanji_readings:
     - 汚: よご
-    verb_type: ichidan
+    verb_group: ichidan
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_101.mp3
 - tags:
   - Irregular_Verbs
@@ -282,7 +282,7 @@ vocabulary:
     kanji: 注文する
     kanji_readings:
     - 注文: ちゅうもん
-    verb_type: irregular
+    verb_group: irregular
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_104.mp3
 - tags:
   - Adverbs_and_Other_Expressions
