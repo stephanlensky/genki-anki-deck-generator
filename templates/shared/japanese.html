@@ -1,23 +1,19 @@
 {% if kanji %}
 <p lang="jp">
-  {% for char, reading in kanji_ruby_data %} {% if reading %}
-  <ruby>
+  {% for char, reading in kanji_ruby_data %}{% if reading %}<ruby>
     <span
       class="rt furigana{% if hidden %} hidden{% else %} visible{% endif %}"
     >
       <span>{{reading}}</span>
     </span>
-    <span class="rb kanji">{{char}}</span>
-  </ruby>
-  {% else %}
-  <span class="kanji">{{char}}</span>
-  {% endif %} {% endfor %}
+    <span class="rb kanji">{{char}}</span> </ruby
+  >&nbsp;{% else %}<span class="kanji">{{char}}</span>{% endif %}{% endfor %}
 </p>
 {% else %}
 <p lang="jp" class="kana-only">{{japanese}}</p>
-{% endif %}
-{% if japanese_note %}<p class="japanese-note">{{japanese_note}}</p>{% endif %}
-{% if hidden %}
+{% endif %} {% if japanese_note %}
+<p class="japanese-note">{{japanese_note}}</p>
+{% endif %} {% if hidden %}
 <script>
   // remove "hidden" class from ALL furigana on the page when hovering one
   document.querySelectorAll(".furigana").forEach(function (furigana) {
