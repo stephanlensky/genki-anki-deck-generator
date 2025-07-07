@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_3
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -175,7 +175,7 @@ vocabulary:
       sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_71.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: いく
     english: to go (<i>destination</i> に/へ)
@@ -221,7 +221,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_87.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おきる
     english: to get up
@@ -253,7 +253,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_97.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: くる
     english: to come (<i>destination</i> に/へ)

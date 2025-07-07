@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_18
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -229,7 +229,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_87.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おちる
     english: (something) drops (～が)
@@ -275,7 +275,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_101.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: ちゅうもんする
     english: to place an order (～を)

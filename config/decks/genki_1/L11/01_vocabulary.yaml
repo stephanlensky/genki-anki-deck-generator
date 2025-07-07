@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_11
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -140,7 +140,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_55.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: うそをつく
     english: to tell a lie
@@ -191,7 +191,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_73.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: つかれる
     english: to get tired
@@ -206,7 +206,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L11/K11_07/K11_07_78.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: けんかする
     english: to have a fight; to quarrel

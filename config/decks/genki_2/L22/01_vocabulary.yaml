@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_22
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -177,7 +177,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_61.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: かぜがふく
     english: the wind blows
@@ -231,7 +231,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_79.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: うける
     english: to take (an examination)  (～を)
@@ -271,7 +271,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_92.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おねがいする
     english: to request help (person に～を)

@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_23
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -143,7 +143,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_48.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あめがやむ
     english: the rain stops
@@ -206,7 +206,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_70.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: こたえる
     english: to answer (～に)
@@ -224,7 +224,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L23/K23_07/K23_07_75.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: がっかりする
     japanese_note: or ガッカリする (hiragana is more common)

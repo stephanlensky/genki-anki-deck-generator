@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_13
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -197,7 +197,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_81.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あむ
     english: to knit (~を)
@@ -237,7 +237,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_94.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: かんどうする
     english: to be moved; touched (by …) (~に)

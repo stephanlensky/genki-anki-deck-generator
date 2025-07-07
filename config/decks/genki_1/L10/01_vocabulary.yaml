@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_10
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -221,7 +221,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_79.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: かかる
     english: to take (amount of time/money) (<i>no particle</i>)
@@ -240,7 +240,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_88.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: きめる
     english: to decide (〜を)
@@ -251,7 +251,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_91.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: ごろごろする
     english: to chill out at home; to stay home and do nothing

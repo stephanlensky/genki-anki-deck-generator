@@ -1,94 +1,91 @@
 tags:
 - Genki_1
 - Lesson_4
-- 04_Months
+- Months
 vocabulary:
-- tags:
-  - Months
-  vocabulary:
-  - japanese: いちがつ
-    english: January
-    kanji: 一月
-    kanji_readings:
-    - 一: いち
-    - 月: がつ
-    sound_file: tts/いちがつ_f60ec.wav
-  - japanese: にがつ
-    english: February
-    kanji: 二月
-    kanji_readings:
-    - 二: に
-    - 月: がつ
-    sound_file: tts/にがつ_59c47.wav
-  - japanese: さんがつ
-    english: March
-    kanji: 三月
-    kanji_readings:
-    - 三: さん
-    - 月: がつ
-    sound_file: tts/さんがつ_cec66.wav
-  - japanese: しがつ*
-    english: April
-    kanji: 四月
-    kanji_readings:
-    - 四: し
-    - 月: がつ
-    sound_file: tts/しがつ_b8cbe.wav
-  - japanese: ごがつ
-    english: May
-    kanji: 五月
-    kanji_readings:
-    - 五: ご
-    - 月: がつ
-    sound_file: tts/ごがつ_fc7f1.wav
-  - japanese: ろくがつ
-    english: June
-    kanji: 六月
-    kanji_readings:
-    - 六: ろく
-    - 月: がつ
-    sound_file: tts/ろくがつ_208db.wav
-  - japanese: しちがつ*
-    english: July
-    kanji: 七月
-    kanji_readings:
-    - 七: しち
-    - 月: がつ
-    sound_file: tts/しちがつ_74166.wav
-  - japanese: はちがつ
-    english: August
-    kanji: 八月
-    kanji_readings:
-    - 八: はち
-    - 月: がつ
-    sound_file: tts/はちがつ_68a34.wav
-  - japanese: くがつ*
-    english: September
-    kanji: 九月
-    kanji_readings:
-    - 九: く
-    - 月: がつ
-    sound_file: tts/くがつ_7934a.wav
-  - japanese: じゅうがつ
-    english: October
-    kanji: 十月
-    kanji_readings:
-    - 十: じゅう
-    - 月: がつ
-    sound_file: tts/じゅうがつ_bc577.wav
-  - japanese: じゅういちがつ
-    english: November
-    kanji: 十一月
-    kanji_readings:
-    - 十: じゅう
-    - 一: いち
-    - 月: がつ
-    sound_file: tts/じゅういちがつ_9f348.wav
-  - japanese: じゅうにがつ
-    english: December
-    kanji: 十二月
-    kanji_readings:
-    - 十: じゅう
-    - 二: に
-    - 月: がつ
-    sound_file: tts/じゅうにがつ_ef231.wav
+- japanese: いちがつ
+  english: January
+  kanji: 一月
+  kanji_readings:
+  - 一: いち
+  - 月: がつ
+  sound_file: tts/いちがつ_f60ec.wav
+- japanese: にがつ
+  english: February
+  kanji: 二月
+  kanji_readings:
+  - 二: に
+  - 月: がつ
+  sound_file: tts/にがつ_59c47.wav
+- japanese: さんがつ
+  english: March
+  kanji: 三月
+  kanji_readings:
+  - 三: さん
+  - 月: がつ
+  sound_file: tts/さんがつ_cec66.wav
+- japanese: しがつ*
+  english: April
+  kanji: 四月
+  kanji_readings:
+  - 四: し
+  - 月: がつ
+  sound_file: tts/しがつ_b8cbe.wav
+- japanese: ごがつ
+  english: May
+  kanji: 五月
+  kanji_readings:
+  - 五: ご
+  - 月: がつ
+  sound_file: tts/ごがつ_fc7f1.wav
+- japanese: ろくがつ
+  english: June
+  kanji: 六月
+  kanji_readings:
+  - 六: ろく
+  - 月: がつ
+  sound_file: tts/ろくがつ_208db.wav
+- japanese: しちがつ*
+  english: July
+  kanji: 七月
+  kanji_readings:
+  - 七: しち
+  - 月: がつ
+  sound_file: tts/しちがつ_74166.wav
+- japanese: はちがつ
+  english: August
+  kanji: 八月
+  kanji_readings:
+  - 八: はち
+  - 月: がつ
+  sound_file: tts/はちがつ_68a34.wav
+- japanese: くがつ*
+  english: September
+  kanji: 九月
+  kanji_readings:
+  - 九: く
+  - 月: がつ
+  sound_file: tts/くがつ_7934a.wav
+- japanese: じゅうがつ
+  english: October
+  kanji: 十月
+  kanji_readings:
+  - 十: じゅう
+  - 月: がつ
+  sound_file: tts/じゅうがつ_bc577.wav
+- japanese: じゅういちがつ
+  english: November
+  kanji: 十一月
+  kanji_readings:
+  - 十: じゅう
+  - 一: いち
+  - 月: がつ
+  sound_file: tts/じゅういちがつ_9f348.wav
+- japanese: じゅうにがつ
+  english: December
+  kanji: 十二月
+  kanji_readings:
+  - 十: じゅう
+  - 二: に
+  - 月: がつ
+  sound_file: tts/じゅうにがつ_ef231.wav

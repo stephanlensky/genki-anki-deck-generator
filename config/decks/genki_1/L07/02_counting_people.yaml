@@ -1,76 +1,73 @@
 tags:
 - Genki_1
 - Lesson_7
-- 02_Counting_People
+- Counting_People
 vocabulary:
-- tags:
-  - counting_people
-  vocabulary:
-  - japanese: ひとり*
-    english: one person
-    kanji: 一人
-    kanji_readings:
-    - 一人: ひとり
-    sound_file: tts/ひとり_79eef.wav
-  - japanese: ふたり*
-    english: two people
-    kanji: 二人
-    kanji_readings:
-    - 二人: ふたり
-    sound_file: tts/ふたり_f65a0.wav
-  - japanese: さんにん
-    english: three people
-    kanji: 三人
-    kanji_readings:
-    - 三: さん
-    - 人: にん
-    sound_file: tts/さんにん_17d64.wav
-  - japanese: よにん*
-    english: four people
-    kanji: 四人
-    kanji_readings:
-    - 四: よ
-    - 人: にん
-    sound_file: tts/よにん_e6736.wav
-  - japanese: ごにん
-    english: five people
-    kanji: 五人
-    kanji_readings:
-    - 五: ご
-    - 人: にん
-    sound_file: tts/ごにん_e46dc.wav
-  - japanese: ろくにん
-    english: six people
-    kanji: 六人
-    kanji_readings:
-    - 六: ろく
-    - 人: にん
-    sound_file: tts/ろくにん_2b014.wav
-  - japanese: しちにん／ななにん
-    english: seven people
-    kanji: 七人
-    kanji_readings:
-    - 七: しち
-    - 人: にん
-    sound_file: tts/しちにん／ななにん_1a1bf.wav
-  - japanese: はちにん
-    english: eight people
-    kanji: 八人
-    kanji_readings:
-    - 八: はち
-    - 人: にん
-    sound_file: tts/はちにん_71b28.wav
-  - japanese: きゅうにん
-    english: nine people
-    kanji: 九人
-    kanji_readings:
-    - 九: きゅう
-    - 人: にん
-    sound_file: tts/きゅうにん_3120e.wav
-  - japanese: じゅうにん
-    english: ten people
-    kanji: 十人
-    kanji_readings:
-    - 十: じゅう
-    - 人: にん
-    sound_file: tts/じゅうにん_0523b.wav
+- japanese: ひとり*
+  english: one person
+  kanji: 一人
+  kanji_readings:
+  - 一人: ひとり
+  sound_file: tts/ひとり_79eef.wav
+- japanese: ふたり*
+  english: two people
+  kanji: 二人
+  kanji_readings:
+  - 二人: ふたり
+  sound_file: tts/ふたり_f65a0.wav
+- japanese: さんにん
+  english: three people
+  kanji: 三人
+  kanji_readings:
+  - 三: さん
+  - 人: にん
+  sound_file: tts/さんにん_17d64.wav
+- japanese: よにん*
+  english: four people
+  kanji: 四人
+  kanji_readings:
+  - 四: よ
+  - 人: にん
+  sound_file: tts/よにん_e6736.wav
+- japanese: ごにん
+  english: five people
+  kanji: 五人
+  kanji_readings:
+  - 五: ご
+  - 人: にん
+  sound_file: tts/ごにん_e46dc.wav
+- japanese: ろくにん
+  english: six people
+  kanji: 六人
+  kanji_readings:
+  - 六: ろく
+  - 人: にん
+  sound_file: tts/ろくにん_2b014.wav
+- japanese: しちにん／ななにん
+  english: seven people
+  kanji: 七人
+  kanji_readings:
+  - 七: しち
+  - 人: にん
+  sound_file: tts/しちにん／ななにん_1a1bf.wav
+- japanese: はちにん
+  english: eight people
+  kanji: 八人
+  kanji_readings:
+  - 八: はち
+  - 人: にん
+  sound_file: tts/はちにん_71b28.wav
+- japanese: きゅうにん
+  english: nine people
+  kanji: 九人
+  kanji_readings:
+  - 九: きゅう
+  - 人: にん
+  sound_file: tts/きゅうにん_3120e.wav
+- japanese: じゅうにん
+  english: ten people
+  kanji: 十人
+  kanji_readings:
+  - 十: じゅう
+  - 人: にん
+  sound_file: tts/じゅうにん_0523b.wav

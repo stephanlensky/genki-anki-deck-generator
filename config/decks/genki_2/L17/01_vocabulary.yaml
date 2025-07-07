@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_17
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -234,7 +234,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_89.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: いれる
     english: to make tea, coffee, etc. (～を)
@@ -273,7 +273,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L17/K17_05/K17_05_101.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おいのりする
     english: to pray (～に)

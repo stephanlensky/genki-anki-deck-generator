@@ -1,63 +1,60 @@
 tags:
 - Genki_1
 - Lesson_8
-- 02_Foods
+- Foods
 vocabulary:
-- tags:
-  - foods
-  vocabulary:
-  - japanese: ごはん
-    english: (white) rice; meal
-    kanji: ご飯
-    kanji_readings:
-    - 飯: はん
-    sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_34.mp3
-  - japanese: おかず
-    english: a couple of dishes
-    sound_file: tts/おかず_ec049.wav
-  - japanese: みそしる
-    english: soup
-    kanji: みそ汁
-    kanji_readings:
-    - 汁: しる
-    sound_file: tts/みそしる_01670.wav
-  - japanese: カレーライス
-    english: Curry with rice
-    sound_file: tts/カレーライス_a369e.wav
-  - japanese: おにぎり
-    japanese_note: (rare)
-    english: rice ball
-    kanji: お握り
-    kanji_readings:
-    - 握: にぎ
-    sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
-  - japanese: ラーメン
-    english: ramen noodles
-    sound_file: tts/ラーメン_65247.wav
-  - japanese: うどん
-    english: udon noodles
-    sound_file: tts/うどん_0aeeb.wav
-  - japanese: パスタ
-    english: pasta
-    sound_file: tts/パスタ_b3d82.wav
-  - japanese: ぎょうざ
-    english: dumplings
-    sound_file: tts/ぎょうざ_4b3c7.wav
-  - japanese: ぎゅうどん
-    english: beef rice bowl
-    kanji: 牛丼
-    kanji_readings:
-    - 牛丼: ぎゅうどん
-    sound_file: tts/ぎゅうどん_bbbc4.wav
-  - japanese: ハンバーグ
-    english: hamburger steak
-    sound_file: tts/ハンバーグ_b670d.wav
-  - japanese: さしみ
-    english: raw seafood
-    sound_file: tts/さしみ_1d9fc.wav
-  - japanese: おこのみやき
-    english: savory pancake
-    kanji: お好み焼き
-    kanji_readings:
-    - 好み焼: このみや
-    sound_file: tts/おこのみやき_09767.wav
+- japanese: ごはん
+  english: (white) rice; meal
+  kanji: ご飯
+  kanji_readings:
+  - 飯: はん
+  sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_34.mp3
+- japanese: おかず
+  english: a couple of dishes
+  sound_file: tts/おかず_ec049.wav
+- japanese: みそしる
+  english: soup
+  kanji: みそ汁
+  kanji_readings:
+  - 汁: しる
+  sound_file: tts/みそしる_01670.wav
+- japanese: カレーライス
+  english: Curry with rice
+  sound_file: tts/カレーライス_a369e.wav
+- japanese: おにぎり
+  japanese_note: (rare)
+  english: rice ball
+  kanji: お握り
+  kanji_readings:
+  - 握: にぎ
+  sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_19.mp3
+- japanese: ラーメン
+  english: ramen noodles
+  sound_file: tts/ラーメン_65247.wav
+- japanese: うどん
+  english: udon noodles
+  sound_file: tts/うどん_0aeeb.wav
+- japanese: パスタ
+  english: pasta
+  sound_file: tts/パスタ_b3d82.wav
+- japanese: ぎょうざ
+  english: dumplings
+  sound_file: tts/ぎょうざ_4b3c7.wav
+- japanese: ぎゅうどん
+  english: beef rice bowl
+  kanji: 牛丼
+  kanji_readings:
+  - 牛丼: ぎゅうどん
+  sound_file: tts/ぎゅうどん_bbbc4.wav
+- japanese: ハンバーグ
+  english: hamburger steak
+  sound_file: tts/ハンバーグ_b670d.wav
+- japanese: さしみ
+  english: raw seafood
+  sound_file: tts/さしみ_1d9fc.wav
+- japanese: おこのみやき
+  english: savory pancake
+  kanji: お好み焼き
+  kanji_readings:
+  - 好み焼: このみや
+  sound_file: tts/おこのみやき_09767.wav

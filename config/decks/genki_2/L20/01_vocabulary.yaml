@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_20
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -148,7 +148,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_52.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おる
     japanese_note: (rare)
@@ -239,7 +239,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_78.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: さしあげる
     english: humble expression for あげる
@@ -278,7 +278,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L20/K20_05/K20_05_89.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: こうかんする
     english: to exchange (XとYを)

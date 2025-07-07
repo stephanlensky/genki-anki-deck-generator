@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_21
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -153,7 +153,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_58.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おく
     english: to put; to lay; to place (place に object を)
@@ -267,7 +267,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_102.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: いじめる
     japanese_note: (rare)
@@ -326,7 +326,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_120.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: ばかにする
     japanese_note: (rare)

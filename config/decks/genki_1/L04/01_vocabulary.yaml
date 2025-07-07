@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_4
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -209,7 +209,7 @@ vocabulary:
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_79.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あう
     english: to meet; to see (a person) (<i>person</i>&nbsp;に)
@@ -256,7 +256,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_95.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: いる
     english: (a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)

@@ -1,56 +1,53 @@
 tags:
 - Genki_1
 - Lesson_1
-- 03_Year_Student
+- Year_Student
 vocabulary:
-- tags:
-  - year_student
-  vocabulary:
-  - japanese: いちねんせい
-    english: first-year student
-    kanji: 一年生
-    kanji_readings:
-    - 一: いち
-    - 年: ねん
-    - 生: せい
-    sound_file: genki_1/Kaiwa_Bunpo_L01/K01_05/K01_05_17.mp3
-  - japanese: にねんせい
-    english: second-year student
-    kanji: 二年生
-    kanji_readings:
-    - 二: に
-    - 年: ねん
-    - 生: せい
-    sound_file: tts/にねんせい_0700d.wav
-  - japanese: さんねんせい
-    english: third-year student
-    kanji: 三年生
-    kanji_readings:
-    - 三: さん
-    - 年: ねん
-    - 生: せい
-    sound_file: tts/さんねんせい_0ccc7.wav
-  - japanese: よねんせい*
-    english: fourth-year student
-    kanji: 四年生
-    kanji_readings:
-    - 四: よん
-    - 年: ねん
-    - 生: せい
-    sound_file: tts/よねんせい_40173.wav
-  - japanese: ごねんせい
-    english: fifth-year student
-    kanji: 五年生
-    kanji_readings:
-    - 五: ご
-    - 年: ねん
-    - 生: せい
-    sound_file: tts/ごねんせい_495e8.wav
-  - japanese: ろくねんせい
-    english: sixth-year student
-    kanji: 六年生
-    kanji_readings:
-    - 六: ろく
-    - 年: ねん
-    - 生: せい
-    sound_file: tts/ろくねんせい_9e694.wav
+- japanese: いちねんせい
+  english: first-year student
+  kanji: 一年生
+  kanji_readings:
+  - 一: いち
+  - 年: ねん
+  - 生: せい
+  sound_file: genki_1/Kaiwa_Bunpo_L01/K01_05/K01_05_17.mp3
+- japanese: にねんせい
+  english: second-year student
+  kanji: 二年生
+  kanji_readings:
+  - 二: に
+  - 年: ねん
+  - 生: せい
+  sound_file: tts/にねんせい_0700d.wav
+- japanese: さんねんせい
+  english: third-year student
+  kanji: 三年生
+  kanji_readings:
+  - 三: さん
+  - 年: ねん
+  - 生: せい
+  sound_file: tts/さんねんせい_0ccc7.wav
+- japanese: よねんせい*
+  english: fourth-year student
+  kanji: 四年生
+  kanji_readings:
+  - 四: よん
+  - 年: ねん
+  - 生: せい
+  sound_file: tts/よねんせい_40173.wav
+- japanese: ごねんせい
+  english: fifth-year student
+  kanji: 五年生
+  kanji_readings:
+  - 五: ご
+  - 年: ねん
+  - 生: せい
+  sound_file: tts/ごねんせい_495e8.wav
+- japanese: ろくねんせい
+  english: sixth-year student
+  kanji: 六年生
+  kanji_readings:
+  - 六: ろく
+  - 年: ねん
+  - 生: せい
+  sound_file: tts/ろくねんせい_9e694.wav

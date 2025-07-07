@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_8
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -160,7 +160,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_65.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あらう
     english: to wash (〜を)
@@ -234,7 +234,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_86.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: すてる
     english: to throw away (〜を)
@@ -252,7 +252,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_91.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: うんてんする
     english: to drive (〜を)

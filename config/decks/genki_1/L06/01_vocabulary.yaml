@@ -1,7 +1,7 @@
 tags:
 - Genki_1
 - Lesson_6
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -108,7 +108,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_41.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あそぶ
     english: to play; to spend time pleasantly
@@ -203,7 +203,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_71.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あける
     english: to open (something) (〜を)
@@ -260,7 +260,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_91.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: でんわする
     english: to call (〜に)

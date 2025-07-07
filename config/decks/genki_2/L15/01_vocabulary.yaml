@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_15
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -163,7 +163,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_61.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: うる
     english: to sell （〜を）
@@ -232,7 +232,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_82.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: きをつける
     english: to be cautious/careful(〜に)
@@ -257,7 +257,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_90.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: する
     english: to decide on (itemに)

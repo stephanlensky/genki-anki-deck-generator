@@ -1,104 +1,101 @@
 tags:
 - Genki_1
 - Lesson_2
-- 03_Useful_Expressions
+- Useful_Expressions
 vocabulary:
-- tags:
-  - Useful_Expressions
-  vocabulary:
-  - japanese: ほん
-    english: book
-    kanji: 本
-    kanji_readings:
-    - 本: ほん
-    sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_72.mp3
-  - japanese: こくばん
-    english: blackboard
-    kanji: 黒板
-    kanji_readings:
-    - 黒板: こくばん
-    sound_file: tts/こくばん_ab9e6.wav
-  - japanese: つくえ
-    english: desk
-    kanji: 机
-    kanji_readings:
-    - 机: つくえ
-    sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_25.mp3
-  - japanese: けしゴム
-    english: eraser
-    kanji: 消しゴム
-    kanji_readings:
-    - 消: け
-    sound_file: tts/けしゴム_6633d.wav
-  - japanese: じしょ
-    english: dictionary
-    kanji: 辞書
-    kanji_readings:
-    - 辞書: じしょ
-    sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_14.mp3
-  - japanese: えんぴつ
-    english: pencil
-    kanji: 鉛筆
-    kanji_readings:
-    - 鉛筆: えんぴつ
-    sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
-  - japanese: でんき
-    english: electricity; light
-    kanji: 電気
-    kanji_readings:
-    - 電気: でんき
-    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
-  - japanese: ドア
-    english: door
-    sound_file: tts/ドア_f7030.wav
-  - japanese: カーテン
-    english: curtain
-    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
-  - japanese: まど
-    english: window
-    kanji: 窓
-    kanji_readings:
-    - 窓: まど
-    sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
-  - japanese: いす
-    english: chair
-    kanji: 椅子
-    kanji_readings:
-    - 椅子: いす
-    sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_23.mp3
-  - japanese: わかりましたか。
-    english: Do you understand?
-    kanji: 分かりましたか。
-    kanji_readings:
-    - 分: わ
-    sound_file: tts/わかりましたか。_01de7.wav
-  - japanese: わかりました。
-    english: I do understand./I understood.
-    kanji: 分かりました。
-    kanji_readings:
-    - 分: わ
-    sound_file: tts/わかりました。_dbdbf.wav
-  - japanese: わかりません。
-    english: I don't understand./I don't know.
-    kanji: 分かりません。
-    kanji_readings:
-    - 分: わ
-    sound_file: tts/わかりません。_1f89d.wav
-  - japanese: ゆっくり　いってください。
-    english: Please say it slowly.
-    sound_file: tts/ゆっくり　いってください。_1fd4f.wav
-  - japanese: もういちど　いってください。
-    english: Please say it again.
-    sound_file: tts/もういちど　いってください。_1248b.wav
-  - japanese: ちょっと　まってください。
-    english: Please wait for a while.
-    kanji: ちょっと　待ってください。
-    kanji_readings:
-    - 待: ま
-    sound_file: tts/ちょっと　まってください。_47f16.wav
-  - japanese: きいてください。
-    english: Please listen./Please ask.
-    sound_file: tts/きいてください。_805b8.wav
-  - japanese: １０ページを　みてください。
-    english: Please look at page 10.
-    sound_file: tts/１０ページを　みてください。_65249.wav
+- japanese: ほん
+  english: book
+  kanji: 本
+  kanji_readings:
+  - 本: ほん
+  sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_72.mp3
+- japanese: こくばん
+  english: blackboard
+  kanji: 黒板
+  kanji_readings:
+  - 黒板: こくばん
+  sound_file: tts/こくばん_ab9e6.wav
+- japanese: つくえ
+  english: desk
+  kanji: 机
+  kanji_readings:
+  - 机: つくえ
+  sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_25.mp3
+- japanese: けしゴム
+  english: eraser
+  kanji: 消しゴム
+  kanji_readings:
+  - 消: け
+  sound_file: tts/けしゴム_6633d.wav
+- japanese: じしょ
+  english: dictionary
+  kanji: 辞書
+  kanji_readings:
+  - 辞書: じしょ
+  sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_14.mp3
+- japanese: えんぴつ
+  english: pencil
+  kanji: 鉛筆
+  kanji_readings:
+  - 鉛筆: えんぴつ
+  sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_37.mp3
+- japanese: でんき
+  english: electricity; light
+  kanji: 電気
+  kanji_readings:
+  - 電気: でんき
+  sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
+- japanese: ドア
+  english: door
+  sound_file: tts/ドア_f7030.wav
+- japanese: カーテン
+  english: curtain
+  sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
+- japanese: まど
+  english: window
+  kanji: 窓
+  kanji_readings:
+  - 窓: まど
+  sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_25.mp3
+- japanese: いす
+  english: chair
+  kanji: 椅子
+  kanji_readings:
+  - 椅子: いす
+  sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_23.mp3
+- japanese: わかりましたか。
+  english: Do you understand?
+  kanji: 分かりましたか。
+  kanji_readings:
+  - 分: わ
+  sound_file: tts/わかりましたか。_01de7.wav
+- japanese: わかりました。
+  english: I do understand./I understood.
+  kanji: 分かりました。
+  kanji_readings:
+  - 分: わ
+  sound_file: tts/わかりました。_dbdbf.wav
+- japanese: わかりません。
+  english: I don't understand./I don't know.
+  kanji: 分かりません。
+  kanji_readings:
+  - 分: わ
+  sound_file: tts/わかりません。_1f89d.wav
+- japanese: ゆっくり　いってください。
+  english: Please say it slowly.
+  sound_file: tts/ゆっくり　いってください。_1fd4f.wav
+- japanese: もういちど　いってください。
+  english: Please say it again.
+  sound_file: tts/もういちど　いってください。_1248b.wav
+- japanese: ちょっと　まってください。
+  english: Please wait for a while.
+  kanji: ちょっと　待ってください。
+  kanji_readings:
+  - 待: ま
+  sound_file: tts/ちょっと　まってください。_47f16.wav
+- japanese: きいてください。
+  english: Please listen./Please ask.
+  sound_file: tts/きいてください。_805b8.wav
+- japanese: １０ページを　みてください。
+  english: Please look at page 10.
+  sound_file: tts/１０ページを　みてください。_65249.wav

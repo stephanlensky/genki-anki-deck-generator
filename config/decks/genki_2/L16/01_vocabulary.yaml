@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_16
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -121,7 +121,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_40.mp3
 - tags:
   - U-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おこす
     english: to wake (someone) up (～を)
@@ -219,7 +219,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_70.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あつめる
     english: to collect (～を)
@@ -260,7 +260,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L16/K16_07/K16_07_81.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: あさねぼうする
     english: to oversleep

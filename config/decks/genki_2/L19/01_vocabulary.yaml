@@ -1,7 +1,7 @@
 tags:
 - Genki_2
 - Lesson_19
-- 01_Vocabulary
+- Vocabulary
 vocabulary:
 - tags:
   - Nouns
@@ -217,7 +217,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_81.mp3
 - tags:
   - Ru-verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: おくれる
     english: to become late (～に)
@@ -251,7 +251,7 @@ vocabulary:
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_90.mp3
 - tags:
   - Irregular_Verbs
-  - Verb
+  - Verbs
   vocabulary:
   - japanese: ごちそうする
     japanese_note: (rare)
