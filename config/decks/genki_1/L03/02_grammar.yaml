@@ -1,0 +1,20 @@
+tags:
+- Genki_1
+- Lesson_3
+- Grammar
+vocabulary:
+- tags:
+  - Particles
+  vocabulary:
+  - japanese: XをY
+    japanese_note: (pronounced 'o')
+    english: Direct object marker (Y verb operating on X)
+  - japanese: XでY
+    english: Location marker (At, in, on X, Y happens)
+  - japanese: XにY
+    english: Direction marker (To X, Y happens/At X time, Y happens)
+  - japanese: XへY
+    japanese_note: (pronounced 'e')
+    english: Direction marker (To X, Y happens)
+- japanese: ～ませんか
+  english: Invitation (Won't you do X?)
