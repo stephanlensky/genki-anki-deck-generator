@@ -6,7 +6,11 @@ import minify_html
 
 from genki_anki_deck_generator.config import get_config
 from genki_anki_deck_generator.template import Card, Template, load_templates
-from genki_anki_deck_generator.utils.conjugations import get_conjugations
+from genki_anki_deck_generator.utils.conjugations import (
+    get_conjugation_display_names,
+    get_conjugation_links,
+    get_conjugations,
+)
 from genki_anki_deck_generator.utils.duplicates import remove_duplicates
 from genki_anki_deck_generator.utils.jinja import render_template
 
@@ -105,6 +109,8 @@ class GenkiNote(genanki.Note):  # type: ignore
         )
         context["kanji_meanings"] = card.kanji_meanings if card.kanji_meanings else {}
         context["conjugations"] = get_conjugations(card)
+        context["conjugation_display_names"] = get_conjugation_display_names()
+        context["conjugation_links"] = get_conjugation_links()
         super().__init__(
             model=model,
             fields=[

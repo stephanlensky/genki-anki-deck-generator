@@ -14,59 +14,21 @@
     </tr>
   </thead>
   <tbody>
+    {% for form, conjugation in conjugations.items() %}
     <tr>
       <td>
         <div class="conjugation-name">
-          <div>Plain</div>
+          <div>{{ conjugation_display_names[form] }}</div>
           <a
             class="conjugation-explanation"
-            href="https://jpdb.io/conjugation/verb/%E3%82%8B"
+            href="{{ conjugation_links[form] }}"
             >?</a
           >
         </div>
       </td>
-      <td>{{ conjugations.plain }}</td>
+      <td>{{ conjugation }}</td>
     </tr>
-    <tr>
-      <td>
-        <div class="conjugation-name">
-          <div>Past</div>
-          <a
-            class="conjugation-explanation"
-            href="https://jpdb.io/conjugation/verb/%E3%81%9F"
-            >?</a
-          >
-        </div>
-      </td>
-      <td>{{ conjugations.past }}</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="conjugation-name">
-          <div>Negative</div>
-          <a
-            class="conjugation-explanation"
-            href="https://jpdb.io/conjugation/verb/%E3%81%AA%E3%81%84"
-            >?</a
-          >
-        </div>
-      </td>
-      <td>{{ conjugations.negative }}</td>
-    </tr>
-
-    <tr>
-      <td>
-        <div class="conjugation-name">
-          <div>〜ます</div>
-          <a
-            class="conjugation-explanation"
-            href="https://jpdb.io/conjugation/verb/%E3%81%BE%E3%81%99"
-            >?</a
-          >
-        </div>
-      </td>
-      <td>{{ conjugations.polite }}</td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>
 <script type="text/javascript">
