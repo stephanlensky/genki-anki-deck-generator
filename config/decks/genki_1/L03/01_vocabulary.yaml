@@ -108,6 +108,11 @@ vocabulary:
     - japanese: カフェ
       english: cafe
       sound_file: genki_1/Kaiwa_Bunpo_L03/K03_05/K03_05_48.mp3
+    - japanese: きょうと
+      english: Kyoto
+      kanji: 京都
+      kanji_readings:
+      - 京都: きょうと
   - tags:
     - Time
     vocabulary:

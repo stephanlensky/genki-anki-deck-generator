@@ -138,6 +138,11 @@ vocabulary:
     - japanese: レストラン
       english: restaurant
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_57.mp3
+    - japanese: おおさか
+      english: Osaka
+      kanji: 大阪
+      kanji_readings:
+      - 大阪: おおさか
   - tags:
     - Time
     vocabulary:
