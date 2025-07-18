@@ -178,6 +178,14 @@ vocabulary:
     - 安: やす
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_70.mp3
 - tags:
+  - Places
+  vocabulary:
+  - japanese: とうきょう
+    english: Tokyo
+    kanji: 東京
+    kanji_readings:
+    - 東京: とうきょう
+- tags:
   - な-adjectives
   vocabulary:
   - japanese: すき（な）
