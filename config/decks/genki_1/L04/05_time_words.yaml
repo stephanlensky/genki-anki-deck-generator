@@ -11,8 +11,7 @@ vocabulary:
     english: the day before yesterday
     kanji: 一昨日
     kanji_readings:
-    - 一昨: おととい
-    - 日: にち
+    - 一昨日: おととい
     sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_104.mp3
   - japanese: きのう
     english: yesterday

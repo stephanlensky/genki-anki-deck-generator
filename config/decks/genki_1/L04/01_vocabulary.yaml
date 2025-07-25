@@ -13,7 +13,8 @@ vocabulary:
       english: game
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_4.mp3
     - japanese: アルバイト
-      english: part-time job (more colloquially, バイト)
+      japanese_note: (more colloquially, バイト)
+      english: part-time job
       sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_6.mp3
     - japanese: かいもの
       english: shopping
@@ -257,6 +258,9 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_93.mp3
   - japanese: わかる
     english: to understand (〜が)
+    kanji: 分かる
+    kanji_readings:
+    - 分: わ
     verb_group: godan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_95.mp3
 - tags:
@@ -264,7 +268,7 @@ vocabulary:
   - Verbs
   vocabulary:
   - japanese: いる
-    english: (a person) is in ...; stays at ... (<i>place </i>に <i>person</i>&nbsp;が)
+    english: to be (of animate objects); to exist; to stay
     verb_group: ichidan
     sound_file: genki_1/Kaiwa_Bunpo_L04/K04_07/K04_07_98.mp3
 - tags:
