@@ -44,6 +44,9 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_25.mp3
   - japanese: だれ
     english: who
+    kanji: 誰
+    kanji_readings:
+    - 誰: だれ
     sound_file: genki_1/Kaiwa_Bunpo_L02/K02_05/K02_05_27.mp3
 - tags:
   - Food

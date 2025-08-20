@@ -132,20 +132,20 @@ vocabulary:
 - tags:
   - な-adjectives
   vocabulary:
-  - japanese: あんぜん(な)
+  - japanese: あんぜん（な）
     english: safe
     kanji: 安全
     kanji_readings:
     - 安全: あんぜん
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_54.mp3
-  - japanese: めちゃくちゃ(な)
+  - japanese: めちゃくちゃ（な）
     japanese_note: (rare)
     english: messy; disorganized
     kanji: 目茶苦茶
     kanji_readings:
     - 目茶苦茶: めちゃくちゃ
     sound_file: genki_2/Kaiwa_Bunpo_L21/K21_07/K21_07_56.mp3
-  - japanese: へん(な)
+  - japanese: へん（な）
     english: strange; unusual
     kanji: 変
     kanji_readings:

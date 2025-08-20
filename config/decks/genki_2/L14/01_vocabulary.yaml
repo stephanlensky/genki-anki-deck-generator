@@ -150,13 +150,13 @@ vocabulary:
 - tags:
   - な-adjectives
   vocabulary:
-  - japanese: おしゃれ(な)
+  - japanese: おしゃれ（な）
     english: fashionable; stylish
     kanji: お洒落
     kanji_readings:
     - 洒落: しゃれ
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_64.mp3
-  - japanese: けち(な)
+  - japanese: けち（な）
     japanese_note: or ケチ (hiragana is more common)
     english: stingy; cheap
     sound_file: genki_2/Kaiwa_Bunpo_L14/K14_07/K14_07_67.mp3

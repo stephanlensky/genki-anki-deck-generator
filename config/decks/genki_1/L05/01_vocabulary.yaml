@@ -107,11 +107,17 @@ vocabulary:
     - 古: ふる
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_40.mp3
   - japanese: あつい
-    japanese_note: weather / thing
+    japanese_note: (weather)
     english: hot
-    kanji: 暑い / 熱い
+    kanji: 暑い
     kanji_readings:
     - 暑: あつ
+    sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_42.mp3
+  - japanese: あつい
+    japanese_note: (thing)
+    english: hot
+    kanji: 熱い
+    kanji_readings:
     - 熱: あつ
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_42.mp3
   - japanese: さむい
@@ -149,6 +155,9 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_57.mp3
   - japanese: やさしい
     english: easy (problem); kind (person)
+    kanji: 優しい
+    kanji_readings:
+    - 優: やさ
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_59.mp3
   - japanese: むずかしい
     english: difficult
@@ -157,7 +166,8 @@ vocabulary:
     - 難: むずか
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_62.mp3
   - japanese: かっこいい
-    english: good-looking (conjugates like いい)
+    japanese_note: (conjugates like いい)
+    english: good-looking
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_64.mp3
   - japanese: こわい
     english: frightening

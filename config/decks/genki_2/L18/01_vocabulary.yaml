@@ -126,19 +126,19 @@ vocabulary:
 - tags:
   - な-adjectives
   vocabulary:
-  - japanese: たいせつ(な)
+  - japanese: たいせつ（な）
     english: precious; important
     kanji: 大切
     kanji_readings:
     - 大切: たいせつ
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_52.mp3
-  - japanese: ふあん(な)
+  - japanese: ふあん（な）
     english: anxious; worried
     kanji: 不安
     kanji_readings:
     - 不安: ふあん
     sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_55.mp3
-  - japanese: むり(な)
+  - japanese: むり（な）
     english: impossible
     kanji: 無理
     kanji_readings:
