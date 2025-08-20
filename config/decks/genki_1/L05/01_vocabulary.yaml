@@ -200,25 +200,25 @@ vocabulary:
   vocabulary:
   - japanese: すき（な）
     english: fond of; to like (〜が)
-    kanji: 好き
+    kanji: 好き（な）
     kanji_readings:
     - 好: す
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_74.mp3
   - japanese: きらい（な）
     english: disgusted with; to dislike (〜が)
-    kanji: 嫌い
+    kanji: 嫌い（な）
     kanji_readings:
     - 嫌: きら
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_77.mp3
   - japanese: だいすき（な）
     english: very fond of; to love (〜が)
-    kanji: 大好き
+    kanji: 大好き（な）
     kanji_readings:
     - 大好: だいす
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_80.mp3
   - japanese: だいきらい（な）
     english: to hate (〜が)
-    kanji: 大嫌い
+    kanji: 大嫌い（な）
     kanji_readings:
     - 大嫌: だいきら
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_83.mp3
@@ -227,13 +227,13 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_85.mp3
   - japanese: げんき（な）
     english: healthy; energetic
-    kanji: 元気
+    kanji: 元気（な）
     kanji_readings:
     - 元気: げんき
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_88.mp3
   - japanese: しずか（な）
     english: quiet
-    kanji: 静か
+    kanji: 静か（な）
     kanji_readings:
     - 静: しず
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_91.mp3
@@ -242,7 +242,7 @@ vocabulary:
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_93.mp3
   - japanese: ひま（な）
     english: not busy; free (time)
-    kanji: 暇
+    kanji: 暇（な）
     kanji_readings:
     - 暇: ひま
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_95.mp3
