@@ -8,9 +8,13 @@ vocabulary:
   vocabulary:
   - japanese: XもY
     english: Also, too (X also Y)
+    sound_file: tts/XもY_659df.wav
   - japanese: Xね
     english: Isn't it? (X, right?)
+    sound_file: tts/Xね_4e500.wav
   - japanese: Xよ
     english: I tell you (I'm telling you, X!)
+    sound_file: tts/Xよ_413be.wav
 - japanese: Xじゃないです
   english: Negative form of Xです (not X)
+  sound_file: tts/Xじゃないです_f79ad.wav

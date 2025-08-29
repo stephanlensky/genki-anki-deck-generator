@@ -8,3 +8,4 @@ vocabulary:
   vocabulary:
   - japanese: XがY
     english: Subject marker (Regarding X, Y)
+    sound_file: tts/XがY_c655c.wav

@@ -144,6 +144,7 @@ vocabulary:
       kanji: 大阪
       kanji_readings:
       - 大阪: おおさか
+      sound_file: tts/おおさか_0a8eb.wav
   - tags:
     - Time
     vocabulary:

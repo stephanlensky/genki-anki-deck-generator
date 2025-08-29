@@ -113,6 +113,7 @@ vocabulary:
       kanji: 京都
       kanji_readings:
       - 京都: きょうと
+      sound_file: tts/きょうと_d3e5e.wav
   - tags:
     - Time
     vocabulary:

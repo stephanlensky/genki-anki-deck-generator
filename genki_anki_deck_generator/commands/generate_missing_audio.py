@@ -39,12 +39,16 @@ def run(args: argparse.Namespace) -> None:
         output_path = (
             config.download_dir / "tts" / f"{sanitized_japanese}_{_card_hash(card)[:5]}.wav"
         )
-        if not output_path.parent.exists():
+        if not output_path.exists():
             output_path.parent.mkdir(parents=True, exist_ok=True)
             japanese = f"{card.kanji} ({card.japanese})" if card.kanji else card.japanese
             print(f"Generating audio for card: {japanese} - {card.english}")
+            text = card.kanji if card.kanji else card.japanese
+            if card.tts_override:
+                print(f"Using TTS override text: {card.tts_override.text}")
+                text = card.tts_override.text
             voicevox_tts(
-                text=card.kanji if card.kanji else card.japanese,
+                text=text,
                 speaker=2,
                 output_path=output_path,
             )

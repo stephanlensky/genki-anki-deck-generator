@@ -77,6 +77,8 @@ class Card:
             d["verb_group"] = self.verb_group.value
         if self.sound_file:
             d["sound_file"] = str(PurePosixPath(self.sound_file))
+        if self.tts_override:
+            d["tts_override"] = {"text": self.tts_override.text}
         return d
 
 
@@ -186,6 +188,9 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
             if "verb_group" in template_yaml
             else None,
             sound_file=template_yaml.get("sound_file"),
+            tts_override=TTSOverride(**template_yaml["tts_override"])
+            if "tts_override" in template_yaml
+            else None,
         )
 
     raise ValueError("Invalid template structure")
