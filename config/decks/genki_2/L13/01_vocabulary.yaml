@@ -1,351 +1,351 @@
 tags:
-- Genki_2
-- Lesson_13
-- Vocabulary
+  - Genki_2
+  - Lesson_13
+  - Vocabulary
 vocabulary:
-- tags:
-  - Nouns
-  vocabulary:
-  - japanese: おとな
-    english: adult
-    kanji: 大人
-    kanji_readings:
-    - 大人: おとな
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_3.mp3
-  - japanese: べんごし
-    english: lawyer
-    kanji: 弁護士
-    kanji_readings:
-    - 弁護: べんご
-    - 士: し
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_5.mp3
-  - japanese: わたくし
-    english: I (formal)
-    kanji: 私
-    kanji_readings:
-    - 私: わたくし
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_7.mp3
-  - japanese: カレー
-    english: curry
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_9.mp3
-  - japanese: こうちゃ
-    english: black tea
-    kanji: 紅茶
-    kanji_readings:
-    - 紅茶: こうちゃ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_11.mp3
-  - japanese: きもの
-    english: kimono; Japanese traditional dress
-    kanji: 着物
-    kanji_readings:
-    - 着物: きもの
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_13.mp3
-  - japanese: セーター
-    english: sweater
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_16.mp3
-  - japanese: がっき
-    english: musical instrument
-    kanji: 楽器
-    kanji_readings:
-    - 楽器: がっき
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_18.mp3
-  - japanese: からて
-    english: karate
-    kanji: 空手
-    kanji_readings:
-    - 空手: からて
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_20.mp3
-  - japanese: ゴルフ
-    english: golf
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_22.mp3
-  - japanese: バイク
-    english: motorcycle
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_24.mp3
-  - japanese: ぞう
-    english: elephant
-    kanji: 象
-    kanji_readings:
-    - 象: ぞう
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_26.mp3
-  - japanese: からだ
-    english: body
-    kanji: 体
-    kanji_readings:
-    - 体: からだ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_28.mp3
-  - japanese: がいこくご
-    english: foreign language
-    kanji: 外国語
-    kanji_readings:
-    - 外国: がいこく
-    - 語: ご
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_30.mp3
-  - japanese: ことば
-    english: language (words)
-    kanji: 言葉
-    kanji_readings:
-    - 言葉: ことば
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_32.mp3
-  - japanese: ぶんぽう
-    english: grammar
-    kanji: 文法
-    kanji_readings:
-    - 文法: ぶんぽう
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_34.mp3
-  - japanese: アプリ
-    english: application
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_36.mp3
-  - japanese: アパート
-    english: apartment; smaller apartment building
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_38.mp3
-  - japanese: マンション
-    english: larger apartment building; condominium
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_41.mp3
-  - japanese: くうこう
-    english: airport
-    kanji: 空港
-    kanji_readings:
-    - 空港: くうこう
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_44.mp3
-  - japanese: みせ
-    english: shop; store
-    kanji: 店
-    kanji_readings:
-    - 店: みせ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_46.mp3
-  - japanese: ぶっか
-    english: consumer prices
-    kanji: 物価
-    kanji_readings:
-    - 物価: ぶっか
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_49.mp3
-  - japanese: こうこく
-    english: advertisement
-    kanji: 広告
-    kanji_readings:
-    - 広告: こうこく
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_51.mp3
-  - japanese: ぼしゅう
-    english: recruitment
-    kanji: 募集
-    kanji_readings:
-    - 募集: ぼしゅう
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_53.mp3
-  - japanese: やくそく
-    english: promise; appointment
-    kanji: 約束
-    kanji_readings:
-    - 約束: やくそく
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_55.mp3
-- tags:
-  - い-adjectives
-  vocabulary:
-  - japanese: うれしい
-    english: glad
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_58.mp3
-  - japanese: かなしい
-    english: sad
-    kanji: 悲しい
-    kanji_readings:
-    - 悲: かな
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_60.mp3
-  - japanese: きびしい
-    english: strict
-    kanji: 厳しい
-    kanji_readings:
-    - 厳: きび
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_62.mp3
-  - japanese: きぶんがわるい
-    english: to feel sick
-    kanji: 気分が悪い
-    kanji_readings:
-    - 気分: きぶん
-    - 悪: わる
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_64.mp3
-  - japanese: からい
-    english: hot and spicy; salty
-    kanji: 辛い
-    kanji_readings:
-    - 辛: から
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_66.mp3
-  - japanese: すごい
-    english: incredible; awesome
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_69.mp3
-  - japanese: ちかい
-    english: close; near
-    kanji: 近い
-    kanji_readings:
-    - 近: ちか
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_72.mp3
-- tags:
-  - な-adjectives
-  vocabulary:
-  - japanese: いろいろ（な）
-    english: various; different kinds of
-    kanji: 色々（な）
-    kanji_readings:
-    - 色々: いろいろ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_76.mp3
-  - japanese: しあわせ（な）
-    english: happy (lasting happiness)
-    kanji: 幸せ（な）
-    kanji_readings:
-    - 幸: しあわ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_79.mp3
-  - japanese: だめ（な）
-    english: no good
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_81.mp3
-- tags:
-  - U-verbs
-  - Verbs
-  vocabulary:
-  - japanese: あむ
-    english: to knit (~を)
-    kanji: 編む
-    kanji_readings:
-    - 編: あ
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_84.mp3
-  - japanese: がんばる
-    english: to do one's best; to try hard
-    kanji: 頑張る
-    kanji_readings:
-    - 頑張: がんば
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_86.mp3
-  - japanese: なく
-    english: to cry
-    kanji: 泣く
-    kanji_readings:
-    - 泣: な
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_89.mp3
-  - japanese: みがく
-    english: to brush (teeth); to polish (~を)
-    kanji: 磨く
-    kanji_readings:
-    - 磨: みが
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_91.mp3
-  - japanese: やくそくをまもる
-    english: to keep a promise (lit.”protect a promise”)
-    kanji: 約束を守る
-    kanji_readings:
-    - 約束: やくそく
-    - 守: まも
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_94.mp3
-- tags:
-  - Irregular_Verbs
-  - Verbs
-  vocabulary:
-  - japanese: かんどうする
-    english: to be moved; touched (by …) (~に)
-    kanji: 感動する
-    kanji_readings:
-    - 感動: かんどう
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_97.mp3
-- tags:
-  - Adverbs_and_Other_Expressions
-  vocabulary:
-  - japanese: 〜かい
-    english: '...times'
-    kanji: 〜回
-    kanji_readings:
-    - 回: かい
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_101.mp3
-  - japanese: 〜キロ
-    english: '...kilometers; ...kilograms'
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_103.mp3
-  - japanese: ぜんぶ
-    english: all
-    kanji: 全部
-    kanji_readings:
-    - 全部: ぜんぶ
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_106.mp3
-  - japanese: 〜ともうします
-    english: my name is ~
-    kanji: 〜と申します
-    kanji_readings:
-    - 申: もう
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_108.mp3
-  - japanese: とくに
-    english: especially
-    kanji: 特に
-    kanji_readings:
-    - 特: とく
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_110.mp3
-- tags:
-  - Numbers
-  vocabulary:
-  - japanese: いちにち
-    english: one day
-    kanji: 一日
-    kanji_readings:
-    - 一: いち
-    - 日: にち
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_113.mp3
-  - japanese: ふつか
-    english: two days
-    kanji: 二日
-    kanji_readings:
-    - 二: ふつ
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_115.mp3
-  - japanese: みっか
-    english: three days
-    kanji: 三日
-    kanji_readings:
-    - 三: みっ
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_117.mp3
-  - japanese: よっか
-    english: four days
-    kanji: 四日
-    kanji_readings:
-    - 四: よっ
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_119.mp3
-  - japanese: いつか
-    english: five days
-    kanji: 五日
-    kanji_readings:
-    - 五: いつ
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_121.mp3
-  - japanese: むいか
-    english: six days
-    kanji: 六日
-    kanji_readings:
-    - 六: むい
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_123.mp3
-  - japanese: なのか
-    english: seven days
-    kanji: 七日
-    kanji_readings:
-    - 七: なの
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_125.mp3
-  - japanese: ようか
-    english: eight days
-    kanji: 八日
-    kanji_readings:
-    - 八: よう
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_127.mp3
-  - japanese: ここのか
-    english: nine days
-    kanji: 九日
-    kanji_readings:
-    - 九: ここの
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_129.mp3
-  - japanese: とおか
-    english: ten days
-    kanji: 十日
-    kanji_readings:
-    - 十: とお
-    - 日: か
-    sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_131.mp3
+  - tags:
+      - Nouns
+    vocabulary:
+      - japanese: おとな
+        english: adult
+        kanji: 大人
+        kanji_readings:
+          - 大人: おとな
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_3.mp3
+      - japanese: べんごし
+        english: lawyer
+        kanji: 弁護士
+        kanji_readings:
+          - 弁護: べんご
+          - 士: し
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_5.mp3
+      - japanese: わたくし
+        english: I (formal)
+        kanji: 私
+        kanji_readings:
+          - 私: わたくし
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_7.mp3
+      - japanese: カレー
+        english: curry
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_9.mp3
+      - japanese: こうちゃ
+        english: black tea
+        kanji: 紅茶
+        kanji_readings:
+          - 紅茶: こうちゃ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_11.mp3
+      - japanese: きもの
+        english: kimono; Japanese traditional dress
+        kanji: 着物
+        kanji_readings:
+          - 着物: きもの
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_13.mp3
+      - japanese: セーター
+        english: sweater
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_16.mp3
+      - japanese: がっき
+        english: musical instrument
+        kanji: 楽器
+        kanji_readings:
+          - 楽器: がっき
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_18.mp3
+      - japanese: からて
+        english: karate
+        kanji: 空手
+        kanji_readings:
+          - 空手: からて
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_20.mp3
+      - japanese: ゴルフ
+        english: golf
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_22.mp3
+      - japanese: バイク
+        english: motorcycle
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_24.mp3
+      - japanese: ぞう
+        english: elephant
+        kanji: 象
+        kanji_readings:
+          - 象: ぞう
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_26.mp3
+      - japanese: からだ
+        english: body
+        kanji: 体
+        kanji_readings:
+          - 体: からだ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_28.mp3
+      - japanese: がいこくご
+        english: foreign language
+        kanji: 外国語
+        kanji_readings:
+          - 外国: がいこく
+          - 語: ご
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_30.mp3
+      - japanese: ことば
+        english: language (words)
+        kanji: 言葉
+        kanji_readings:
+          - 言葉: ことば
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_32.mp3
+      - japanese: ぶんぽう
+        english: grammar
+        kanji: 文法
+        kanji_readings:
+          - 文法: ぶんぽう
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_34.mp3
+      - japanese: アプリ
+        english: application
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_36.mp3
+      - japanese: アパート
+        english: apartment; smaller apartment building
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_38.mp3
+      - japanese: マンション
+        english: larger apartment building; condominium
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_41.mp3
+      - japanese: くうこう
+        english: airport
+        kanji: 空港
+        kanji_readings:
+          - 空港: くうこう
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_44.mp3
+      - japanese: みせ
+        english: shop; store
+        kanji: 店
+        kanji_readings:
+          - 店: みせ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_46.mp3
+      - japanese: ぶっか
+        english: consumer prices
+        kanji: 物価
+        kanji_readings:
+          - 物価: ぶっか
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_49.mp3
+      - japanese: こうこく
+        english: advertisement
+        kanji: 広告
+        kanji_readings:
+          - 広告: こうこく
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_51.mp3
+      - japanese: ぼしゅう
+        english: recruitment
+        kanji: 募集
+        kanji_readings:
+          - 募集: ぼしゅう
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_53.mp3
+      - japanese: やくそく
+        english: promise; appointment
+        kanji: 約束
+        kanji_readings:
+          - 約束: やくそく
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_55.mp3
+  - tags:
+      - い-adjectives
+    vocabulary:
+      - japanese: うれしい
+        english: glad
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_58.mp3
+      - japanese: かなしい
+        english: sad
+        kanji: 悲しい
+        kanji_readings:
+          - 悲: かな
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_60.mp3
+      - japanese: きびしい
+        english: strict
+        kanji: 厳しい
+        kanji_readings:
+          - 厳: きび
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_62.mp3
+      - japanese: きぶんがわるい
+        english: to feel sick
+        kanji: 気分が悪い
+        kanji_readings:
+          - 気分: きぶん
+          - 悪: わる
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_64.mp3
+      - japanese: からい
+        english: hot and spicy; salty
+        kanji: 辛い
+        kanji_readings:
+          - 辛: から
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_66.mp3
+      - japanese: すごい
+        english: incredible; awesome
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_69.mp3
+      - japanese: ちかい
+        english: close; near
+        kanji: 近い
+        kanji_readings:
+          - 近: ちか
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_72.mp3
+  - tags:
+      - な-adjectives
+    vocabulary:
+      - japanese: いろいろ(な)
+        english: various; different kinds of
+        kanji: 色々(な)
+        kanji_readings:
+          - 色々: いろいろ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_76.mp3
+      - japanese: しあわせ(な)
+        english: happy (lasting happiness)
+        kanji: 幸せ(な)
+        kanji_readings:
+          - 幸: しあわ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_79.mp3
+      - japanese: だめ(な)
+        english: no good
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_81.mp3
+  - tags:
+      - U-verbs
+      - Verbs
+    vocabulary:
+      - japanese: あむ
+        english: to knit (~を)
+        kanji: 編む
+        kanji_readings:
+          - 編: あ
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_84.mp3
+      - japanese: がんばる
+        english: to do one's best; to try hard
+        kanji: 頑張る
+        kanji_readings:
+          - 頑張: がんば
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_86.mp3
+      - japanese: なく
+        english: to cry
+        kanji: 泣く
+        kanji_readings:
+          - 泣: な
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_89.mp3
+      - japanese: みがく
+        english: to brush (teeth); to polish (~を)
+        kanji: 磨く
+        kanji_readings:
+          - 磨: みが
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_91.mp3
+      - japanese: やくそくをまもる
+        english: to keep a promise (lit.”protect a promise”)
+        kanji: 約束を守る
+        kanji_readings:
+          - 約束: やくそく
+          - 守: まも
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_94.mp3
+  - tags:
+      - Irregular_Verbs
+      - Verbs
+    vocabulary:
+      - japanese: かんどうする
+        english: to be moved; touched (by …) (~に)
+        kanji: 感動する
+        kanji_readings:
+          - 感動: かんどう
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_97.mp3
+  - tags:
+      - Adverbs_and_Other_Expressions
+    vocabulary:
+      - japanese: 〜かい
+        english: "...times"
+        kanji: 〜回
+        kanji_readings:
+          - 回: かい
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_101.mp3
+      - japanese: 〜キロ
+        english: "...kilometers; ...kilograms"
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_103.mp3
+      - japanese: ぜんぶ
+        english: all
+        kanji: 全部
+        kanji_readings:
+          - 全部: ぜんぶ
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_106.mp3
+      - japanese: 〜ともうします
+        english: my name is ~
+        kanji: 〜と申します
+        kanji_readings:
+          - 申: もう
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_108.mp3
+      - japanese: とくに
+        english: especially
+        kanji: 特に
+        kanji_readings:
+          - 特: とく
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_110.mp3
+  - tags:
+      - Numbers
+    vocabulary:
+      - japanese: いちにち
+        english: one day
+        kanji: 一日
+        kanji_readings:
+          - 一: いち
+          - 日: にち
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_113.mp3
+      - japanese: ふつか
+        english: two days
+        kanji: 二日
+        kanji_readings:
+          - 二: ふつ
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_115.mp3
+      - japanese: みっか
+        english: three days
+        kanji: 三日
+        kanji_readings:
+          - 三: みっ
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_117.mp3
+      - japanese: よっか
+        english: four days
+        kanji: 四日
+        kanji_readings:
+          - 四: よっ
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_119.mp3
+      - japanese: いつか
+        english: five days
+        kanji: 五日
+        kanji_readings:
+          - 五: いつ
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_121.mp3
+      - japanese: むいか
+        english: six days
+        kanji: 六日
+        kanji_readings:
+          - 六: むい
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_123.mp3
+      - japanese: なのか
+        english: seven days
+        kanji: 七日
+        kanji_readings:
+          - 七: なの
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_125.mp3
+      - japanese: ようか
+        english: eight days
+        kanji: 八日
+        kanji_readings:
+          - 八: よう
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_127.mp3
+      - japanese: ここのか
+        english: nine days
+        kanji: 九日
+        kanji_readings:
+          - 九: ここの
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_129.mp3
+      - japanese: とおか
+        english: ten days
+        kanji: 十日
+        kanji_readings:
+          - 十: とお
+          - 日: か
+        sound_file: genki_2/Kaiwa_Bunpo_L13/K13_07/K13_07_131.mp3

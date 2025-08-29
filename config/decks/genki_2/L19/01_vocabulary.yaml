@@ -1,349 +1,349 @@
 tags:
-- Genki_2
-- Lesson_19
-- Vocabulary
+  - Genki_2
+  - Lesson_19
+  - Vocabulary
 vocabulary:
-- tags:
-  - Nouns
-  vocabulary:
-  - japanese: おくさま
-    english: wife (polite)
-    kanji: 奥様
-    kanji_readings:
-    - 奥: おく
-    - 様: さま
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_3.mp3
-  - japanese: おこさん
-    english: child (polite)
-    kanji: お子さん
-    kanji_readings:
-    - 子: こ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_5.mp3
-  - japanese: ちゅうがくせい
-    english: junior high school student
-    kanji: 中学生
-    kanji_readings:
-    - 中学: ちゅうがく
-    - 生: せい
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_7.mp3
-  - japanese: ぶちょう
-    english: department manager
-    kanji: 部長
-    kanji_readings:
-    - 部長: ぶちょう
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_9.mp3
-  - japanese: しゅっちょう
-    english: business trip
-    kanji: 出張
-    kanji_readings:
-    - 出張: しゅっちょう
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_11.mp3
-  - japanese: けいご
-    english: honorific language
-    kanji: 敬語
-    kanji_readings:
-    - 敬語: けいご
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_13.mp3
-  - japanese: こちら
-    japanese_note: (rare)
-    english: this way (polite)
-    kanji: 此方
-    kanji_readings:
-    - 此方: こちら
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_15.mp3
-  - japanese: どちら
-    japanese_note: (rare)
-    english: where (polite)
-    kanji: 何方
-    kanji_readings:
-    - 何方: どちら
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_17.mp3
-  - japanese: おれい
-    english: expression of gratitude
-    kanji: お礼
-    kanji_readings:
-    - 礼: れい
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_19.mp3
-  - japanese: しゅるい
-    english: a kind; a sort
-    kanji: 種類
-    kanji_readings:
-    - 種類: しゅるい
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_21.mp3
-  - japanese: はなし
-    english: talk; story
-    kanji: 話
-    kanji_readings:
-    - 話: はなし
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_24.mp3
-  - japanese: なやみ
-    english: worry
-    kanji: 悩み
-    kanji_readings:
-    - 悩: なや
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_27.mp3
-  - japanese: まちがい
-    english: mistake
-    kanji: 間違い
-    kanji_readings:
-    - 間違: まちが
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_29.mp3
-  - japanese: せいかく
-    english: personality
-    kanji: 性格
-    kanji_readings:
-    - 性格: せいかく
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_31.mp3
-  - japanese: なまけもの
-    english: lazy person
-    kanji: 怠け者
-    kanji_readings:
-    - 怠け者: なまけもの
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_33.mp3
-  - japanese: はずかしがりや
-    english: shy person
-    kanji: 恥ずかしがり屋
-    kanji_readings:
-    - 恥: は
-    - 屋: や
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_35.mp3
-- tags:
-  - い-adjectives
-  vocabulary:
-  - japanese: なかがいい
-    english: be on good/close terms; to get along well
-    kanji: 仲がいい
-    kanji_readings:
-    - 仲: なか
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_38.mp3
-- tags:
-  - な-adjectives
-  vocabulary:
-  - japanese: まじめ（な）
-    japanese_note: (rare)
-    english: serious; sober; diligent
-    kanji: 真面目（な）
-    kanji_readings:
-    - 真面目: まじめ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_43.mp3
-- tags:
-  - U_verbs
-  vocabulary:
-  - japanese: いらっしゃる
-    english: honorific expression for いく、くる、and いる
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_48.mp3
-  - japanese: めしあがる
-    english: honorific expression for たべる、のむ
-    kanji: 召し上がる
-    kanji_readings:
-    - 召し上: めしあ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_52.mp3
-  - japanese: くださる
-    english: honorific expression for くれる
-    kanji: 下さる
-    kanji_readings:
-    - 下: くだ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_55.mp3
-  - japanese: なさる
-    japanese_note: (rare)
-    english: honorific expression for する
-    kanji: 為さる
-    kanji_readings:
-    - 為: な
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_57.mp3
-  - japanese: おやすみになる
-    english: honorific expression for ねる
-    kanji: お休みになる
-    kanji_readings:
-    - 休: やす
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_59.mp3
-  - japanese: ごらんになる
-    english: honorific expression for みる
-    kanji: ご覧になる
-    kanji_readings:
-    - 覧: らん
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_61.mp3
-  - japanese: おっしゃる
-    japanese_note: (rare)
-    english: honorific expression for いう
-    kanji: 仰る
-    kanji_readings:
-    - 仰: おっしゃ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_63.mp3
-  - japanese: ～ていらっしゃる
-    english: honorific expression for ～ている
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_65.mp3
-  - japanese: おくる
-    english: to walk/drive (someone) (personをplaceまで)
-    kanji: 送る
-    kanji_readings:
-    - 送: おく
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_67.mp3
-  - japanese: おこる
-    english: to get angry
-    kanji: 怒る
-    kanji_readings:
-    - 怒: おこ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_70.mp3
-  - japanese: きまる
-    english: to be decided (～が)
-    kanji: 決まる
-    kanji_readings:
-    - 決: き
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_72.mp3
-  - japanese: しりあう
-    english: to get acquainted with (～と)
-    kanji: 知り合う
-    kanji_readings:
-    - 知り合: しりあ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_74.mp3
-  - japanese: よぶ
-    english: to call (one's name) (～と); to invite (person を event に)
-    kanji: 呼ぶ
-    kanji_readings:
-    - 呼: よ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_76.mp3
-  - japanese: ひっこす
-    english: to move (to another place to live) (～に)
-    kanji: 引っ越す
-    kanji_readings:
-    - 引っ越: ひっこ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_79.mp3
-  - japanese: よる
-    english: to stop by (place に)
-    kanji: 寄る
-    kanji_readings:
-    - 寄: よ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_81.mp3
-- tags:
-  - Ru-verbs
-  - Verbs
-  vocabulary:
-  - japanese: おくれる
-    english: to become late (～に)
-    kanji: 遅れる
-    kanji_readings:
-    - 遅: おく
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_84.mp3
-  - japanese: かける
-    japanese_note: (rare)
-    english: to sit down (seat に)
-    kanji: 掛ける
-    kanji_readings:
-    - 掛: か
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_86.mp3
-  - japanese: もてる
-    japanese_note: (rare, モテル also common)
-    english: to be popular (in terms of romantic interest) (people に)
-    kanji: 持てる
-    kanji_readings:
-    - 持: も
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_88.mp3
-  - japanese: はれる
-    english: to become sunny
-    kanji: 晴れる
-    kanji_readings:
-    - 晴: は
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_90.mp3
-- tags:
-  - Irregular_Verbs
-  - Verbs
-  vocabulary:
-  - japanese: ごちそうする
-    japanese_note: (rare)
-    english: to treat/invite (someone) to a meal (person に meal を)
-    kanji: ご馳走する
-    kanji_readings:
-    - 馳走: ちそう
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_93.mp3
-  - japanese: えんりょする
-    english: to hold back for the time being; to refrain from
-    kanji: 遠慮する
-    kanji_readings:
-    - 遠慮: えんりょ
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_96.mp3
-  - japanese: しょうたいする
-    english: to invite someone (to an event/a place) (person を event に)
-    kanji: 招待する
-    kanji_readings:
-    - 招待: しょうたい
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_99.mp3
-  - japanese: はなしをする
-    english: to have a talk
-    kanji: 話をする
-    kanji_readings:
-    - 話: はなし
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_101.mp3
-- tags:
-  - Adverbs_and_Other_Expressions
-  vocabulary:
-  - japanese: おととい
-    japanese_note: (rare)
-    english: the day before yesterday
-    kanji: 一昨日
-    kanji_readings:
-    - 一昨日: おととい
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_104.mp3
-  - japanese: まいあさ
-    english: every morning
-    kanji: 毎朝
-    kanji_readings:
-    - 毎朝: まいあさ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_106.mp3
-  - japanese: それで
-    japanese_note: (rare)
-    english: then; therefore
-    kanji: 其れで
-    kanji_readings:
-    - 其: そ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_108.mp3
-  - japanese: なぜ
-    japanese_note: (rare)
-    english: why (=どうして)
-    kanji: 何故
-    kanji_readings:
-    - 何故: なぜ
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_110.mp3
-  - japanese: ほんとうは
-    english: in fact; originally
-    kanji: 本当は
-    kanji_readings:
-    - 本当: ほんとう
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_112.mp3
-  - japanese: まだ
-    japanese_note: (rare)
-    english: still
-    kanji: 未だ
-    kanji_readings:
-    - 未: ま
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_115.mp3
-  - japanese: しょうしょう
-    english: a few seconds
-    kanji: 少々
-    kanji_readings:
-    - 少々: しょうしょう
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_117.mp3
-  - japanese: ～めいさま
-    english: a party of ... People
-    kanji: ～名様
-    kanji_readings:
-    - 名: めい
-    - 様: さま
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_119.mp3
-  - japanese: ようこそ
-    english: welcome
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_122.mp3
-  - japanese: よろしくおつたえください
-    english: please give my best regards (to…) (～に)
-    kanji: よろしくお伝えください
-    kanji_readings:
-    - 伝: つた
-    sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_124.mp3
+  - tags:
+      - Nouns
+    vocabulary:
+      - japanese: おくさま
+        english: wife (polite)
+        kanji: 奥様
+        kanji_readings:
+          - 奥: おく
+          - 様: さま
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_3.mp3
+      - japanese: おこさん
+        english: child (polite)
+        kanji: お子さん
+        kanji_readings:
+          - 子: こ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_5.mp3
+      - japanese: ちゅうがくせい
+        english: junior high school student
+        kanji: 中学生
+        kanji_readings:
+          - 中学: ちゅうがく
+          - 生: せい
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_7.mp3
+      - japanese: ぶちょう
+        english: department manager
+        kanji: 部長
+        kanji_readings:
+          - 部長: ぶちょう
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_9.mp3
+      - japanese: しゅっちょう
+        english: business trip
+        kanji: 出張
+        kanji_readings:
+          - 出張: しゅっちょう
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_11.mp3
+      - japanese: けいご
+        english: honorific language
+        kanji: 敬語
+        kanji_readings:
+          - 敬語: けいご
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_13.mp3
+      - japanese: こちら
+        japanese_note: (rare)
+        english: this way (polite)
+        kanji: 此方
+        kanji_readings:
+          - 此方: こちら
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_15.mp3
+      - japanese: どちら
+        japanese_note: (rare)
+        english: where (polite)
+        kanji: 何方
+        kanji_readings:
+          - 何方: どちら
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_17.mp3
+      - japanese: おれい
+        english: expression of gratitude
+        kanji: お礼
+        kanji_readings:
+          - 礼: れい
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_19.mp3
+      - japanese: しゅるい
+        english: a kind; a sort
+        kanji: 種類
+        kanji_readings:
+          - 種類: しゅるい
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_21.mp3
+      - japanese: はなし
+        english: talk; story
+        kanji: 話
+        kanji_readings:
+          - 話: はなし
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_24.mp3
+      - japanese: なやみ
+        english: worry
+        kanji: 悩み
+        kanji_readings:
+          - 悩: なや
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_27.mp3
+      - japanese: まちがい
+        english: mistake
+        kanji: 間違い
+        kanji_readings:
+          - 間違: まちが
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_29.mp3
+      - japanese: せいかく
+        english: personality
+        kanji: 性格
+        kanji_readings:
+          - 性格: せいかく
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_31.mp3
+      - japanese: なまけもの
+        english: lazy person
+        kanji: 怠け者
+        kanji_readings:
+          - 怠け者: なまけもの
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_33.mp3
+      - japanese: はずかしがりや
+        english: shy person
+        kanji: 恥ずかしがり屋
+        kanji_readings:
+          - 恥: は
+          - 屋: や
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_35.mp3
+  - tags:
+      - い-adjectives
+    vocabulary:
+      - japanese: なかがいい
+        english: be on good/close terms; to get along well
+        kanji: 仲がいい
+        kanji_readings:
+          - 仲: なか
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_38.mp3
+  - tags:
+      - な-adjectives
+    vocabulary:
+      - japanese: まじめ(な)
+        japanese_note: (rare)
+        english: serious; sober; diligent
+        kanji: 真面目(な)
+        kanji_readings:
+          - 真面目: まじめ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_43.mp3
+  - tags:
+      - U_verbs
+    vocabulary:
+      - japanese: いらっしゃる
+        english: honorific expression for いく、くる、and いる
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_48.mp3
+      - japanese: めしあがる
+        english: honorific expression for たべる、のむ
+        kanji: 召し上がる
+        kanji_readings:
+          - 召し上: めしあ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_52.mp3
+      - japanese: くださる
+        english: honorific expression for くれる
+        kanji: 下さる
+        kanji_readings:
+          - 下: くだ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_55.mp3
+      - japanese: なさる
+        japanese_note: (rare)
+        english: honorific expression for する
+        kanji: 為さる
+        kanji_readings:
+          - 為: な
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_57.mp3
+      - japanese: おやすみになる
+        english: honorific expression for ねる
+        kanji: お休みになる
+        kanji_readings:
+          - 休: やす
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_59.mp3
+      - japanese: ごらんになる
+        english: honorific expression for みる
+        kanji: ご覧になる
+        kanji_readings:
+          - 覧: らん
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_61.mp3
+      - japanese: おっしゃる
+        japanese_note: (rare)
+        english: honorific expression for いう
+        kanji: 仰る
+        kanji_readings:
+          - 仰: おっしゃ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_63.mp3
+      - japanese: ～ていらっしゃる
+        english: honorific expression for ～ている
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_65.mp3
+      - japanese: おくる
+        english: to walk/drive (someone) (personをplaceまで)
+        kanji: 送る
+        kanji_readings:
+          - 送: おく
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_67.mp3
+      - japanese: おこる
+        english: to get angry
+        kanji: 怒る
+        kanji_readings:
+          - 怒: おこ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_70.mp3
+      - japanese: きまる
+        english: to be decided (～が)
+        kanji: 決まる
+        kanji_readings:
+          - 決: き
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_72.mp3
+      - japanese: しりあう
+        english: to get acquainted with (～と)
+        kanji: 知り合う
+        kanji_readings:
+          - 知り合: しりあ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_74.mp3
+      - japanese: よぶ
+        english: to call (one's name) (～と); to invite (person を event に)
+        kanji: 呼ぶ
+        kanji_readings:
+          - 呼: よ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_76.mp3
+      - japanese: ひっこす
+        english: to move (to another place to live) (～に)
+        kanji: 引っ越す
+        kanji_readings:
+          - 引っ越: ひっこ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_79.mp3
+      - japanese: よる
+        english: to stop by (place に)
+        kanji: 寄る
+        kanji_readings:
+          - 寄: よ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_81.mp3
+  - tags:
+      - Ru-verbs
+      - Verbs
+    vocabulary:
+      - japanese: おくれる
+        english: to become late (～に)
+        kanji: 遅れる
+        kanji_readings:
+          - 遅: おく
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_84.mp3
+      - japanese: かける
+        japanese_note: (rare)
+        english: to sit down (seat に)
+        kanji: 掛ける
+        kanji_readings:
+          - 掛: か
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_86.mp3
+      - japanese: もてる
+        japanese_note: (rare, モテル also common)
+        english: to be popular (in terms of romantic interest) (people に)
+        kanji: 持てる
+        kanji_readings:
+          - 持: も
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_88.mp3
+      - japanese: はれる
+        english: to become sunny
+        kanji: 晴れる
+        kanji_readings:
+          - 晴: は
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_90.mp3
+  - tags:
+      - Irregular_Verbs
+      - Verbs
+    vocabulary:
+      - japanese: ごちそうする
+        japanese_note: (rare)
+        english: to treat/invite (someone) to a meal (person に meal を)
+        kanji: ご馳走する
+        kanji_readings:
+          - 馳走: ちそう
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_93.mp3
+      - japanese: えんりょする
+        english: to hold back for the time being; to refrain from
+        kanji: 遠慮する
+        kanji_readings:
+          - 遠慮: えんりょ
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_96.mp3
+      - japanese: しょうたいする
+        english: to invite someone (to an event/a place) (person を event に)
+        kanji: 招待する
+        kanji_readings:
+          - 招待: しょうたい
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_99.mp3
+      - japanese: はなしをする
+        english: to have a talk
+        kanji: 話をする
+        kanji_readings:
+          - 話: はなし
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_101.mp3
+  - tags:
+      - Adverbs_and_Other_Expressions
+    vocabulary:
+      - japanese: おととい
+        japanese_note: (rare)
+        english: the day before yesterday
+        kanji: 一昨日
+        kanji_readings:
+          - 一昨日: おととい
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_104.mp3
+      - japanese: まいあさ
+        english: every morning
+        kanji: 毎朝
+        kanji_readings:
+          - 毎朝: まいあさ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_106.mp3
+      - japanese: それで
+        japanese_note: (rare)
+        english: then; therefore
+        kanji: 其れで
+        kanji_readings:
+          - 其: そ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_108.mp3
+      - japanese: なぜ
+        japanese_note: (rare)
+        english: why (=どうして)
+        kanji: 何故
+        kanji_readings:
+          - 何故: なぜ
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_110.mp3
+      - japanese: ほんとうは
+        english: in fact; originally
+        kanji: 本当は
+        kanji_readings:
+          - 本当: ほんとう
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_112.mp3
+      - japanese: まだ
+        japanese_note: (rare)
+        english: still
+        kanji: 未だ
+        kanji_readings:
+          - 未: ま
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_115.mp3
+      - japanese: しょうしょう
+        english: a few seconds
+        kanji: 少々
+        kanji_readings:
+          - 少々: しょうしょう
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_117.mp3
+      - japanese: ～めいさま
+        english: a party of ... People
+        kanji: ～名様
+        kanji_readings:
+          - 名: めい
+          - 様: さま
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_119.mp3
+      - japanese: ようこそ
+        english: welcome
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_122.mp3
+      - japanese: よろしくおつたえください
+        english: please give my best regards (to…) (～に)
+        kanji: よろしくお伝えください
+        kanji_readings:
+          - 伝: つた
+        sound_file: genki_2/Kaiwa_Bunpo_L19/K19_07/K19_07_124.mp3

@@ -1,326 +1,326 @@
 tags:
-- Genki_1
-- Lesson_12
-- Vocabulary
+  - Genki_1
+  - Lesson_12
+  - Vocabulary
 vocabulary:
-- tags:
-  - Nouns
-  vocabulary:
-  - japanese: おなか
-    english: stomach
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3
-  - japanese: あし
-    english: leg; foot
-    kanji: 足
-    kanji_readings:
-    - 足: あし
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3
-  - japanese: のど
-    english: throat
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_8.mp3
-  - japanese: は
-    english: tooth
-    kanji: 歯
-    kanji_readings:
-    - 歯: は
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
-  - japanese: インフルエンザ
-    english: influenza
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_12.mp3
-  - japanese: かぜ
-    english: cold
-    kanji: 風邪
-    kanji_readings:
-    - 風邪: かぜ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_14.mp3
-  - japanese: せき
-    english: cough
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_16.mp3
-  - japanese: ふつかよい
-    english: hangover
-    kanji: 二日酔い
-    kanji_readings:
-    - 二: ふつ
-    - 日: か
-    - 酔: よ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_18.mp3
-  - japanese: ホームシック
-    english: homesickness
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_20.mp3
-  - japanese: アレルギー
-    english: allergy
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_22.mp3
-  - japanese: ジュース
-    english: juice
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_24.mp3
-  - japanese: たまご
-    english: egg
-    kanji: 卵
-    kanji_readings:
-    - 卵: たまご
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_26.mp3
-  - japanese: ふく
-    english: clothes
-    kanji: 服
-    kanji_readings:
-    - 服: ふく
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_28.mp3
-  - japanese: もの
-    english: thing (concrete object)
-    kanji: 物
-    kanji_readings:
-    - 物: もの
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_30.mp3
-  - japanese: プレゼント
-    english: present
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_32.mp3
-  - japanese: きっぷ
-    english: train ticket
-    kanji: 切符
-    kanji_readings:
-    - 切符: きっぷ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_34.mp3
-  - japanese: 〜だい
-    english: charge; fee
-    kanji: 〜代
-    kanji_readings:
-    - 代: だい
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_36.mp3
-  - japanese: ようじ
-    english: business to take care of
-    kanji: 用事
-    kanji_readings:
-    - 用事: ようじ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_39.mp3
-  - japanese: おてあらい
-    english: restroom
-    kanji: お手洗い
-    kanji_readings:
-    - 手洗: てあら
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_41.mp3
-  - japanese: しあい
-    english: match; game
-    kanji: 試合
-    kanji_readings:
-    - 試合: しあい
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_43.mp3
-  - japanese: せいじ
-    english: politics
-    kanji: 政治
-    kanji_readings:
-    - 政治: せいじ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_46.mp3
-  - japanese: せいせき
-    english: grade (on a test, etc.)
-    kanji: 成績
-    kanji_readings:
-    - 成績: せいせき
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_48.mp3
-  - japanese: かのじょ
-    english: she; girlfriend
-    kanji: 彼女
-    kanji_readings:
-    - 彼女: かのじょ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_50.mp3
-  - japanese: かれ
-    english: he; boyfriend
-    kanji: 彼
-    kanji_readings:
-    - 彼: かれ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_53.mp3
-  - japanese: かれし
-    english: boyfriend
-    kanji: 彼氏
-    kanji_readings:
-    - 彼氏: かれし
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_56.mp3
-  - japanese: いみ
-    english: meaning
-    kanji: 意味
-    kanji_readings:
-    - 意味: いみ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_58.mp3
-- tags:
-  - い-adjectives
-  vocabulary:
-  - japanese: せまい
-    english: narrow; not spacious
-    kanji: 狭い
-    kanji_readings:
-    - 狭: せま
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_61.mp3
-  - japanese: ひろい
-    english: wide; spacious
-    kanji: 広い
-    kanji_readings:
-    - 広: ひろ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_63.mp3
-  - japanese: わるい
-    english: bad
-    kanji: 悪い
-    kanji_readings:
-    - 悪: わる
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_66.mp3
-  - japanese: いたい
-    english: hurt; painful
-    kanji: 痛い
-    kanji_readings:
-    - 痛: いた
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_68.mp3
-  - japanese: あまい
-    english: sweet
-    kanji: 甘い
-    kanji_readings:
-    - 甘: あま
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_71.mp3
-  - japanese: おおい
-    english: there are many ...
-    kanji: 多い
-    kanji_readings:
-    - 多: おお
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_73.mp3
-- tags:
-  - な-adjectives
-  vocabulary:
-  - japanese: すてき（な）
-    english: nice
-    kanji: 素敵（な）
-    kanji_readings:
-    - 素敵: すてき
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_76.mp3
-- tags:
-  - U-verbs
-  - Verbs
-  vocabulary:
-  - japanese: あるく
-    english: to walk
-    kanji: 歩く
-    kanji_readings:
-    - 歩: ある
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_79.mp3
-  - japanese: かぜをひく
-    english: to catch a cold
-    kanji: 風邪をひく
-    kanji_readings:
-    - 風邪: かぜ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_81.mp3
-  - japanese: ねつがある
-    english: to have a fever
-    kanji: 熱がある
-    kanji_readings:
-    - 熱: ねつ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_83.mp3
-  - japanese: のどがかわく
-    english: to become thirsty
-    kanji: 喉が渇く
-    kanji_readings:
-    - 喉: のど
-    - 渇: かわ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_85.mp3
-  - japanese: はらう
-    english: to pay (〜を)
-    kanji: 払う
-    kanji_readings:
-    - 払: はら
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_87.mp3
-  - japanese: なくす
-    english: to lose (〜を)
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_89.mp3
-  - japanese: きょうみがある
-    english: to be interested (in ...) (<i>topic </i>に)
-    kanji: 興味がある
-    kanji_readings:
-    - 興味: きょうみ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_91.mp3
-- tags:
-  - Ru-verbs
-  - Verbs
-  vocabulary:
-  - japanese: せきがでる
-    english: to cough
-    kanji: せきが出る
-    kanji_readings:
-    - 出: で
-    verb_group: ichidan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_94.mp3
-  - japanese: わかれる
-    english: to break up; to separate (<i>person</i>&nbsp;と)
-    kanji: 別れる
-    kanji_readings:
-    - 別: わか
-    verb_group: ichidan
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_96.mp3
-- tags:
-  - Irregular_Verbs
-  - Verbs
-  vocabulary:
-  - japanese: きんちょうする
-    english: to get nervous
-    kanji: 緊張する
-    kanji_readings:
-    - 緊張: きんちょう
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_100.mp3
-  - japanese: しんぱいする
-    english: to worry
-    kanji: 心配する
-    kanji_readings:
-    - 心配: しんぱい
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_102.mp3
-- tags:
-  - Adverbs_and_Other_Expressions
-  vocabulary:
-  - japanese: おだいじに
-    english: Get well soon.
-    kanji: お大事に
-    kanji_readings:
-    - 大事: だいじ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_105.mp3
-  - japanese: げんきがない
-    english: don't look well
-    kanji: 元気がない
-    kanji_readings:
-    - 元気: げんき
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_107.mp3
-  - japanese: できるだけ
-    english: as much as possible
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_109.mp3
-  - japanese: たぶん
-    english: probably; maybe
-    kanji: 多分
-    kanji_readings:
-    - 多分: たぶん
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_111.mp3
-  - japanese: もうすぐ
-    english: very soon; in a few moments/days
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_114.mp3
-  - japanese: はじめて
-    english: for the first time
-    kanji: 初めて
-    kanji_readings:
-    - 初: はじ
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_118.mp3
-  - japanese: にさんにち
-    english: for two to three days
-    kanji: 二三日
-    kanji_readings:
-    - 二三: にさん
-    - 日: にち
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_120.mp3
-  - japanese: それに
-    english: moreover, ...
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_122.mp3
-  - japanese: おなじ
-    english: same
-    kanji: 同じ
-    kanji_readings:
-    - 同: おな
-    sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_124.mp3
+  - tags:
+      - Nouns
+    vocabulary:
+      - japanese: おなか
+        english: stomach
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3
+      - japanese: あし
+        english: leg; foot
+        kanji: 足
+        kanji_readings:
+          - 足: あし
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_5.mp3
+      - japanese: のど
+        english: throat
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_8.mp3
+      - japanese: は
+        english: tooth
+        kanji: 歯
+        kanji_readings:
+          - 歯: は
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_10.mp3
+      - japanese: インフルエンザ
+        english: influenza
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_12.mp3
+      - japanese: かぜ
+        english: cold
+        kanji: 風邪
+        kanji_readings:
+          - 風邪: かぜ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_14.mp3
+      - japanese: せき
+        english: cough
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_16.mp3
+      - japanese: ふつかよい
+        english: hangover
+        kanji: 二日酔い
+        kanji_readings:
+          - 二: ふつ
+          - 日: か
+          - 酔: よ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_18.mp3
+      - japanese: ホームシック
+        english: homesickness
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_20.mp3
+      - japanese: アレルギー
+        english: allergy
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_22.mp3
+      - japanese: ジュース
+        english: juice
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_24.mp3
+      - japanese: たまご
+        english: egg
+        kanji: 卵
+        kanji_readings:
+          - 卵: たまご
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_26.mp3
+      - japanese: ふく
+        english: clothes
+        kanji: 服
+        kanji_readings:
+          - 服: ふく
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_28.mp3
+      - japanese: もの
+        english: thing (concrete object)
+        kanji: 物
+        kanji_readings:
+          - 物: もの
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_30.mp3
+      - japanese: プレゼント
+        english: present
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_32.mp3
+      - japanese: きっぷ
+        english: train ticket
+        kanji: 切符
+        kanji_readings:
+          - 切符: きっぷ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_34.mp3
+      - japanese: 〜だい
+        english: charge; fee
+        kanji: 〜代
+        kanji_readings:
+          - 代: だい
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_36.mp3
+      - japanese: ようじ
+        english: business to take care of
+        kanji: 用事
+        kanji_readings:
+          - 用事: ようじ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_39.mp3
+      - japanese: おてあらい
+        english: restroom
+        kanji: お手洗い
+        kanji_readings:
+          - 手洗: てあら
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_41.mp3
+      - japanese: しあい
+        english: match; game
+        kanji: 試合
+        kanji_readings:
+          - 試合: しあい
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_43.mp3
+      - japanese: せいじ
+        english: politics
+        kanji: 政治
+        kanji_readings:
+          - 政治: せいじ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_46.mp3
+      - japanese: せいせき
+        english: grade (on a test, etc.)
+        kanji: 成績
+        kanji_readings:
+          - 成績: せいせき
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_48.mp3
+      - japanese: かのじょ
+        english: she; girlfriend
+        kanji: 彼女
+        kanji_readings:
+          - 彼女: かのじょ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_50.mp3
+      - japanese: かれ
+        english: he; boyfriend
+        kanji: 彼
+        kanji_readings:
+          - 彼: かれ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_53.mp3
+      - japanese: かれし
+        english: boyfriend
+        kanji: 彼氏
+        kanji_readings:
+          - 彼氏: かれし
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_56.mp3
+      - japanese: いみ
+        english: meaning
+        kanji: 意味
+        kanji_readings:
+          - 意味: いみ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_58.mp3
+  - tags:
+      - い-adjectives
+    vocabulary:
+      - japanese: せまい
+        english: narrow; not spacious
+        kanji: 狭い
+        kanji_readings:
+          - 狭: せま
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_61.mp3
+      - japanese: ひろい
+        english: wide; spacious
+        kanji: 広い
+        kanji_readings:
+          - 広: ひろ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_63.mp3
+      - japanese: わるい
+        english: bad
+        kanji: 悪い
+        kanji_readings:
+          - 悪: わる
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_66.mp3
+      - japanese: いたい
+        english: hurt; painful
+        kanji: 痛い
+        kanji_readings:
+          - 痛: いた
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_68.mp3
+      - japanese: あまい
+        english: sweet
+        kanji: 甘い
+        kanji_readings:
+          - 甘: あま
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_71.mp3
+      - japanese: おおい
+        english: there are many ...
+        kanji: 多い
+        kanji_readings:
+          - 多: おお
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_73.mp3
+  - tags:
+      - な-adjectives
+    vocabulary:
+      - japanese: すてき(な)
+        english: nice
+        kanji: 素敵(な)
+        kanji_readings:
+          - 素敵: すてき
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_76.mp3
+  - tags:
+      - U-verbs
+      - Verbs
+    vocabulary:
+      - japanese: あるく
+        english: to walk
+        kanji: 歩く
+        kanji_readings:
+          - 歩: ある
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_79.mp3
+      - japanese: かぜをひく
+        english: to catch a cold
+        kanji: 風邪をひく
+        kanji_readings:
+          - 風邪: かぜ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_81.mp3
+      - japanese: ねつがある
+        english: to have a fever
+        kanji: 熱がある
+        kanji_readings:
+          - 熱: ねつ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_83.mp3
+      - japanese: のどがかわく
+        english: to become thirsty
+        kanji: 喉が渇く
+        kanji_readings:
+          - 喉: のど
+          - 渇: かわ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_85.mp3
+      - japanese: はらう
+        english: to pay (〜を)
+        kanji: 払う
+        kanji_readings:
+          - 払: はら
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_87.mp3
+      - japanese: なくす
+        english: to lose (〜を)
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_89.mp3
+      - japanese: きょうみがある
+        english: to be interested (in ...) (<i>topic </i>に)
+        kanji: 興味がある
+        kanji_readings:
+          - 興味: きょうみ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_91.mp3
+  - tags:
+      - Ru-verbs
+      - Verbs
+    vocabulary:
+      - japanese: せきがでる
+        english: to cough
+        kanji: せきが出る
+        kanji_readings:
+          - 出: で
+        verb_group: ichidan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_94.mp3
+      - japanese: わかれる
+        english: to break up; to separate (<i>person</i>&nbsp;と)
+        kanji: 別れる
+        kanji_readings:
+          - 別: わか
+        verb_group: ichidan
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_96.mp3
+  - tags:
+      - Irregular_Verbs
+      - Verbs
+    vocabulary:
+      - japanese: きんちょうする
+        english: to get nervous
+        kanji: 緊張する
+        kanji_readings:
+          - 緊張: きんちょう
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_100.mp3
+      - japanese: しんぱいする
+        english: to worry
+        kanji: 心配する
+        kanji_readings:
+          - 心配: しんぱい
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_102.mp3
+  - tags:
+      - Adverbs_and_Other_Expressions
+    vocabulary:
+      - japanese: おだいじに
+        english: Get well soon.
+        kanji: お大事に
+        kanji_readings:
+          - 大事: だいじ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_105.mp3
+      - japanese: げんきがない
+        english: don't look well
+        kanji: 元気がない
+        kanji_readings:
+          - 元気: げんき
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_107.mp3
+      - japanese: できるだけ
+        english: as much as possible
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_109.mp3
+      - japanese: たぶん
+        english: probably; maybe
+        kanji: 多分
+        kanji_readings:
+          - 多分: たぶん
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_111.mp3
+      - japanese: もうすぐ
+        english: very soon; in a few moments/days
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_114.mp3
+      - japanese: はじめて
+        english: for the first time
+        kanji: 初めて
+        kanji_readings:
+          - 初: はじ
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_118.mp3
+      - japanese: にさんにち
+        english: for two to three days
+        kanji: 二三日
+        kanji_readings:
+          - 二三: にさん
+          - 日: にち
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_120.mp3
+      - japanese: それに
+        english: moreover, ...
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_122.mp3
+      - japanese: おなじ
+        english: same
+        kanji: 同じ
+        kanji_readings:
+          - 同: おな
+        sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_124.mp3

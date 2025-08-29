@@ -1,332 +1,332 @@
 tags:
-- Genki_1
-- Lesson_8
-- Vocabulary
+  - Genki_1
+  - Lesson_8
+  - Vocabulary
 vocabulary:
-- tags:
-  - Nouns
-  vocabulary:
-  - japanese: はれ
-    english: sunny weather
-    kanji: 晴れ
-    kanji_readings:
-    - 晴: は
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_3.mp3
-  - japanese: あめ
-    english: rain
-    kanji: 雨
-    kanji_readings:
-    - 雨: あめ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_5.mp3
-  - japanese: くもり
-    english: cloudy weather
-    kanji: 曇り
-    kanji_readings:
-    - 曇: くも
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_7.mp3
-  - japanese: ゆき
-    english: snow
-    kanji: 雪
-    kanji_readings:
-    - 雪: ゆき
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_9.mp3
-  - japanese: てんきよほう
-    english: weather forecast
-    kanji: 天気予報
-    kanji_readings:
-    - 天気: てんき
-    - 予報: よほう
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_11.mp3
-  - japanese: きおん
-    english: temperature (weather - not used for things)
-    kanji: 気温
-    kanji_readings:
-    - 気温: きおん
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_13.mp3
-  - japanese: なつ
-    english: summer
-    kanji: 夏
-    kanji_readings:
-    - 夏: なつ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_15.mp3
-  - japanese: ふゆ
-    english: winter
-    kanji: 冬
-    kanji_readings:
-    - 冬: ふゆ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_17.mp3
-  - japanese: けさ
-    english: this morning
-    kanji: 今朝
-    kanji_readings:
-    - 今朝: けさ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_19.mp3
-  - japanese: あさって
-    english: the day after tomorrow
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_21.mp3
-  - japanese: まいしゅう
-    english: every week
-    kanji: 毎週
-    kanji_readings:
-    - 毎週: まいしゅう
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_23.mp3
-  - japanese: こんげつ
-    english: this month
-    kanji: 今月
-    kanji_readings:
-    - 今月: こんげつ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_25.mp3
-  - japanese: らいげつ
-    english: next month
-    kanji: 来月
-    kanji_readings:
-    - 来月: らいげつ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_27.mp3
-  - japanese: かいしゃいん
-    english: office worker
-    kanji: 会社員
-    kanji_readings:
-    - 会社: かいしゃ
-    - 員: いん
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_29.mp3
-  - japanese: しごと
-    english: job; work; occupation
-    kanji: 仕事
-    kanji_readings:
-    - 仕事: しごと
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_31.mp3
-  - japanese: カメラ
-    english: camera
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_35.mp3
-  - japanese: カラオケ
-    english: karaoke
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_37.mp3
-  - japanese: ところ
-    english: place
-    kanji: 所
-    kanji_readings:
-    - 所: ところ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_39.mp3
-  - japanese: トマト
-    english: tomato
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_41.mp3
-  - japanese: はし
-    english: chopsticks
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_43.mp3
-  - japanese: パーティー
-    english: party
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_45.mp3
-  - japanese: バーベキュー
-    english: barbecue
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_47.mp3
-  - japanese: ホームステイ
-    english: homestay; living with a local family
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_49.mp3
-  - japanese: おふろ
-    english: bath
-    kanji: お風呂
-    kanji_readings:
-    - 風呂: ふろ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_52.mp3
-  - japanese: スペイン
-    english: Spain
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_54.mp3
-  - japanese: なにか
-    english: something
-    kanji: 何か
-    kanji_readings:
-    - 何: なに
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_56.mp3
-- tags:
-  - な-adjectives
-  vocabulary:
-  - japanese: じょうず（な）
-    english: skillful; good at ... (〜が)
-    kanji: 上手（な）
-    kanji_readings:
-    - 上手: じょうず
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_59.mp3
-  - japanese: へた（な）
-    english: clumsy; poor at ... (〜が)
-    kanji: 下手（な）
-    kanji_readings:
-    - 下手: へた
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_62.mp3
-  - japanese: ゆうめい（な）
-    english: famous
-    kanji: 有名（な）
-    kanji_readings:
-    - 有名: ゆうめい
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_65.mp3
-- tags:
-  - U-verbs
-  - Verbs
-  vocabulary:
-  - japanese: あらう
-    english: to wash (〜を)
-    kanji: 洗う
-    kanji_readings:
-    - 洗: あら
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_68.mp3
-  - japanese: いう
-    english: to say
-    kanji: 言う
-    kanji_readings:
-    - 言: い
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_70.mp3
-  - japanese: いる
-    english: to need (〜が)
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_72.mp3
-  - japanese: おそくなる
-    english: to be late
-    kanji: 遅くなる
-    kanji_readings:
-    - 遅: おそ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_74.mp3
-  - japanese: おふろにはいる
-    english: to take a bath
-    kanji: お風呂に入る
-    kanji_readings:
-    - 風呂: ふろ
-    - 入: はい
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_76.mp3
-  - japanese: おもう
-    english: to think
-    kanji: 思う
-    kanji_readings:
-    - 思: おも
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_78.mp3
-  - japanese: きる
-    english: to cut (〜を)
-    kanji: 切る
-    kanji_readings:
-    - 切: き
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_80.mp3
-  - japanese: つくる
-    english: to make (〜を)
-    kanji: 作る
-    kanji_readings:
-    - 作: つく
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_82.mp3
-  - japanese: （あめ／ゆきが）ふる
-    english: (rain/snow) falls
-    kanji: （雨／雪が）降る
-    kanji_readings:
-    - 雨: あめ
-    - 雪: ゆき
-    - 降: ふ
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_84.mp3
-  - japanese: もっていく
-    english: to take (a thing) (〜を)
-    kanji: 持っていく
-    kanji_readings:
-    - 持: も
-    verb_group: godan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_86.mp3
-- tags:
-  - Ru-verbs
-  - Verbs
-  vocabulary:
-  - japanese: すてる
-    english: to throw away (〜を)
-    kanji: 捨てる
-    kanji_readings:
-    - 捨: す
-    verb_group: ichidan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_89.mp3
-  - japanese: はじめる
-    english: to begin (〜を)
-    kanji: 始める
-    kanji_readings:
-    - 始: はじ
-    verb_group: ichidan
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_91.mp3
-- tags:
-  - Irregular_Verbs
-  - Verbs
-  vocabulary:
-  - japanese: うんてんする
-    english: to drive (〜を)
-    kanji: 運転する
-    kanji_readings:
-    - 運転: うんてん
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_94.mp3
-  - japanese: せんたくする
-    english: to do laundry (〜を)
-    kanji: 洗濯する
-    kanji_readings:
-    - 洗濯: せんたく
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_96.mp3
-  - japanese: そうじする
-    english: to clean (〜を)
-    kanji: 掃除する
-    kanji_readings:
-    - 掃除: そうじ
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_98.mp3
-  - japanese: りょうりする
-    english: to cook
-    kanji: 料理する
-    kanji_readings:
-    - 料理: りょうり
-    verb_group: irregular
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_100.mp3
-- tags:
-  - Adverbs_and_Other_Expressions
-  vocabulary:
-  - japanese: うん
-    english: uh-huh; yes
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_103.mp3
-  - japanese: ううん
-    english: uh-uh; no
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_106.mp3
-  - japanese: いつも
-    english: always
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_109.mp3
-  - japanese: おそく
-    english: (do something) late
-    kanji: 遅く
-    kanji_readings:
-    - 遅: おそ
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_111.mp3
-  - japanese: かんぱい
-    english: Cheers! (a toast)
-    kanji: 乾杯
-    kanji_readings:
-    - 乾杯: かんぱい
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_113.mp3
-  - japanese: みんなで
-    english: all (of the people) together
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_115.mp3
-  - japanese: ざんねん（ですね）
-    english: That's too bad.
-    kanji: 残念（ですね）
-    kanji_readings:
-    - 残念: ざんねん
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_117.mp3
-  - japanese: まだ + negative
-    english: not ... yet
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_119.mp3
-  - japanese: 〜について
-    english: about ...; concerning ...
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_122.mp3
-  - japanese: 〜ど
-    english: '... degrees (temperature)'
-    kanji: 〜度
-    kanji_readings:
-    - 度: ど
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_125.mp3
-  - japanese: どう
-    english: how
-    sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_127.mp3
+  - tags:
+      - Nouns
+    vocabulary:
+      - japanese: はれ
+        english: sunny weather
+        kanji: 晴れ
+        kanji_readings:
+          - 晴: は
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_3.mp3
+      - japanese: あめ
+        english: rain
+        kanji: 雨
+        kanji_readings:
+          - 雨: あめ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_5.mp3
+      - japanese: くもり
+        english: cloudy weather
+        kanji: 曇り
+        kanji_readings:
+          - 曇: くも
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_7.mp3
+      - japanese: ゆき
+        english: snow
+        kanji: 雪
+        kanji_readings:
+          - 雪: ゆき
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_9.mp3
+      - japanese: てんきよほう
+        english: weather forecast
+        kanji: 天気予報
+        kanji_readings:
+          - 天気: てんき
+          - 予報: よほう
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_11.mp3
+      - japanese: きおん
+        english: temperature (weather - not used for things)
+        kanji: 気温
+        kanji_readings:
+          - 気温: きおん
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_13.mp3
+      - japanese: なつ
+        english: summer
+        kanji: 夏
+        kanji_readings:
+          - 夏: なつ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_15.mp3
+      - japanese: ふゆ
+        english: winter
+        kanji: 冬
+        kanji_readings:
+          - 冬: ふゆ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_17.mp3
+      - japanese: けさ
+        english: this morning
+        kanji: 今朝
+        kanji_readings:
+          - 今朝: けさ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_19.mp3
+      - japanese: あさって
+        english: the day after tomorrow
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_21.mp3
+      - japanese: まいしゅう
+        english: every week
+        kanji: 毎週
+        kanji_readings:
+          - 毎週: まいしゅう
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_23.mp3
+      - japanese: こんげつ
+        english: this month
+        kanji: 今月
+        kanji_readings:
+          - 今月: こんげつ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_25.mp3
+      - japanese: らいげつ
+        english: next month
+        kanji: 来月
+        kanji_readings:
+          - 来月: らいげつ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_27.mp3
+      - japanese: かいしゃいん
+        english: office worker
+        kanji: 会社員
+        kanji_readings:
+          - 会社: かいしゃ
+          - 員: いん
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_29.mp3
+      - japanese: しごと
+        english: job; work; occupation
+        kanji: 仕事
+        kanji_readings:
+          - 仕事: しごと
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_31.mp3
+      - japanese: カメラ
+        english: camera
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_35.mp3
+      - japanese: カラオケ
+        english: karaoke
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_37.mp3
+      - japanese: ところ
+        english: place
+        kanji: 所
+        kanji_readings:
+          - 所: ところ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_39.mp3
+      - japanese: トマト
+        english: tomato
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_41.mp3
+      - japanese: はし
+        english: chopsticks
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_43.mp3
+      - japanese: パーティー
+        english: party
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_45.mp3
+      - japanese: バーベキュー
+        english: barbecue
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_47.mp3
+      - japanese: ホームステイ
+        english: homestay; living with a local family
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_49.mp3
+      - japanese: おふろ
+        english: bath
+        kanji: お風呂
+        kanji_readings:
+          - 風呂: ふろ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_52.mp3
+      - japanese: スペイン
+        english: Spain
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_54.mp3
+      - japanese: なにか
+        english: something
+        kanji: 何か
+        kanji_readings:
+          - 何: なに
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_56.mp3
+  - tags:
+      - な-adjectives
+    vocabulary:
+      - japanese: じょうず(な)
+        english: skillful; good at ... (〜が)
+        kanji: 上手(な)
+        kanji_readings:
+          - 上手: じょうず
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_59.mp3
+      - japanese: へた(な)
+        english: clumsy; poor at ... (〜が)
+        kanji: 下手(な)
+        kanji_readings:
+          - 下手: へた
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_62.mp3
+      - japanese: ゆうめい(な)
+        english: famous
+        kanji: 有名(な)
+        kanji_readings:
+          - 有名: ゆうめい
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_65.mp3
+  - tags:
+      - U-verbs
+      - Verbs
+    vocabulary:
+      - japanese: あらう
+        english: to wash (〜を)
+        kanji: 洗う
+        kanji_readings:
+          - 洗: あら
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_68.mp3
+      - japanese: いう
+        english: to say
+        kanji: 言う
+        kanji_readings:
+          - 言: い
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_70.mp3
+      - japanese: いる
+        english: to need (〜が)
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_72.mp3
+      - japanese: おそくなる
+        english: to be late
+        kanji: 遅くなる
+        kanji_readings:
+          - 遅: おそ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_74.mp3
+      - japanese: おふろにはいる
+        english: to take a bath
+        kanji: お風呂に入る
+        kanji_readings:
+          - 風呂: ふろ
+          - 入: はい
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_76.mp3
+      - japanese: おもう
+        english: to think
+        kanji: 思う
+        kanji_readings:
+          - 思: おも
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_78.mp3
+      - japanese: きる
+        english: to cut (〜を)
+        kanji: 切る
+        kanji_readings:
+          - 切: き
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_80.mp3
+      - japanese: つくる
+        english: to make (〜を)
+        kanji: 作る
+        kanji_readings:
+          - 作: つく
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_82.mp3
+      - japanese: （あめ／ゆきが）ふる
+        english: (rain/snow) falls
+        kanji: （雨／雪が）降る
+        kanji_readings:
+          - 雨: あめ
+          - 雪: ゆき
+          - 降: ふ
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_84.mp3
+      - japanese: もっていく
+        english: to take (a thing) (〜を)
+        kanji: 持っていく
+        kanji_readings:
+          - 持: も
+        verb_group: godan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_86.mp3
+  - tags:
+      - Ru-verbs
+      - Verbs
+    vocabulary:
+      - japanese: すてる
+        english: to throw away (〜を)
+        kanji: 捨てる
+        kanji_readings:
+          - 捨: す
+        verb_group: ichidan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_89.mp3
+      - japanese: はじめる
+        english: to begin (〜を)
+        kanji: 始める
+        kanji_readings:
+          - 始: はじ
+        verb_group: ichidan
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_91.mp3
+  - tags:
+      - Irregular_Verbs
+      - Verbs
+    vocabulary:
+      - japanese: うんてんする
+        english: to drive (〜を)
+        kanji: 運転する
+        kanji_readings:
+          - 運転: うんてん
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_94.mp3
+      - japanese: せんたくする
+        english: to do laundry (〜を)
+        kanji: 洗濯する
+        kanji_readings:
+          - 洗濯: せんたく
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_96.mp3
+      - japanese: そうじする
+        english: to clean (〜を)
+        kanji: 掃除する
+        kanji_readings:
+          - 掃除: そうじ
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_98.mp3
+      - japanese: りょうりする
+        english: to cook
+        kanji: 料理する
+        kanji_readings:
+          - 料理: りょうり
+        verb_group: irregular
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_100.mp3
+  - tags:
+      - Adverbs_and_Other_Expressions
+    vocabulary:
+      - japanese: うん
+        english: uh-huh; yes
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_103.mp3
+      - japanese: ううん
+        english: uh-uh; no
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_106.mp3
+      - japanese: いつも
+        english: always
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_109.mp3
+      - japanese: おそく
+        english: (do something) late
+        kanji: 遅く
+        kanji_readings:
+          - 遅: おそ
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_111.mp3
+      - japanese: かんぱい
+        english: Cheers! (a toast)
+        kanji: 乾杯
+        kanji_readings:
+          - 乾杯: かんぱい
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_113.mp3
+      - japanese: みんなで
+        english: all (of the people) together
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_115.mp3
+      - japanese: ざんねん（ですね）
+        english: That's too bad.
+        kanji: 残念（ですね）
+        kanji_readings:
+          - 残念: ざんねん
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_117.mp3
+      - japanese: まだ + negative
+        english: not ... yet
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_119.mp3
+      - japanese: 〜について
+        english: about ...; concerning ...
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_122.mp3
+      - japanese: 〜ど
+        english: "... degrees (temperature)"
+        kanji: 〜度
+        kanji_readings:
+          - 度: ど
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_125.mp3
+      - japanese: どう
+        english: how
+        sound_file: genki_1/Kaiwa_Bunpo_L08/K08_05/K08_05_127.mp3

@@ -1,375 +1,375 @@
 tags:
-- Genki_2
-- Lesson_22
-- Vocabulary
+  - Genki_2
+  - Lesson_22
+  - Vocabulary
 vocabulary:
-- tags:
-  - Nouns
-  vocabulary:
-  - japanese: かぜ
-    english: wind
-    kanji: 風
-    kanji_readings:
-    - 風: かぜ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_3.mp3
-  - japanese: き
-    english: tree
-    kanji: 木
-    kanji_readings:
-    - 木: き
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_5.mp3
-  - japanese: ボール
-    english: ball
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_7.mp3
-  - japanese: さる
-    english: monkey
-    kanji: 猿
-    kanji_readings:
-    - 猿: さる
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_9.mp3
-  - japanese: めんきょ
-    english: license
-    kanji: 免許
-    kanji_readings:
-    - 免許: めんきょ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_11.mp3
-  - japanese: よしゅう
-    english: preparation of a lesson
-    kanji: 予習
-    kanji_readings:
-    - 予習: よしゅう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_13.mp3
-  - japanese: ふくしゅう
-    english: review of a lesson
-    kanji: 復習
-    kanji_readings:
-    - 復習: ふくしゅう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_15.mp3
-  - japanese: じゅく
-    english: cram school
-    kanji: 塾
-    kanji_readings:
-    - 塾: じゅく
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_17.mp3
-  - japanese: えいかいわ
-    english: English conversation
-    kanji: 英会話
-    kanji_readings:
-    - 英: えい
-    - 会話: かいわ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_19.mp3
-  - japanese: あいて
-    english: partner; the other person
-    kanji: 相手
-    kanji_readings:
-    - 相手: あいて
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_21.mp3
-  - japanese: おじょうさん
-    english: (someone's) daughter (polite)
-    kanji: お嬢さん
-    kanji_readings:
-    - 嬢: じょう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_24.mp3
-  - japanese: かみさま
-    english: God
-    kanji: 神様
-    kanji_readings:
-    - 神: かみ
-    - 様: さま
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_26.mp3
-  - japanese: せんぱい
-    english: senior member of a group
-    kanji: 先輩
-    kanji_readings:
-    - 先輩: せんぱい
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_28.mp3
-  - japanese: こうはい
-    english: junior member of a group
-    kanji: 後輩
-    kanji_readings:
-    - 後輩: こうはい
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_30.mp3
-  - japanese: ぶか
-    english: subordinate
-    kanji: 部下
-    kanji_readings:
-    - 部下: ぶか
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_32.mp3
-  - japanese: うけつけ
-    english: reception desk
-    kanji: 受付
-    kanji_readings:
-    - 受付: うけつけ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_34.mp3
-  - japanese: しょるい
-    english: document
-    kanji: 書類
-    kanji_readings:
-    - 書類: しょるい
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_36.mp3
-  - japanese: プロジェクト
-    english: project
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_38.mp3
-  - japanese: かじ
-    english: housework
-    kanji: 家事
-    kanji_readings:
-    - 家事: かじ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_40.mp3
-  - japanese: ヨーロッパ
-    japanese_note: (rare)
-    english: Europe
-    kanji: 欧羅巴
-    kanji_readings:
-    - 欧羅巴: ヨーロッパ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_42.mp3
-  - japanese: ひとりぐらし
-    english: living alone
-    kanji: 一人暮らし
-    kanji_readings:
-    - 一人暮: ひとりぐ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_44.mp3
-  - japanese: じゆう
-    english: freedom
-    kanji: 自由
-    kanji_readings:
-    - 自由: じゆう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_46.mp3
-  - japanese: むだづかい
-    english: waste (money)
-    kanji: 無駄遣い
-    kanji_readings:
-    - 無駄遣: むだづか
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_48.mp3
-- tags:
-  - い-adjectives
-  vocabulary:
-  - japanese: うるさい
-    japanese_note: (rare)
-    english: noisy; annoying
-    kanji: 煩い
-    kanji_readings:
-    - 煩: うるさ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_51.mp3
-- tags:
-  - な-adjectives
-  vocabulary:
-  - japanese: しんぱい（な）
-    english: worried about (～が)
-    kanji: 心配（な）
-    kanji_readings:
-    - 心配: しんぱい
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_55.mp3
-  - japanese: びんぼう（な）
-    english: poor
-    kanji: 貧乏（な）
-    kanji_readings:
-    - 貧乏: びんぼう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_57.mp3
-  - japanese: ぺラぺラ（な）
-    english: fluent (language が)
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_59.mp3
-  - japanese: らく（な）
-    english: easy; comfortable
-    kanji: 楽（な）
-    kanji_readings:
-    - 楽: らく
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_61.mp3
-- tags:
-  - U-verbs
-  - Verbs
-  vocabulary:
-  - japanese: かぜがふく
-    english: the wind blows
-    kanji: 風が吹く
-    kanji_readings:
-    - 風: かぜ
-    - 吹: ふ
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_65.mp3
-  - japanese: コピーをとる
-    english: to make a photocopy
-    kanji: コピーを取る
-    kanji_readings:
-    - 取: と
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_67.mp3
-  - japanese: はこぶ
-    english: to carry (～を)
-    kanji: 運ぶ
-    kanji_readings:
-    - 運: はこ
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_69.mp3
-  - japanese: ひろう
-    english: to pick up (something) (～を)
-    kanji: 拾う
-    kanji_readings:
-    - 拾: ひろ
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_71.mp3
-  - japanese: ほ（う）っておく
-    english: to leave (someone/something) alone; to neglect (～を)
-    kanji: 放っておく
-    kanji_readings:
-    - 放: ほう
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_73.mp3
-  - japanese: まにあう
-    english: to be in time  (～に)
-    kanji: 間に合う
-    kanji_readings:
-    - 間に合: まにあ
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_77.mp3
-  - japanese: かつ
-    english: to win (～に)
-    kanji: 勝つ
-    kanji_readings:
-    - 勝: か
-    verb_group: godan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_79.mp3
-- tags:
-  - Ru-verbs
-  - Verbs
-  vocabulary:
-  - japanese: うける
-    english: to take (an examination)  (～を)
-    kanji: 受ける
-    kanji_readings:
-    - 受: う
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_82.mp3
-  - japanese: けいかくをたてる
-    english: to make a plan
-    kanji: 計画を立てる
-    kanji_readings:
-    - 計画: けいかく
-    - 立: た
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_84.mp3
-  - japanese: そだてる
-    english: to raise; to bring up (～を)
-    kanji: 育てる
-    kanji_readings:
-    - 育: そだ
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_86.mp3
-  - japanese: たすける
-    english: to help; to rescue (～を)
-    kanji: 助ける
-    kanji_readings:
-    - 助: たす
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_89.mp3
-  - japanese: まける
-    english: to lose (a match) (～に)
-    kanji: 負ける
-    kanji_readings:
-    - 負: ま
-    verb_group: ichidan
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_92.mp3
-- tags:
-  - Irregular_Verbs
-  - Verbs
-  vocabulary:
-  - japanese: おねがいする
-    english: to request help (person に～を)
-    kanji: お願いする
-    kanji_readings:
-    - 願: ねが
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_95.mp3
-  - japanese: さんせいする
-    english: to agree (～に)
-    kanji: 賛成する
-    kanji_readings:
-    - 賛成: さんせい
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_97.mp3
-  - japanese: はんたいする
-    english: to oppose; to object to (～に)
-    kanji: 反対する
-    kanji_readings:
-    - 反対: はんたい
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_99.mp3
-  - japanese: しっぱいする
-    english: to fail; to be unsuccessful
-    kanji: 失敗する
-    kanji_readings:
-    - 失敗: しっぱい
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_102.mp3
-  - japanese: てつやする
-    english: to stay up all night
-    kanji: 徹夜する
-    kanji_readings:
-    - 徹夜: てつや
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_105.mp3
-  - japanese: ほんやくする
-    english: to translate (source と target に)
-    kanji: 翻訳する
-    kanji_readings:
-    - 翻訳: ほんやく
-    verb_group: irregular
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_107.mp3
-- tags:
-  - Adverbs_and_Other_Expressions
-  vocabulary:
-  - japanese: こんなふう
-    japanese_note: (rare)
-    english: like this
-    kanji: こんな風
-    kanji_readings:
-    - 風: ふう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_110.mp3
-  - japanese: じゆうに
-    japanese_note: (rare)
-    english: freely
-    kanji: 自由に
-    kanji_readings:
-    - 自由: じゆう
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_112.mp3
-  - japanese: ずっと
-    english: for a long time; all the time
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_114.mp3
-  - japanese: ぜったいに
-    english: definitely
-    kanji: 絶対に
-    kanji_readings:
-    - 絶対: ぜったい
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_117.mp3
-  - japanese: なんども
-    english: many times
-    kanji: 何度も
-    kanji_readings:
-    - 何: なん
-    - 度: ど
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_119.mp3
-  - japanese: もうすこし
-    english: a little more
-    kanji: もう少し
-    kanji_readings:
-    - 少: すこ
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_121.mp3
-  - japanese: ～とか
-    english: …for example
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_123.mp3
-  - japanese: そんなこと（は）ない
-    japanese_note: (rare)
-    english: I don't think so.
-    kanji: そんな事はない
-    kanji_readings:
-    - 事: こと
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_125.mp3
-  - japanese: ～ちゃん
-    english: suffix for the names of children
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_127.mp3
-  - japanese: おおくの～
-    english: many…
-    kanji: 多くの～
-    kanji_readings:
-    - 多: おお
-    sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_129.mp3
+  - tags:
+      - Nouns
+    vocabulary:
+      - japanese: かぜ
+        english: wind
+        kanji: 風
+        kanji_readings:
+          - 風: かぜ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_3.mp3
+      - japanese: き
+        english: tree
+        kanji: 木
+        kanji_readings:
+          - 木: き
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_5.mp3
+      - japanese: ボール
+        english: ball
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_7.mp3
+      - japanese: さる
+        english: monkey
+        kanji: 猿
+        kanji_readings:
+          - 猿: さる
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_9.mp3
+      - japanese: めんきょ
+        english: license
+        kanji: 免許
+        kanji_readings:
+          - 免許: めんきょ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_11.mp3
+      - japanese: よしゅう
+        english: preparation of a lesson
+        kanji: 予習
+        kanji_readings:
+          - 予習: よしゅう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_13.mp3
+      - japanese: ふくしゅう
+        english: review of a lesson
+        kanji: 復習
+        kanji_readings:
+          - 復習: ふくしゅう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_15.mp3
+      - japanese: じゅく
+        english: cram school
+        kanji: 塾
+        kanji_readings:
+          - 塾: じゅく
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_17.mp3
+      - japanese: えいかいわ
+        english: English conversation
+        kanji: 英会話
+        kanji_readings:
+          - 英: えい
+          - 会話: かいわ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_19.mp3
+      - japanese: あいて
+        english: partner; the other person
+        kanji: 相手
+        kanji_readings:
+          - 相手: あいて
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_21.mp3
+      - japanese: おじょうさん
+        english: (someone's) daughter (polite)
+        kanji: お嬢さん
+        kanji_readings:
+          - 嬢: じょう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_24.mp3
+      - japanese: かみさま
+        english: God
+        kanji: 神様
+        kanji_readings:
+          - 神: かみ
+          - 様: さま
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_26.mp3
+      - japanese: せんぱい
+        english: senior member of a group
+        kanji: 先輩
+        kanji_readings:
+          - 先輩: せんぱい
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_28.mp3
+      - japanese: こうはい
+        english: junior member of a group
+        kanji: 後輩
+        kanji_readings:
+          - 後輩: こうはい
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_30.mp3
+      - japanese: ぶか
+        english: subordinate
+        kanji: 部下
+        kanji_readings:
+          - 部下: ぶか
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_32.mp3
+      - japanese: うけつけ
+        english: reception desk
+        kanji: 受付
+        kanji_readings:
+          - 受付: うけつけ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_34.mp3
+      - japanese: しょるい
+        english: document
+        kanji: 書類
+        kanji_readings:
+          - 書類: しょるい
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_36.mp3
+      - japanese: プロジェクト
+        english: project
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_38.mp3
+      - japanese: かじ
+        english: housework
+        kanji: 家事
+        kanji_readings:
+          - 家事: かじ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_40.mp3
+      - japanese: ヨーロッパ
+        japanese_note: (rare)
+        english: Europe
+        kanji: 欧羅巴
+        kanji_readings:
+          - 欧羅巴: ヨーロッパ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_42.mp3
+      - japanese: ひとりぐらし
+        english: living alone
+        kanji: 一人暮らし
+        kanji_readings:
+          - 一人暮: ひとりぐ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_44.mp3
+      - japanese: じゆう
+        english: freedom
+        kanji: 自由
+        kanji_readings:
+          - 自由: じゆう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_46.mp3
+      - japanese: むだづかい
+        english: waste (money)
+        kanji: 無駄遣い
+        kanji_readings:
+          - 無駄遣: むだづか
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_48.mp3
+  - tags:
+      - い-adjectives
+    vocabulary:
+      - japanese: うるさい
+        japanese_note: (rare)
+        english: noisy; annoying
+        kanji: 煩い
+        kanji_readings:
+          - 煩: うるさ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_51.mp3
+  - tags:
+      - な-adjectives
+    vocabulary:
+      - japanese: しんぱい(な)
+        english: worried about (～が)
+        kanji: 心配(な)
+        kanji_readings:
+          - 心配: しんぱい
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_55.mp3
+      - japanese: びんぼう(な)
+        english: poor
+        kanji: 貧乏(な)
+        kanji_readings:
+          - 貧乏: びんぼう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_57.mp3
+      - japanese: ぺラぺラ(な)
+        english: fluent (language が)
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_59.mp3
+      - japanese: らく(な)
+        english: easy; comfortable
+        kanji: 楽(な)
+        kanji_readings:
+          - 楽: らく
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_61.mp3
+  - tags:
+      - U-verbs
+      - Verbs
+    vocabulary:
+      - japanese: かぜがふく
+        english: the wind blows
+        kanji: 風が吹く
+        kanji_readings:
+          - 風: かぜ
+          - 吹: ふ
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_65.mp3
+      - japanese: コピーをとる
+        english: to make a photocopy
+        kanji: コピーを取る
+        kanji_readings:
+          - 取: と
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_67.mp3
+      - japanese: はこぶ
+        english: to carry (～を)
+        kanji: 運ぶ
+        kanji_readings:
+          - 運: はこ
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_69.mp3
+      - japanese: ひろう
+        english: to pick up (something) (～を)
+        kanji: 拾う
+        kanji_readings:
+          - 拾: ひろ
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_71.mp3
+      - japanese: ほ（う）っておく
+        english: to leave (someone/something) alone; to neglect (～を)
+        kanji: 放っておく
+        kanji_readings:
+          - 放: ほう
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_73.mp3
+      - japanese: まにあう
+        english: to be in time  (～に)
+        kanji: 間に合う
+        kanji_readings:
+          - 間に合: まにあ
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_77.mp3
+      - japanese: かつ
+        english: to win (～に)
+        kanji: 勝つ
+        kanji_readings:
+          - 勝: か
+        verb_group: godan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_79.mp3
+  - tags:
+      - Ru-verbs
+      - Verbs
+    vocabulary:
+      - japanese: うける
+        english: to take (an examination)  (～を)
+        kanji: 受ける
+        kanji_readings:
+          - 受: う
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_82.mp3
+      - japanese: けいかくをたてる
+        english: to make a plan
+        kanji: 計画を立てる
+        kanji_readings:
+          - 計画: けいかく
+          - 立: た
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_84.mp3
+      - japanese: そだてる
+        english: to raise; to bring up (～を)
+        kanji: 育てる
+        kanji_readings:
+          - 育: そだ
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_86.mp3
+      - japanese: たすける
+        english: to help; to rescue (～を)
+        kanji: 助ける
+        kanji_readings:
+          - 助: たす
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_89.mp3
+      - japanese: まける
+        english: to lose (a match) (～に)
+        kanji: 負ける
+        kanji_readings:
+          - 負: ま
+        verb_group: ichidan
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_92.mp3
+  - tags:
+      - Irregular_Verbs
+      - Verbs
+    vocabulary:
+      - japanese: おねがいする
+        english: to request help (person に～を)
+        kanji: お願いする
+        kanji_readings:
+          - 願: ねが
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_95.mp3
+      - japanese: さんせいする
+        english: to agree (～に)
+        kanji: 賛成する
+        kanji_readings:
+          - 賛成: さんせい
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_97.mp3
+      - japanese: はんたいする
+        english: to oppose; to object to (～に)
+        kanji: 反対する
+        kanji_readings:
+          - 反対: はんたい
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_99.mp3
+      - japanese: しっぱいする
+        english: to fail; to be unsuccessful
+        kanji: 失敗する
+        kanji_readings:
+          - 失敗: しっぱい
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_102.mp3
+      - japanese: てつやする
+        english: to stay up all night
+        kanji: 徹夜する
+        kanji_readings:
+          - 徹夜: てつや
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_105.mp3
+      - japanese: ほんやくする
+        english: to translate (source と target に)
+        kanji: 翻訳する
+        kanji_readings:
+          - 翻訳: ほんやく
+        verb_group: irregular
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_107.mp3
+  - tags:
+      - Adverbs_and_Other_Expressions
+    vocabulary:
+      - japanese: こんなふう
+        japanese_note: (rare)
+        english: like this
+        kanji: こんな風
+        kanji_readings:
+          - 風: ふう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_110.mp3
+      - japanese: じゆうに
+        japanese_note: (rare)
+        english: freely
+        kanji: 自由に
+        kanji_readings:
+          - 自由: じゆう
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_112.mp3
+      - japanese: ずっと
+        english: for a long time; all the time
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_114.mp3
+      - japanese: ぜったいに
+        english: definitely
+        kanji: 絶対に
+        kanji_readings:
+          - 絶対: ぜったい
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_117.mp3
+      - japanese: なんども
+        english: many times
+        kanji: 何度も
+        kanji_readings:
+          - 何: なん
+          - 度: ど
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_119.mp3
+      - japanese: もうすこし
+        english: a little more
+        kanji: もう少し
+        kanji_readings:
+          - 少: すこ
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_121.mp3
+      - japanese: ～とか
+        english: …for example
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_123.mp3
+      - japanese: そんなこと（は）ない
+        japanese_note: (rare)
+        english: I don't think so.
+        kanji: そんな事はない
+        kanji_readings:
+          - 事: こと
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_125.mp3
+      - japanese: ～ちゃん
+        english: suffix for the names of children
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_127.mp3
+      - japanese: おおくの～
+        english: many…
+        kanji: 多くの～
+        kanji_readings:
+          - 多: おお
+        sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_129.mp3
