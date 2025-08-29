@@ -154,24 +154,24 @@ vocabulary:
 - tags:
   - な-adjectives
   vocabulary:
-  - japanese: しんぱい（な）
+  - japanese: しんぱい(な)
     english: worried about (～が)
-    kanji: 心配（な）
+    kanji: 心配(な)
     kanji_readings:
     - 心配: しんぱい
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_55.mp3
-  - japanese: びんぼう（な）
+  - japanese: びんぼう(な)
     english: poor
-    kanji: 貧乏（な）
+    kanji: 貧乏(な)
     kanji_readings:
     - 貧乏: びんぼう
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_57.mp3
-  - japanese: ぺラぺラ（な）
+  - japanese: ぺラぺラ(な)
     english: fluent (language が)
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_59.mp3
-  - japanese: らく（な）
+  - japanese: らく(な)
     english: easy; comfortable
-    kanji: 楽（な）
+    kanji: 楽(な)
     kanji_readings:
     - 楽: らく
     sound_file: genki_2/Kaiwa_Bunpo_L22/K22_07/K22_07_61.mp3
