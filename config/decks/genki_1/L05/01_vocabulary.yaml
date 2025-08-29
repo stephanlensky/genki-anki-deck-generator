@@ -107,15 +107,13 @@ vocabulary:
     - 古: ふる
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_40.mp3
   - japanese: あつい
-    japanese_note: (weather)
-    english: hot
+    english: hot (weather)
     kanji: 暑い
     kanji_readings:
     - 暑: あつ
     sound_file: genki_1/Kaiwa_Bunpo_L05/K05_07/K05_07_42.mp3
   - japanese: あつい
-    japanese_note: (thing)
-    english: hot
+    english: hot (thing)
     kanji: 熱い
     kanji_readings:
     - 熱: あつ
