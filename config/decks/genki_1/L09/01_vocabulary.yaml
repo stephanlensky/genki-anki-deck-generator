@@ -1,333 +1,333 @@
 tags:
-  - Genki_1
-  - Lesson_9
-  - Vocabulary
+- Genki_1
+- Lesson_9
+- Vocabulary
 vocabulary:
-  - tags:
-      - Nouns
-    vocabulary:
-      - japanese: たんご
-        english: word; vocabulary
-        kanji: 単語
-        kanji_readings:
-          - 単語: たんご
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_3.mp3
-      - japanese: さくぶん
-        english: essay; composition
-        kanji: 作文
-        kanji_readings:
-          - 作文: さくぶん
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_6.mp3
-      - japanese: しけん
-        english: exam
-        kanji: 試験
-        kanji_readings:
-          - 試験: しけん
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_9.mp3
-      - japanese: てがみ
-        english: letter
-        kanji: 手紙
-        kanji_readings:
-          - 手紙: てがみ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_11.mp3
-      - japanese: メール
-        english: e-mail
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_13.mp3
-      - japanese: ギター
-        english: guitar
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_15.mp3
-      - japanese: ピアノ
-        english: piano
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_17.mp3
-      - japanese: コンサート
-        english: concert
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_19.mp3
-      - japanese: チケット
-        english: ticket
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_21.mp3
-      - japanese: かぶき
-        english: Kabuki; traditional Japanese theatrical art
-        kanji: 歌舞伎
-        kanji_readings:
-          - 歌舞伎: かぶき
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_23.mp3
-      - japanese: スキー
-        english: ski
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_26.mp3
-      - japanese: おべんとう
-        english: boxed lunch
-        kanji: お弁当
-        kanji_readings:
-          - 弁当: べんとう
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_28.mp3
-      - japanese: ピザ
-        english: pizza
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_30.mp3
-      - japanese: びょうき
-        english: illness; sickness
-        kanji: 病気
-        kanji_readings:
-          - 病気: びょうき
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_32.mp3
-      - japanese: くすり
-        english: medicine
-        kanji: 薬
-        kanji_readings:
-          - 薬: くすり
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_35.mp3
-      - japanese: いいこ
-        english: good child
-        kanji: いい子
-        kanji_readings:
-          - 子: こ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_37.mp3
-      - japanese: いろ
-        english: color
-        kanji: 色
-        kanji_readings:
-          - 色: いろ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_39.mp3
-      - japanese: こんど
-        english: near future
-        kanji: 今度
-        kanji_readings:
-          - 今度: こんど
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_41.mp3
-      - japanese: せんげつ
-        english: last month
-        kanji: 先月
-        kanji_readings:
-          - 先月: せんげつ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_43.mp3
-      - japanese: きょねん
-        english: last year
-        kanji: 去年
-        kanji_readings:
-          - 去年: きょねん
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_45.mp3
-  - tags:
-      - い-adjectives
-    vocabulary:
-      - japanese: あおい
-        english: blue
-        kanji: 青い
-        kanji_readings:
-          - 青: あお
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_48.mp3
-      - japanese: あかい
-        english: red
-        kanji: 赤い
-        kanji_readings:
-          - 赤: あか
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_50.mp3
-      - japanese: くろい
-        english: black
-        kanji: 黒い
-        kanji_readings:
-          - 黒: くろ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_52.mp3
-      - japanese: しろい
-        english: white
-        kanji: 白い
-        kanji_readings:
-          - 白: しろ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_54.mp3
-      - japanese: さびしい
-        english: lonely
-        kanji: 寂しい
-        kanji_readings:
-          - 寂: さび
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_56.mp3
-      - japanese: わかい
-        english: young
-        kanji: 若い
-        kanji_readings:
-          - 若: わか
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_58.mp3
-  - tags:
-      - な-adjectives
-    vocabulary:
-      - japanese: いじわる(な)
-        english: mean-spirited
-        kanji: 意地悪(な)
-        kanji_readings:
-          - 意地: いじ
-          - 悪: わる
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_61.mp3
-  - tags:
-      - U-verbs
-      - Verbs
-    vocabulary:
-      - japanese: おどる
-        english: to dance
-        kanji: 踊る
-        kanji_readings:
-          - 踊: おど
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_64.mp3
-      - japanese: おわる
-        english: (something) ends (〜が)
-        kanji: 終わる
-        kanji_readings:
-          - 終: お
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_66.mp3
-      - japanese: くすりをのむ
-        english: to take medicine
-        kanji: 薬を飲む
-        kanji_readings:
-          - 薬: くすり
-          - 飲: の
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_68.mp3
-      - japanese: にんきがある
-        english: to be popular
-        kanji: 人気がある
-        kanji_readings:
-          - 人気: にんき
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_70.mp3
-      - japanese: はじまる
-        english: (something) begins (〜が)
-        kanji: 始まる
-        kanji_readings:
-          - 始: はじ
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_72.mp3
-      - japanese: ひく
-        english: to play (a string instrument or piano) (〜を)
-        kanji: 弾く
-        kanji_readings:
-          - 弾: ひ
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_74.mp3
-      - japanese: もらう
-        english: to get (from somebody) (<i>person</i> に <i>thing</i> を)
-        verb_group: godan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_76.mp3
-  - tags:
-      - Ru-verbs
-      - Verbs
-    vocabulary:
-      - japanese: おぼえる
-        english: to memorize (〜を)
-        kanji: 覚える
-        kanji_readings:
-          - 覚: おぼ
-        verb_group: ichidan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_79.mp3
-      - japanese: でる
-        english: (1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>
-        kanji: 出る
-        kanji_readings:
-          - 出: で
-        verb_group: ichidan
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_81.mp3
-  - tags:
-      - Irregular_Verbs
-      - Verbs
-    vocabulary:
-      - japanese: うんどうする
-        english: to exercise
-        kanji: 運動する
-        kanji_readings:
-          - 運動: うんどう
-        verb_group: irregular
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_86.mp3
-      - japanese: さんぽする
-        english: to take a walk
-        kanji: 散歩する
-        kanji_readings:
-          - 散歩: さんぽ
-        verb_group: irregular
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_88.mp3
-  - tags:
-      - Adverbs_and_Other_Expressions
-    vocabulary:
-      - japanese: そう
-        english: (I think) so
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_91.mp3
-      - japanese: 〜から
-        english: from ...
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_93.mp3
-      - japanese: 〜まで
-        english: to (a place/a time)
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_95.mp3
-      - japanese: ぜひ
-        english: by all means
-        kanji: 是非
-        kanji_readings:
-          - 是非: ぜひ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_97.mp3
-      - japanese: ところで
-        english: by the way
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_99.mp3
-      - japanese: みんな
-        english: all
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_101.mp3
-      - japanese: もう
-        english: already
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_103.mp3
-  - tags:
-      - Numbers
-    vocabulary:
-      - japanese: ひとつ
-        english: one - counter for small objects
-        kanji: 一つ
-        kanji_readings:
-          - 一: ひと
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_106.mp3
-      - japanese: ふたつ
-        english: two - counter for small objects
-        kanji: 二つ
-        kanji_readings:
-          - 二: ふた
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_108.mp3
-      - japanese: みっつ
-        english: three - counter for small objects
-        kanji: 三つ
-        kanji_readings:
-          - 三: みっ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_110.mp3
-      - japanese: よっつ
-        english: four - counter for small objects
-        kanji: 四つ
-        kanji_readings:
-          - 四: よっ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_112.mp3
-      - japanese: いつつ
-        english: five - counter for small objects
-        kanji: 五つ
-        kanji_readings:
-          - 五: いつ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_114.mp3
-      - japanese: むっつ
-        english: six - counter for small objects
-        kanji: 六つ
-        kanji_readings:
-          - 六: むっ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_116.mp3
-      - japanese: ななつ
-        english: seven - counter for small objects
-        kanji: 七つ
-        kanji_readings:
-          - 七: なな
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_118.mp3
-      - japanese: やっつ
-        english: eight - counter for small objects
-        kanji: 八つ
-        kanji_readings:
-          - 八: やっ
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_120.mp3
-      - japanese: ここのつ
-        english: nine - counter for small objects
-        kanji: 九つ
-        kanji_readings:
-          - 九: ここの
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_122.mp3
-      - japanese: とお
-        english: ten - counter for small objects
-        kanji: 十
-        kanji_readings:
-          - 十: とお
-        sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_124.mp3
+- tags:
+  - Nouns
+  vocabulary:
+  - japanese: たんご
+    english: word; vocabulary
+    kanji: 単語
+    kanji_readings:
+    - 単語: たんご
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_3.mp3
+  - japanese: さくぶん
+    english: essay; composition
+    kanji: 作文
+    kanji_readings:
+    - 作文: さくぶん
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_6.mp3
+  - japanese: しけん
+    english: exam
+    kanji: 試験
+    kanji_readings:
+    - 試験: しけん
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_9.mp3
+  - japanese: てがみ
+    english: letter
+    kanji: 手紙
+    kanji_readings:
+    - 手紙: てがみ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_11.mp3
+  - japanese: メール
+    english: e-mail
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_13.mp3
+  - japanese: ギター
+    english: guitar
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_15.mp3
+  - japanese: ピアノ
+    english: piano
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_17.mp3
+  - japanese: コンサート
+    english: concert
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_19.mp3
+  - japanese: チケット
+    english: ticket
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_21.mp3
+  - japanese: かぶき
+    english: Kabuki; traditional Japanese theatrical art
+    kanji: 歌舞伎
+    kanji_readings:
+    - 歌舞伎: かぶき
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_23.mp3
+  - japanese: スキー
+    english: ski
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_26.mp3
+  - japanese: おべんとう
+    english: boxed lunch
+    kanji: お弁当
+    kanji_readings:
+    - 弁当: べんとう
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_28.mp3
+  - japanese: ピザ
+    english: pizza
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_30.mp3
+  - japanese: びょうき
+    english: illness; sickness
+    kanji: 病気
+    kanji_readings:
+    - 病気: びょうき
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_32.mp3
+  - japanese: くすり
+    english: medicine
+    kanji: 薬
+    kanji_readings:
+    - 薬: くすり
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_35.mp3
+  - japanese: いいこ
+    english: good child
+    kanji: いい子
+    kanji_readings:
+    - 子: こ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_37.mp3
+  - japanese: いろ
+    english: color
+    kanji: 色
+    kanji_readings:
+    - 色: いろ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_39.mp3
+  - japanese: こんど
+    english: near future
+    kanji: 今度
+    kanji_readings:
+    - 今度: こんど
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_41.mp3
+  - japanese: せんげつ
+    english: last month
+    kanji: 先月
+    kanji_readings:
+    - 先月: せんげつ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_43.mp3
+  - japanese: きょねん
+    english: last year
+    kanji: 去年
+    kanji_readings:
+    - 去年: きょねん
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_45.mp3
+- tags:
+  - い-adjectives
+  vocabulary:
+  - japanese: あおい
+    english: blue
+    kanji: 青い
+    kanji_readings:
+    - 青: あお
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_48.mp3
+  - japanese: あかい
+    english: red
+    kanji: 赤い
+    kanji_readings:
+    - 赤: あか
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_50.mp3
+  - japanese: くろい
+    english: black
+    kanji: 黒い
+    kanji_readings:
+    - 黒: くろ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_52.mp3
+  - japanese: しろい
+    english: white
+    kanji: 白い
+    kanji_readings:
+    - 白: しろ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_54.mp3
+  - japanese: さびしい
+    english: lonely
+    kanji: 寂しい
+    kanji_readings:
+    - 寂: さび
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_56.mp3
+  - japanese: わかい
+    english: young
+    kanji: 若い
+    kanji_readings:
+    - 若: わか
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_58.mp3
+- tags:
+  - な-adjectives
+  vocabulary:
+  - japanese: いじわる（な）
+    english: mean-spirited
+    kanji: 意地悪（な）
+    kanji_readings:
+    - 意地: いじ
+    - 悪: わる
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_61.mp3
+- tags:
+  - U-verbs
+  - Verbs
+  vocabulary:
+  - japanese: おどる
+    english: to dance
+    kanji: 踊る
+    kanji_readings:
+    - 踊: おど
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_64.mp3
+  - japanese: おわる
+    english: (something) ends (〜が)
+    kanji: 終わる
+    kanji_readings:
+    - 終: お
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_66.mp3
+  - japanese: くすりをのむ
+    english: to take medicine
+    kanji: 薬を飲む
+    kanji_readings:
+    - 薬: くすり
+    - 飲: の
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_68.mp3
+  - japanese: にんきがある
+    english: to be popular
+    kanji: 人気がある
+    kanji_readings:
+    - 人気: にんき
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_70.mp3
+  - japanese: はじまる
+    english: (something) begins (〜が)
+    kanji: 始まる
+    kanji_readings:
+    - 始: はじ
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_72.mp3
+  - japanese: ひく
+    english: to play (a string instrument or piano) (〜を)
+    kanji: 弾く
+    kanji_readings:
+    - 弾: ひ
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_74.mp3
+  - japanese: もらう
+    english: to get (from somebody) (<i>person</i> に <i>thing</i> を)
+    verb_group: godan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_76.mp3
+- tags:
+  - Ru-verbs
+  - Verbs
+  vocabulary:
+  - japanese: おぼえる
+    english: to memorize (〜を)
+    kanji: 覚える
+    kanji_readings:
+    - 覚: おぼ
+    verb_group: ichidan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_79.mp3
+  - japanese: でる
+    english: (1) to appear; to attend (〜に)<div>(2) to exit (〜を)</div>
+    kanji: 出る
+    kanji_readings:
+    - 出: で
+    verb_group: ichidan
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_81.mp3
+- tags:
+  - Irregular_Verbs
+  - Verbs
+  vocabulary:
+  - japanese: うんどうする
+    english: to exercise
+    kanji: 運動する
+    kanji_readings:
+    - 運動: うんどう
+    verb_group: irregular
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_86.mp3
+  - japanese: さんぽする
+    english: to take a walk
+    kanji: 散歩する
+    kanji_readings:
+    - 散歩: さんぽ
+    verb_group: irregular
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_88.mp3
+- tags:
+  - Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: そう
+    english: (I think) so
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_91.mp3
+  - japanese: 〜から
+    english: from ...
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_93.mp3
+  - japanese: 〜まで
+    english: to (a place/a time)
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_95.mp3
+  - japanese: ぜひ
+    english: by all means
+    kanji: 是非
+    kanji_readings:
+    - 是非: ぜひ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_97.mp3
+  - japanese: ところで
+    english: by the way
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_99.mp3
+  - japanese: みんな
+    english: all
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_101.mp3
+  - japanese: もう
+    english: already
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_103.mp3
+- tags:
+  - Numbers
+  vocabulary:
+  - japanese: ひとつ
+    english: one - counter for small objects
+    kanji: 一つ
+    kanji_readings:
+    - 一: ひと
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_106.mp3
+  - japanese: ふたつ
+    english: two - counter for small objects
+    kanji: 二つ
+    kanji_readings:
+    - 二: ふた
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_108.mp3
+  - japanese: みっつ
+    english: three - counter for small objects
+    kanji: 三つ
+    kanji_readings:
+    - 三: みっ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_110.mp3
+  - japanese: よっつ
+    english: four - counter for small objects
+    kanji: 四つ
+    kanji_readings:
+    - 四: よっ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_112.mp3
+  - japanese: いつつ
+    english: five - counter for small objects
+    kanji: 五つ
+    kanji_readings:
+    - 五: いつ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_114.mp3
+  - japanese: むっつ
+    english: six - counter for small objects
+    kanji: 六つ
+    kanji_readings:
+    - 六: むっ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_116.mp3
+  - japanese: ななつ
+    english: seven - counter for small objects
+    kanji: 七つ
+    kanji_readings:
+    - 七: なな
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_118.mp3
+  - japanese: やっつ
+    english: eight - counter for small objects
+    kanji: 八つ
+    kanji_readings:
+    - 八: やっ
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_120.mp3
+  - japanese: ここのつ
+    english: nine - counter for small objects
+    kanji: 九つ
+    kanji_readings:
+    - 九: ここの
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_122.mp3
+  - japanese: とお
+    english: ten - counter for small objects
+    kanji: 十
+    kanji_readings:
+    - 十: とお
+    sound_file: genki_1/Kaiwa_Bunpo_L09/K09_07/K09_07_124.mp3

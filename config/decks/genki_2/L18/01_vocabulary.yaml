@@ -1,344 +1,343 @@
 tags:
-  - Genki_2
-  - Lesson_18
-  - Vocabulary
+- Genki_2
+- Lesson_18
+- Vocabulary
 vocabulary:
-  - tags:
-      - Nouns
-    vocabulary:
-      - japanese: カーテン
-        english: curtain
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
-      - japanese: ソファ
-        english: sofa
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_5.mp3
-      - japanese: れいぞうこ
-        english: refrigerator
-        kanji: 冷蔵庫
-        kanji_readings:
-          - 冷蔵: れいぞう
-          - 庫: こ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_7.mp3
-      - japanese: スイッチ
-        english: switch
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_9.mp3
-      - japanese: しょうゆ
-        english: soy sauce
-        kanji: 醤油
-        kanji_readings:
-          - 醤油: しょうゆ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_11.mp3
-      - japanese: スープ
-        english: soup
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_13.mp3
-      - japanese: バナナ
-        english: banana
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_15.mp3
-      - japanese: ポップコーン
-        english: popcorn
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_17.mp3
-      - japanese: シャンプー
-        english: shampoo
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_19.mp3
-      - japanese: ろうそく
-        japanese_note: (rare)
-        english: candle
-        kanji: 蝋燭
-        kanji_readings:
-          - 蝋燭: ろうそく
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_21.mp3
-      - japanese: タオル
-        english: towel
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_23.mp3
-      - japanese: スカート
-        english: skirt
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_25.mp3
-      - japanese: にっき
-        english: diary
-        kanji: 日記
-        kanji_readings:
-          - 日記: にっき
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_27.mp3
-      - japanese: けいたい（でんわ）
-        english: cell phone
-        kanji: 携帯（電話）
-        kanji_readings:
-          - 携帯: けいたい
-          - 電話: でんわ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_29.mp3
-      - japanese: さくら
-        english: cherry blossom
-        kanji: 桜
-        kanji_readings:
-          - 桜: さくら
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_31.mp3
-      - japanese: むし
-        english: insect
-        kanji: 虫
-        kanji_readings:
-          - 虫: むし
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_33.mp3
-      - japanese: やちん
-        english: rent
-        kanji: 家賃
-        kanji_readings:
-          - 家賃: やちん
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_35.mp3
-      - japanese: そと
-        english: outside
-        kanji: 外
-        kanji_readings:
-          - 外: そと
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_37.mp3
-      - japanese: あと
-        english: the rest
-        kanji: 後
-        kanji_readings:
-          - 後: あと
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_39.mp3
-      - japanese: ゆうがた
-        english: evening
-        kanji: 夕方
-        kanji_readings:
-          - 夕方: ゆうがた
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_41.mp3
-  - tags:
-      - い-adjectives
-    vocabulary:
-      - japanese: あかるい
-        english: bright
-        kanji: 明るい
-        kanji_readings:
-          - 明: あか
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_44.mp3
-      - japanese: くらい
-        english: dark
-        kanji: 暗い
-        kanji_readings:
-          - 暗: くら
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_46.mp3
-      - japanese: はずかしい
-        english: embarrasing
-        kanji: 恥ずかしい
-        kanji_readings:
-          - 恥: は
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_48.mp3
-  - tags:
-      - な-adjectives
-    vocabulary:
-      - japanese: たいせつ(な)
-        english: precious; important
-        kanji: 大切(な)
-        kanji_readings:
-          - 大切: たいせつ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_52.mp3
-      - japanese: ふあん(な)
-        english: anxious; worried
-        kanji: 不安(な)
-        kanji_readings:
-          - 不安: ふあん
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_55.mp3
-      - japanese: むり(な)
-        english: impossible
-        kanji: 無理(な)
-        kanji_readings:
-          - 無理: むり
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_58.mp3
-  - tags:
-      - U_verbs
-    vocabulary:
-      - japanese: あく
-        english: (something) opens (～が)
-        kanji: 開く
-        kanji_readings:
-          - 開: あ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_61.mp3
-      - japanese: しまる
-        english: (something) closes (～が)
-        kanji: 閉まる
-        kanji_readings:
-          - 閉: し
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_63.mp3
-      - japanese: あやまる
-        english: to apologize (personに)
-        kanji: 謝る
-        kanji_readings:
-          - 謝: あやま
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_65.mp3
-      - japanese: おす
-        english: to press; to push (～を)
-        kanji: 押す
-        kanji_readings:
-          - 押: お
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_67.mp3
-      - japanese: おとす
-        english: to drop (something) (~を）
-        kanji: 落とす
-        kanji_readings:
-          - 落: お
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_70.mp3
-      - japanese: おゆがわく
-        english: water boils
-        kanji: お湯が沸く
-        kanji_readings:
-          - 湯: ゆ
-          - 沸: わ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_72.mp3
-      - japanese: ころぶ
-        english: to fall down
-        kanji: 転ぶ
-        kanji_readings:
-          - 転: ころ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_74.mp3
-      - japanese: こわす
-        english: to break (something) (～を)
-        kanji: 壊す
-        kanji_readings:
-          - 壊: こわ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_76.mp3
-      - japanese: さく
-        english: to bloom (～が)
-        kanji: 咲く
-        kanji_readings:
-          - 咲: さ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_78.mp3
-      - japanese: たすかる
-        english: to be saved; to be helped
-        kanji: 助かる
-        kanji_readings:
-          - 助: たす
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_80.mp3
-      - japanese: たのむ
-        english: to ask (a favor) (personに～を)
-        kanji: 頼む
-        kanji_readings:
-          - 頼: たの
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_83.mp3
-      - japanese: つく
-        japanese_note: (rare)
-        english: (something) turns on (～が)
-        kanji: 点く
-        kanji_readings:
-          - 点: つ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_85.mp3
-      - japanese: よごす
-        english: to make dirty （～を）
-        kanji: 汚す
-        kanji_readings:
-          - 汚: よご
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_87.mp3
-  - tags:
-      - Ru-verbs
-      - Verbs
-    vocabulary:
-      - japanese: おちる
-        english: (something) drops (～が)
-        kanji: 落ちる
-        kanji_readings:
-          - 落: お
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_90.mp3
-      - japanese: かたづける
-        english: to tidy up（～を）
-        kanji: 片付ける
-        kanji_readings:
-          - 片付: かたづ
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_92.mp3
-      - japanese: かんがえる
-        english: to think (about); to consider
-        kanji: 考える
-        kanji_readings:
-          - 考: かんが
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_94.mp3
-      - japanese: きえる
-        english: (something) goes off (～が)
-        kanji: 消える
-        kanji_readings:
-          - 消: き
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_97.mp3
-      - japanese: こわれる
-        english: (something) breaks (～が)
-        kanji: 壊れる
-        kanji_readings:
-          - 壊: こわ
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_99.mp3
-      - japanese: よごれる
-        english: to become dirty (～が)
-        kanji: 汚れる
-        kanji_readings:
-          - 汚: よご
-        verb_group: ichidan
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_101.mp3
-  - tags:
-      - Irregular_Verbs
-      - Verbs
-    vocabulary:
-      - japanese: ちゅうもんする
-        english: to place an order (～を)
-        kanji: 注文する
-        kanji_readings:
-          - 注文: ちゅうもん
-        verb_group: irregular
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_104.mp3
-  - tags:
-      - Adverbs_and_Other_Expressions
-    vocabulary:
-      - japanese: いますぐ
-        english: right away
-        kanji: 今すぐ
-        kanji_readings:
-          - 今: いま
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_107.mp3
-      - japanese: ～までに
-        japanese_note: (rare)
-        english: by (time/date)
-        kanji: ～迄に
-        kanji_readings:
-          - 迄: まで
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_109.mp3
-      - japanese: ほんとうに
-        english: really
-        kanji: 本当に
-        kanji_readings:
-          - 本当: ほんとう
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_111.mp3
-      - japanese: まず
-        japanese_note: (rare)
-        english: first of all
-        kanji: 先ず
-        kanji_readings:
-          - 先: ま
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_113.mp3
-      - japanese: おかげで
-        japanese_note: (rare)
-        english: thanks to… (…の)
-        kanji: お陰で
-        kanji_readings:
-          - 陰: かげ
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_115.mp3
-      - japanese: どうしよう
-        english: What should I/we do?
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_117.mp3
-      - japanese: ～（ん）だろう
-        english: short form of ～（ん）でしょう
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_120.mp3
-      - japanese: おさきにしつれいします
-        english: See you. (lit., I'm leaving ahead of you)
-        kanji: お先に失礼します
-        kanji_readings:
-          - 先: さき
-          - 失礼: しつれい
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_122.mp3
-      - japanese: おつかれさま（でした）
-        english:
-          You must be tired after working so hard. (greeting between friends and
-          coworkers)
-        kanji: お疲れ様（でした）
-        kanji_readings:
-          - 疲: つか
-          - 様: さま
-        sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_124.mp3
+- tags:
+  - Nouns
+  vocabulary:
+  - japanese: カーテン
+    english: curtain
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
+  - japanese: ソファ
+    english: sofa
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_5.mp3
+  - japanese: れいぞうこ
+    english: refrigerator
+    kanji: 冷蔵庫
+    kanji_readings:
+    - 冷蔵: れいぞう
+    - 庫: こ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_7.mp3
+  - japanese: スイッチ
+    english: switch
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_9.mp3
+  - japanese: しょうゆ
+    english: soy sauce
+    kanji: 醤油
+    kanji_readings:
+    - 醤油: しょうゆ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_11.mp3
+  - japanese: スープ
+    english: soup
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_13.mp3
+  - japanese: バナナ
+    english: banana
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_15.mp3
+  - japanese: ポップコーン
+    english: popcorn
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_17.mp3
+  - japanese: シャンプー
+    english: shampoo
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_19.mp3
+  - japanese: ろうそく
+    japanese_note: (rare)
+    english: candle
+    kanji: 蝋燭
+    kanji_readings:
+    - 蝋燭: ろうそく
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_21.mp3
+  - japanese: タオル
+    english: towel
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_23.mp3
+  - japanese: スカート
+    english: skirt
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_25.mp3
+  - japanese: にっき
+    english: diary
+    kanji: 日記
+    kanji_readings:
+    - 日記: にっき
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_27.mp3
+  - japanese: けいたい（でんわ）
+    english: cell phone
+    kanji: 携帯（電話）
+    kanji_readings:
+    - 携帯: けいたい
+    - 電話: でんわ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_29.mp3
+  - japanese: さくら
+    english: cherry blossom
+    kanji: 桜
+    kanji_readings:
+    - 桜: さくら
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_31.mp3
+  - japanese: むし
+    english: insect
+    kanji: 虫
+    kanji_readings:
+    - 虫: むし
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_33.mp3
+  - japanese: やちん
+    english: rent
+    kanji: 家賃
+    kanji_readings:
+    - 家賃: やちん
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_35.mp3
+  - japanese: そと
+    english: outside
+    kanji: 外
+    kanji_readings:
+    - 外: そと
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_37.mp3
+  - japanese: あと
+    english: the rest
+    kanji: 後
+    kanji_readings:
+    - 後: あと
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_39.mp3
+  - japanese: ゆうがた
+    english: evening
+    kanji: 夕方
+    kanji_readings:
+    - 夕方: ゆうがた
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_41.mp3
+- tags:
+  - い-adjectives
+  vocabulary:
+  - japanese: あかるい
+    english: bright
+    kanji: 明るい
+    kanji_readings:
+    - 明: あか
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_44.mp3
+  - japanese: くらい
+    english: dark
+    kanji: 暗い
+    kanji_readings:
+    - 暗: くら
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_46.mp3
+  - japanese: はずかしい
+    english: embarrasing
+    kanji: 恥ずかしい
+    kanji_readings:
+    - 恥: は
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_48.mp3
+- tags:
+  - な-adjectives
+  vocabulary:
+  - japanese: たいせつ（な）
+    english: precious; important
+    kanji: 大切（な）
+    kanji_readings:
+    - 大切: たいせつ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_52.mp3
+  - japanese: ふあん（な）
+    english: anxious; worried
+    kanji: 不安（な）
+    kanji_readings:
+    - 不安: ふあん
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_55.mp3
+  - japanese: むり（な）
+    english: impossible
+    kanji: 無理（な）
+    kanji_readings:
+    - 無理: むり
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_58.mp3
+- tags:
+  - U_verbs
+  vocabulary:
+  - japanese: あく
+    english: (something) opens (～が)
+    kanji: 開く
+    kanji_readings:
+    - 開: あ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_61.mp3
+  - japanese: しまる
+    english: (something) closes (～が)
+    kanji: 閉まる
+    kanji_readings:
+    - 閉: し
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_63.mp3
+  - japanese: あやまる
+    english: to apologize (personに)
+    kanji: 謝る
+    kanji_readings:
+    - 謝: あやま
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_65.mp3
+  - japanese: おす
+    english: to press; to push (～を)
+    kanji: 押す
+    kanji_readings:
+    - 押: お
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_67.mp3
+  - japanese: おとす
+    english: to drop (something) (~を）
+    kanji: 落とす
+    kanji_readings:
+    - 落: お
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_70.mp3
+  - japanese: おゆがわく
+    english: water boils
+    kanji: お湯が沸く
+    kanji_readings:
+    - 湯: ゆ
+    - 沸: わ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_72.mp3
+  - japanese: ころぶ
+    english: to fall down
+    kanji: 転ぶ
+    kanji_readings:
+    - 転: ころ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_74.mp3
+  - japanese: こわす
+    english: to break (something) (～を)
+    kanji: 壊す
+    kanji_readings:
+    - 壊: こわ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_76.mp3
+  - japanese: さく
+    english: to bloom (～が)
+    kanji: 咲く
+    kanji_readings:
+    - 咲: さ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_78.mp3
+  - japanese: たすかる
+    english: to be saved; to be helped
+    kanji: 助かる
+    kanji_readings:
+    - 助: たす
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_80.mp3
+  - japanese: たのむ
+    english: to ask (a favor) (personに～を)
+    kanji: 頼む
+    kanji_readings:
+    - 頼: たの
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_83.mp3
+  - japanese: つく
+    japanese_note: (rare)
+    english: (something) turns on (～が)
+    kanji: 点く
+    kanji_readings:
+    - 点: つ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_85.mp3
+  - japanese: よごす
+    english: to make dirty （～を）
+    kanji: 汚す
+    kanji_readings:
+    - 汚: よご
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_87.mp3
+- tags:
+  - Ru-verbs
+  - Verbs
+  vocabulary:
+  - japanese: おちる
+    english: (something) drops (～が)
+    kanji: 落ちる
+    kanji_readings:
+    - 落: お
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_90.mp3
+  - japanese: かたづける
+    english: to tidy up（～を）
+    kanji: 片付ける
+    kanji_readings:
+    - 片付: かたづ
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_92.mp3
+  - japanese: かんがえる
+    english: to think (about); to consider
+    kanji: 考える
+    kanji_readings:
+    - 考: かんが
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_94.mp3
+  - japanese: きえる
+    english: (something) goes off (～が)
+    kanji: 消える
+    kanji_readings:
+    - 消: き
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_97.mp3
+  - japanese: こわれる
+    english: (something) breaks (～が)
+    kanji: 壊れる
+    kanji_readings:
+    - 壊: こわ
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_99.mp3
+  - japanese: よごれる
+    english: to become dirty (～が)
+    kanji: 汚れる
+    kanji_readings:
+    - 汚: よご
+    verb_group: ichidan
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_101.mp3
+- tags:
+  - Irregular_Verbs
+  - Verbs
+  vocabulary:
+  - japanese: ちゅうもんする
+    english: to place an order (～を)
+    kanji: 注文する
+    kanji_readings:
+    - 注文: ちゅうもん
+    verb_group: irregular
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_104.mp3
+- tags:
+  - Adverbs_and_Other_Expressions
+  vocabulary:
+  - japanese: いますぐ
+    english: right away
+    kanji: 今すぐ
+    kanji_readings:
+    - 今: いま
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_107.mp3
+  - japanese: ～までに
+    japanese_note: (rare)
+    english: by (time/date)
+    kanji: ～迄に
+    kanji_readings:
+    - 迄: まで
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_109.mp3
+  - japanese: ほんとうに
+    english: really
+    kanji: 本当に
+    kanji_readings:
+    - 本当: ほんとう
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_111.mp3
+  - japanese: まず
+    japanese_note: (rare)
+    english: first of all
+    kanji: 先ず
+    kanji_readings:
+    - 先: ま
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_113.mp3
+  - japanese: おかげで
+    japanese_note: (rare)
+    english: thanks to… (…の)
+    kanji: お陰で
+    kanji_readings:
+    - 陰: かげ
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_115.mp3
+  - japanese: どうしよう
+    english: What should I/we do?
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_117.mp3
+  - japanese: ～（ん）だろう
+    english: short form of ～（ん）でしょう
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_120.mp3
+  - japanese: おさきにしつれいします
+    english: See you. (lit., I'm leaving ahead of you)
+    kanji: お先に失礼します
+    kanji_readings:
+    - 先: さき
+    - 失礼: しつれい
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_122.mp3
+  - japanese: おつかれさま（でした）
+    english: You must be tired after working so hard. (greeting between friends and
+      coworkers)
+    kanji: お疲れ様（でした）
+    kanji_readings:
+    - 疲: つか
+    - 様: さま
+    sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_124.mp3
