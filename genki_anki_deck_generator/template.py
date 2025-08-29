@@ -18,6 +18,11 @@ class VerbGroup(StrEnum):
 
 
 @dataclass(kw_only=True)
+class TTSOverride:
+    text: str
+
+
+@dataclass(kw_only=True)
 class Card:
     template: Template
     japanese: str
@@ -27,6 +32,7 @@ class Card:
     kanji_readings: list[tuple[str, str]] | None = None
     verb_group: VerbGroup | None = None
     sound_file: str | None = None
+    tts_override: TTSOverride | None = None
     parent: CardCollection | None = None
 
     def __post_init__(self) -> None:

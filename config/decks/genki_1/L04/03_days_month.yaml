@@ -12,7 +12,8 @@ vocabulary:
     kanji_readings:
     - 一: つい
     - 日: たち
-    sound_file: tts/ついたち_bbf93.wav
+    tts_override:
+      text: ついたち
   - japanese: ふつか*
     english: second day of the month
     kanji: 二日
