@@ -111,6 +111,7 @@ class GenkiNote(genanki.Note):  # type: ignore
         context["conjugations"] = get_conjugations(card)
         context["conjugation_display_names"] = get_conjugation_display_names()
         context["conjugation_links"] = get_conjugation_links()
+        context["jpdb_link"] = f"https://jpdb.io/search?q={card.kanji or card.japanese}"
         super().__init__(
             model=model,
             fields=[
