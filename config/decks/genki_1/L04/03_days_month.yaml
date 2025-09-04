@@ -12,7 +12,7 @@ vocabulary:
     kanji_readings:
     - 一: つい
     - 日: たち
-    sound_file: tts/ついたち_bbf93.wav
+    sound_file: tts/ついたち_f9a5b.wav
     tts_override:
       text: ついたち
   - japanese: ふつか*
@@ -21,63 +21,63 @@ vocabulary:
     kanji_readings:
     - 二: ふつ
     - 日: か
-    sound_file: tts/ふつか_5ef27.wav
+    sound_file: tts/ふつか_e1d6b.wav
   - japanese: みっか*
     english: third day of the month
     kanji: 三日
     kanji_readings:
     - 三: みっ
     - 日: か
-    sound_file: tts/みっか_1d0ba.wav
+    sound_file: tts/みっか_3621a.wav
   - japanese: よっか*
     english: fourth day of the month
     kanji: 四日
     kanji_readings:
     - 四: よっ
     - 日: か
-    sound_file: tts/よっか_988a1.wav
+    sound_file: tts/よっか_e06f3.wav
   - japanese: いつか*
     english: fifth day of the month
     kanji: 五日
     kanji_readings:
     - 五: いつ
     - 日: か
-    sound_file: tts/いつか_84944.wav
+    sound_file: tts/いつか_86b4e.wav
   - japanese: むいか*
     english: sixth day of the month
     kanji: 六日
     kanji_readings:
     - 六: むい
     - 日: か
-    sound_file: tts/むいか_6121a.wav
+    sound_file: tts/むいか_21b35.wav
   - japanese: なのか*
     english: seventh day of the month
     kanji: 七日
     kanji_readings:
     - 七: なの
     - 日: か
-    sound_file: tts/なのか_e337f.wav
+    sound_file: tts/なのか_6cf98.wav
   - japanese: ようか*
     english: eighth day of the month
     kanji: 八日
     kanji_readings:
     - 八: よう
     - 日: か
-    sound_file: tts/ようか_46d1b.wav
+    sound_file: tts/ようか_80d7e.wav
   - japanese: ここのか*
     english: ninth day of the month
     kanji: 九日
     kanji_readings:
     - 九: ここの
     - 日: か
-    sound_file: tts/ここのか_a9ca8.wav
+    sound_file: tts/ここのか_57cb7.wav
   - japanese: とおか*
     english: tenth day of the month
     kanji: 十日
     kanji_readings:
     - 十: とお
     - 日: か
-    sound_file: tts/とおか_01cd7.wav
+    sound_file: tts/とおか_6f8df.wav
   - japanese: じゅういちにち
     english: eleventh day of the month
     kanji: 十一日
@@ -85,7 +85,7 @@ vocabulary:
     - 十: じゅう
     - 一: いち
     - 日: にち
-    sound_file: tts/じゅういちにち_010c7.wav
+    sound_file: tts/じゅういちにち_4ac3b.wav
   - japanese: じゅうににち
     english: twelfth day of the month
     kanji: 十二日
@@ -93,7 +93,7 @@ vocabulary:
     - 十: じゅう
     - 二: に
     - 日: にち
-    sound_file: tts/じゅうににち_2a4f7.wav
+    sound_file: tts/じゅうににち_5b7f8.wav
   - japanese: じゅうさんにち
     english: thirteenth day of the month
     kanji: 十三日
@@ -101,7 +101,7 @@ vocabulary:
     - 十: じゅう
     - 三: さん
     - 日: にち
-    sound_file: tts/じゅうさんにち_187c5.wav
+    sound_file: tts/じゅうさんにち_62b6d.wav
   - japanese: じゅうよっか*
     english: fourteenth day of the month
     kanji: 十四日
@@ -109,7 +109,7 @@ vocabulary:
     - 十: じゅう
     - 四: よっ
     - 日: か
-    sound_file: tts/じゅうよっか_6957c.wav
+    sound_file: tts/じゅうよっか_a8978.wav
   - japanese: じゅうごにち
     english: fifteenth day of the month
     kanji: 十五日
@@ -117,13 +117,13 @@ vocabulary:
     - 十: じゅう
     - 五: ご
     - 日: にち
-    sound_file: tts/じゅうごにち_cd845.wav
+    sound_file: tts/じゅうごにち_d3bd9.wav
   - japanese: 〜にち
     english: day ...
     kanji: 〜日
     kanji_readings:
     - 日: にち
-    sound_file: tts/〜にち_8f11f.wav
+    sound_file: tts/〜にち_5e6a8.wav
   - japanese: はつか*
     english: twentieth day of the month
     kanji: 二十日・廿日
@@ -132,7 +132,7 @@ vocabulary:
     - 日: か
     - 廿: はつ
     - 日: か
-    sound_file: tts/はつか_3cca6.wav
+    sound_file: tts/はつか_fcaf5.wav
   - japanese: にじゅうよっか*
     english: twenty-fourth day of the month
     kanji: 二十四日
@@ -140,4 +140,4 @@ vocabulary:
     - 二十: にじゅう
     - 四: よっ
     - 日: か
-    sound_file: tts/にじゅうよっか_a8ed5.wav
+    sound_file: tts/にじゅうよっか_55492.wav

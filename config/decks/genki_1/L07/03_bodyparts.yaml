@@ -29,13 +29,13 @@ vocabulary:
     kanji: 鼻
     kanji_readings:
     - 鼻: はな
-    sound_file: tts/はな_2706e.wav
+    sound_file: tts/はな_9161f.wav
   - japanese: ゆび
     english: finger
     kanji: 指
     kanji_readings:
     - 指: ゆび
-    sound_file: tts/ゆび_dff9c.wav
+    sound_file: tts/ゆび_1a250.wav
   - japanese: は
     english: tooth
     kanji: 歯
@@ -47,40 +47,40 @@ vocabulary:
     kanji: 眉毛
     kanji_readings:
     - 眉毛: まゆげ
-    sound_file: tts/まゆげ_6b6fa.wav
+    sound_file: tts/まゆげ_ebb4b.wav
   - japanese: みみ
     english: ear
     kanji: 耳
     kanji_readings:
     - 耳: みみ
-    sound_file: tts/みみ_6207a.wav
+    sound_file: tts/みみ_cfc1c.wav
   - japanese: て
     english: hand
     kanji: 手
     kanji_readings:
     - 手: て
-    sound_file: tts/て_3b541.wav
+    sound_file: tts/て_f7a04.wav
   - japanese: くび
     english: neck
     kanji: 首
     kanji_readings:
     - 首: くび
-    sound_file: tts/くび_2725b.wav
+    sound_file: tts/くび_75667.wav
   - japanese: あたま
     english: head
     kanji: 頭
     kanji_readings:
     - 頭: あたま
-    sound_file: tts/あたま_27767.wav
+    sound_file: tts/あたま_6e47e.wav
   - japanese: せなか
     english: back
     kanji: 背中
     kanji_readings:
     - 背中: せなか
-    sound_file: tts/せなか_9fb9a.wav
+    sound_file: tts/せなか_02442.wav
   - japanese: おしり
     english: buttocks
-    sound_file: tts/おしり_84f56.wav
+    sound_file: tts/おしり_3bee1.wav
   - japanese: かお
     english: face
     kanji: 顔
@@ -92,13 +92,13 @@ vocabulary:
     kanji: 肩
     kanji_readings:
     - 肩: かた
-    sound_file: tts/かた_a57e6.wav
+    sound_file: tts/かた_ca0d2.wav
   - japanese: むね
     english: breast
     kanji: 胸
     kanji_readings:
     - 胸: むね
-    sound_file: tts/むね_513d6.wav
+    sound_file: tts/むね_909fd.wav
   - japanese: おなか
     english: stomach
     sound_file: genki_1/Kaiwa_Bunpo_L12/K12_05/K12_05_3.mp3

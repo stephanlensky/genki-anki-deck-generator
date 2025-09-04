@@ -11,72 +11,72 @@ vocabulary:
     kanji: 普通
     kanji_readings:
     - 普通: ふつう
-    sound_file: tts/ふつう_69530.wav
+    sound_file: tts/ふつう_ce8d9.wav
   - japanese: きゅうこう
     english: express (train)
     kanji: 急行
     kanji_readings:
     - 急行: きゅうこう
-    sound_file: tts/きゅうこう_91832.wav
+    sound_file: tts/きゅうこう_3e42a.wav
   - japanese: とっきゅう
     english: super express (train)
     kanji: 特急
     kanji_readings:
     - 特急: とっきゅう
-    sound_file: tts/とっきゅう_5787c.wav
+    sound_file: tts/とっきゅう_90e08.wav
   - japanese: 〜いき
     english: bound for ...
     kanji: 〜行き
     kanji_readings:
     - 行: い
-    sound_file: tts/〜いき_dfa75.wav
+    sound_file: tts/〜いき_1edf4.wav
   - japanese: 〜ほうめん
     english: serving ... areas
     kanji: 〜方面
     kanji_readings:
     - 方面: ほうめん
-    sound_file: tts/〜ほうめん_ca44a.wav
+    sound_file: tts/〜ほうめん_21a55.wav
   - japanese: じょうしゃけん
     english: (boarding) ticket
     kanji: 乗車券
     kanji_readings:
     - 乗車: じょうしゃ
     - 券: けん
-    sound_file: tts/じょうしゃけん_a22db.wav
+    sound_file: tts/じょうしゃけん_b6ea7.wav
   - japanese: ていきけん
     english: commuter's pass
     kanji: 定期券
     kanji_readings:
     - 定期: ていき
     - 券: けん
-    sound_file: tts/ていきけん_53c74.wav
+    sound_file: tts/ていきけん_cc231.wav
   - japanese: がくわり
     english: student discount
     kanji: 学割
     kanji_readings:
     - 学割: がくわり
-    sound_file: tts/がくわり_c02e9.wav
+    sound_file: tts/がくわり_d7675.wav
   - japanese: していせき
     english: reserved seat
     kanji: 指定席
     kanji_readings:
     - 指定: してい
     - 席: せき
-    sound_file: tts/していせき_9f951.wav
+    sound_file: tts/していせき_c51cd.wav
   - japanese: こうつうけいアイシーカード
     english: rechargeable card such as Suica, Icoca, Pasmo, etc.
     kanji: 交通系ICカード
     kanji_readings:
     - 交通: こうつう
     - 系: けい
-    sound_file: tts/こうつうけいアイシーカード_631ee.wav
+    sound_file: tts/こうつうけいアイシーカード_4efbd.wav
   - japanese: じゆうせき
     english: general admission seat
     kanji: 自由席
     kanji_readings:
     - 自由: じゆう
     - 席: せき
-    sound_file: tts/じゆうせき_47452.wav
+    sound_file: tts/じゆうせき_d3a4f.wav
   - japanese: いちごうしゃ
     english: Car No. 1
     kanji: 一号車
@@ -84,59 +84,59 @@ vocabulary:
     - 一: いち
     - 号: ごう
     - 車: しゃ
-    sound_file: tts/いちごうしゃ_7823d.wav
+    sound_file: tts/いちごうしゃ_29de0.wav
   - japanese: おうふく
     english: round trip
     kanji: 往復
     kanji_readings:
     - 往復: おうふく
-    sound_file: tts/おうふく_dd3ed.wav
+    sound_file: tts/おうふく_47bc3.wav
   - japanese: かたみち
     english: one way
     kanji: 片道
     kanji_readings:
     - 片道: かたみち
-    sound_file: tts/かたみち_61aee.wav
+    sound_file: tts/かたみち_84dc7.wav
   - japanese: 〜ばんせん
     english: track number ...
     kanji: 〜番線
     kanji_readings:
     - 番線: ばんせん
-    sound_file: tts/〜ばんせん_7aea3.wav
+    sound_file: tts/〜ばんせん_ee9ea.wav
   - japanese: きっぷうりば
     english: ticket vending area
     kanji: 切符売り場
     kanji_readings:
     - 切符: きっぷ
     - 売り場: うりば
-    sound_file: tts/きっぷうりば_3f54e.wav
+    sound_file: tts/きっぷうりば_ed03b.wav
   - japanese: かいさつ
     english: gate
     kanji: 改札
     kanji_readings:
     - 改札: かいさつ
-    sound_file: tts/かいさつ_a51fe.wav
+    sound_file: tts/かいさつ_5102c.wav
   - japanese: ホーム
     english: platform
-    sound_file: tts/ホーム_c4565.wav
+    sound_file: tts/ホーム_5d01e.wav
   - japanese: ばいてん
     english: shop; stand
     kanji: 売店
     kanji_readings:
     - 売店: ばいてん
-    sound_file: tts/ばいてん_c7e78.wav
+    sound_file: tts/ばいてん_3b5c6.wav
   - japanese: でぐち
     english: exit
     kanji: 出口
     kanji_readings:
     - 出口: でぐち
-    sound_file: tts/でぐち_258c9.wav
+    sound_file: tts/でぐち_7624e.wav
   - japanese: いりぐち
     english: entrance
     kanji: 入口
     kanji_readings:
     - 入口: いりぐち
-    sound_file: tts/いりぐち_f0575.wav
+    sound_file: tts/いりぐち_6b17f.wav
   - japanese: かいだん
     english: stairs
     kanji: 階段
@@ -148,26 +148,26 @@ vocabulary:
     kanji: 乗り換え
     kanji_readings:
     - 乗り換: のりか
-    sound_file: tts/のりかえ_9cdfd.wav
+    sound_file: tts/のりかえ_030bb.wav
   - japanese: つぎは〜
     english: next (stop), ...
     kanji: 次は〜
     kanji_readings:
     - 次: つぎ
-    sound_file: tts/つぎは〜_1cb67.wav
+    sound_file: tts/つぎは〜_185fd.wav
   - japanese: せんぱつ
     english: departing first
     kanji: 先発
     kanji_readings:
     - 先発: せんぱつ
-    sound_file: tts/せんぱつ_f7d53.wav
+    sound_file: tts/せんぱつ_f11af.wav
   - japanese: じはつ
     english: departing second
     kanji: 次発
     kanji_readings:
     - 次: じ
     - 発: はつ
-    sound_file: tts/じはつ_62ac3.wav
+    sound_file: tts/じはつ_a7bcd.wav
   - japanese: しゅうでん
     english: last train (of the day)
     kanji: 終電
@@ -179,28 +179,28 @@ vocabulary:
     kanji: まもなく発車します。
     kanji_readings:
     - 発車: はっしゃ
-    sound_file: tts/まもなくはっしゃします。_21c5f.wav
+    sound_file: tts/まもなくはっしゃします。_87fde.wav
   - japanese: でんしゃがまいります。
     english: A train is arriving.
     kanji: 電車が参ります。
     kanji_readings:
     - 電車: でんしゃ
     - 参: まい
-    sound_file: tts/でんしゃがまいります。_2e013.wav
+    sound_file: tts/でんしゃがまいります。_a2427.wav
   - japanese: つぎは〜にとまります。
     english: Next (we'll stop at) ...
     kanji: 次は〜に止まります。
     kanji_readings:
     - 次: つぎ
     - 止: と
-    sound_file: tts/つぎは〜にとまります。_51564.wav
+    sound_file: tts/つぎは〜にとまります。_1e82b.wav
   - japanese: ドアがしまります。ごちゅういください。
     english: The doors are closing. Please be careful.
     kanji: ドアが閉まります。ご注意ください。
     kanji_readings:
     - 閉: し
     - 注意: ちゅうい
-    sound_file: tts/ドアがしまります。ごちゅういください。_c4c66.wav
+    sound_file: tts/ドアがしまります。ごちゅういください。_f938e.wav
   - japanese: このでんしゃはあきはばらにとまりますか。
     english: Does this train stop at Akihabara?
     kanji: この電車は秋葉原に止まりますか。
@@ -208,14 +208,14 @@ vocabulary:
     - 電車: でんしゃ
     - 秋葉原: あきはばら
     - 止: と
-    sound_file: tts/このでんしゃはあきはばらにとまりますか。_e8e48.wav
+    sound_file: tts/このでんしゃはあきはばらにとまりますか。_9a290.wav
   - japanese: しゅうでんはなんじですか。
     english: What time is the last train?
     kanji: 終電は何時ですか。
     kanji_readings:
     - 終電: しゅうでん
     - 何時: なんじ
-    sound_file: tts/しゅうでんはなんじですか。_355aa.wav
+    sound_file: tts/しゅうでんはなんじですか。_1b0ad.wav
   - japanese: とうきょうまでのしていせきをいちまいおねがいします。
     english: One reserved ticket to Tokyo, please.
     kanji: 東京までの指定席を一枚お願いします。
@@ -226,14 +226,14 @@ vocabulary:
     - 一: いち
     - 枚: まい
     - 願: ねが
-    sound_file: tts/とうきょうまでのしていせきをいちまいおねがいします。_54da7.wav
+    sound_file: tts/とうきょうまでのしていせきをいちまいおねがいします。_ac058.wav
   - japanese: がくわりがつかえますか。
     english: Can I get a student discount?
     kanji: 学割が使えますか。
     kanji_readings:
     - 学割: がくわり
     - 使: つか
-    sound_file: tts/がくわりがつかえますか。_1a2da.wav
+    sound_file: tts/がくわりがつかえますか。_23472.wav
   - japanese: かまくらいきのでんしゃはどれですか。
     english: Which one is the train bound for Kamakura?
     kanji: 鎌倉行きの電車はどれですか。
@@ -241,4 +241,4 @@ vocabulary:
     - 鎌倉: かまくら
     - 行: い
     - 電車: でんしゃ
-    sound_file: tts/かまくらいきのでんしゃはどれですか。_bb5ab.wav
+    sound_file: tts/かまくらいきのでんしゃはどれですか。_5c707.wav

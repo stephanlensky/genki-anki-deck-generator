@@ -9,10 +9,10 @@ vocabulary:
   - japanese: XはY
     japanese_note: (pronounced 'wa')
     english: Topic marker (as for X, Y)
-    sound_file: tts/XはY_fd55e.wav
+    sound_file: tts/XはY_156dd.wav
   - japanese: Xですか？
     english: Is it X?
-    sound_file: tts/Xですか？_d382e.wav
+    sound_file: tts/Xですか？_00842.wav
   - japanese: XのY
     english: Possessive marker (X's Y, Y of X)
-    sound_file: tts/XのY_1839d.wav
+    sound_file: tts/XのY_696ba.wav

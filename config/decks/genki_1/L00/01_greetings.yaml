@@ -6,7 +6,7 @@ vocabulary:
 - japanese: おはよう。
   english: Good morning.
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_1.mp3
-- japanese: おはよう　ございます。
+- japanese: おはようございます。
   english: Good morning. (polite)
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_3.mp3
 - japanese: こんにちは。
@@ -24,7 +24,7 @@ vocabulary:
 - japanese: ありがとう。
   english: Thank you.
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_13.mp3
-- japanese: ありがとう　ございます。
+- japanese: ありがとうございます。
   english: Thank you. (polite)
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_15.mp3
 - japanese: すみません。
@@ -57,6 +57,9 @@ vocabulary:
 - japanese: 〜です。
   english: I am ...
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_36.mp3
-- japanese: よろしく　おねがいします。
+- japanese: よろしくおねがいします。
+  kanji: よろしくお願いします
+  kanji_readings:
+  - 頼: ねが
   english: Nice to meet you.
   sound_file: genki_1/Kaiwa_Bunpo_L00/K00_01/K00_01_38.mp3

@@ -14,7 +14,7 @@ vocabulary:
   kanji: 黒板
   kanji_readings:
   - 黒板: こくばん
-  sound_file: tts/こくばん_ab9e6.wav
+  sound_file: tts/こくばん_35c0a.wav
 - japanese: つくえ
   english: desk
   kanji: 机
@@ -26,7 +26,7 @@ vocabulary:
   kanji: 消しゴム
   kanji_readings:
   - 消: け
-  sound_file: tts/けしゴム_6633d.wav
+  sound_file: tts/けしゴム_9389b.wav
 - japanese: じしょ
   english: dictionary
   kanji: 辞書
@@ -47,7 +47,7 @@ vocabulary:
   sound_file: genki_1/Kaiwa_Bunpo_L06/K06_07/K06_07_22.mp3
 - japanese: ドア
   english: door
-  sound_file: tts/ドア_f7030.wav
+  sound_file: tts/ドア_66fb0.wav
 - japanese: カーテン
   english: curtain
   sound_file: genki_2/Kaiwa_Bunpo_L18/K18_07/K18_07_3.mp3
@@ -68,34 +68,34 @@ vocabulary:
   kanji: 分かりましたか。
   kanji_readings:
   - 分: わ
-  sound_file: tts/わかりましたか。_01de7.wav
+  sound_file: tts/わかりましたか。_5530c.wav
 - japanese: わかりました。
   english: I do understand./I understood.
   kanji: 分かりました。
   kanji_readings:
   - 分: わ
-  sound_file: tts/わかりました。_dbdbf.wav
+  sound_file: tts/わかりました。_02450.wav
 - japanese: わかりません。
   english: I don't understand./I don't know.
   kanji: 分かりません。
   kanji_readings:
   - 分: わ
-  sound_file: tts/わかりません。_1f89d.wav
-- japanese: ゆっくり　いってください。
+  sound_file: tts/わかりません。_3716f.wav
+- japanese: ゆっくりいってください。
   english: Please say it slowly.
-  sound_file: tts/ゆっくり　いってください。_1fd4f.wav
-- japanese: もういちど　いってください。
+  sound_file: tts/ゆっくりいってください。_e682d.wav
+- japanese: もういちどいってください。
   english: Please say it again.
-  sound_file: tts/もういちど　いってください。_1248b.wav
-- japanese: ちょっと　まってください。
+  sound_file: tts/もういちどいってください。_14931.wav
+- japanese: ちょっとまってください。
   english: Please wait for a while.
-  kanji: ちょっと　待ってください。
+  kanji: ちょっと待ってください。
   kanji_readings:
   - 待: ま
-  sound_file: tts/ちょっと　まってください。_47f16.wav
+  sound_file: tts/ちょっとまってください。_132b9.wav
 - japanese: きいてください。
   english: Please listen./Please ask.
-  sound_file: tts/きいてください。_805b8.wav
-- japanese: １０ページを　みてください。
+  sound_file: tts/きいてください。_6709e.wav
+- japanese: １０ページをみてください。
   english: Please look at page 10.
-  sound_file: tts/１０ページを　みてください。_65249.wav
+  sound_file: tts/１０ページをみてください。_01a15.wav

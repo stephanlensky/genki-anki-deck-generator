@@ -47,7 +47,7 @@ vocabulary:
     - 二: に
     - 週間: しゅうかん
     - 前: まえ
-    sound_file: tts/にしゅうかんまえ_9345e.wav
+    sound_file: tts/にしゅうかんまえ_bea2e.wav
   - japanese: せんしゅう
     english: last week
     kanji: 先週
@@ -72,7 +72,7 @@ vocabulary:
     kanji_readings:
     - 再来: さらい
     - 週: しゅう
-    sound_file: tts/さらいしゅう_342b0.wav
+    sound_file: tts/さらいしゅう_dcf48.wav
   - japanese: にかげつまえ
     english: two months ago
     kanji: 二か月前
@@ -80,7 +80,7 @@ vocabulary:
     - 二: に
     - 月: げつ
     - 前: まえ
-    sound_file: tts/にかげつまえ_e08f9.wav
+    sound_file: tts/にかげつまえ_c879f.wav
   - japanese: せんげつ
     english: last month
     kanji: 先月
@@ -105,10 +105,10 @@ vocabulary:
     kanji_readings:
     - 再来: さらい
     - 月: げつ
-    sound_file: tts/さらいげつ_e1137.wav
+    sound_file: tts/さらいげつ_8b998.wav
   - japanese: おととし
     english: the year before last
-    sound_file: tts/おととし_b441f.wav
+    sound_file: tts/おととし_e5865.wav
   - japanese: きょねん
     english: last year
     kanji: 去年
@@ -133,4 +133,4 @@ vocabulary:
     kanji_readings:
     - 再来: さらい
     - 年: ねん
-    sound_file: tts/さらいねん_d3669.wav
+    sound_file: tts/さらいねん_f6338.wav

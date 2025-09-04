@@ -9,70 +9,70 @@ vocabulary:
   kanji_readings:
   - 一: いっ
   - 歳: さい
-  sound_file: tts/いっさい_19a4d.wav
+  sound_file: tts/いっさい_82e42.wav
 - japanese: にさい
   english: two years old
   kanji: 二歳
   kanji_readings:
   - 二: に
   - 歳: さい
-  sound_file: tts/にさい_b9540.wav
+  sound_file: tts/にさい_83bfa.wav
 - japanese: さんさい
   english: three years old
   kanji: 三歳
   kanji_readings:
   - 三: さん
   - 歳: さい
-  sound_file: tts/さんさい_fa3bc.wav
+  sound_file: tts/さんさい_b7039.wav
 - japanese: よんさい
   english: four years old
   kanji: 四歳
   kanji_readings:
   - 四: よん
   - 歳: さい
-  sound_file: tts/よんさい_260a7.wav
+  sound_file: tts/よんさい_adede.wav
 - japanese: ごさい
   english: five years old
   kanji: 五歳
   kanji_readings:
   - 五: ご
   - 歳: さい
-  sound_file: tts/ごさい_3fdcf.wav
+  sound_file: tts/ごさい_4dbd5.wav
 - japanese: ろくさい
   english: six years old
   kanji: 六歳
   kanji_readings:
   - 六: ろく
   - 歳: さい
-  sound_file: tts/ろくさい_c09cb.wav
+  sound_file: tts/ろくさい_37731.wav
 - japanese: ななさい
   english: seven years old
   kanji: 七歳
   kanji_readings:
   - 七: なな
   - 歳: さい
-  sound_file: tts/ななさい_4d721.wav
+  sound_file: tts/ななさい_8cd9a.wav
 - japanese: はっさい*
   english: eight years old
   kanji: 八歳
   kanji_readings:
   - 八: はっ
   - 歳: さい
-  sound_file: tts/はっさい_2831d.wav
+  sound_file: tts/はっさい_96b06.wav
 - japanese: きゅうさい
   english: nine years old
   kanji: 九歳
   kanji_readings:
   - 九: きゅう
   - 歳: さい
-  sound_file: tts/きゅうさい_96151.wav
+  sound_file: tts/きゅうさい_cb5a6.wav
 - japanese: じゅっさい*
   english: ten years old
   kanji: 十歳
   kanji_readings:
   - 十: じゅう
   - 歳: さい
-  sound_file: tts/じゅっさい_1c3ce.wav
+  sound_file: tts/じゅっさい_ff4a8.wav
 - japanese: じゅういっさい
   english: eleven years old
   kanji: 十一歳
@@ -80,14 +80,14 @@ vocabulary:
   - 十: じゅう
   - 一: いっ
   - 歳: さい
-  sound_file: tts/じゅういっさい_18eb4.wav
+  sound_file: tts/じゅういっさい_150e9.wav
 - japanese: はたち*／にじゅっさい
   english: 20 years old
   kanji: 二十歳
   kanji_readings:
   - 二十: にじゅう
   - 歳: さい
-  sound_file: tts/はたち／にじゅっさい_5c502.wav
+  sound_file: tts/はたち／にじゅっさい_7c203.wav
 - japanese: にじゅういっさい
   english: 21 years old
   kanji: 二十一歳
@@ -95,7 +95,7 @@ vocabulary:
   - 二十: にじゅう
   - 一: いっ
   - 歳: さい
-  sound_file: tts/にじゅういっさい_9a347.wav
+  sound_file: tts/にじゅういっさい_94ba6.wav
 - japanese: さんじゅうごさい
   english: 35 years old
   kanji: 三十五歳
@@ -103,14 +103,14 @@ vocabulary:
   - 三十: さんじゅう
   - 五: ご
   - 歳: さい
-  sound_file: tts/さんじゅうごさい_42387.wav
+  sound_file: tts/さんじゅうごさい_d69ea.wav
 - japanese: よんじゅうさい
   english: 40 years old
   kanji: 四十歳
   kanji_readings:
   - 四十: よんじゅう
   - 歳: さい
-  sound_file: tts/よんじゅっさい_f2fa2.wav
+  sound_file: tts/よんじゅうさい_72d7d.wav
 - japanese: 〜さい
   english: '... years old'
   kanji: 〜歳

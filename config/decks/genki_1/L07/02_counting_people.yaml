@@ -8,66 +8,66 @@ vocabulary:
   kanji: 一人
   kanji_readings:
   - 一人: ひとり
-  sound_file: tts/ひとり_79eef.wav
+  sound_file: tts/ひとり_3cd54.wav
 - japanese: ふたり*
   english: two people
   kanji: 二人
   kanji_readings:
   - 二人: ふたり
-  sound_file: tts/ふたり_f65a0.wav
+  sound_file: tts/ふたり_4e643.wav
 - japanese: さんにん
   english: three people
   kanji: 三人
   kanji_readings:
   - 三: さん
   - 人: にん
-  sound_file: tts/さんにん_17d64.wav
+  sound_file: tts/さんにん_12229.wav
 - japanese: よにん*
   english: four people
   kanji: 四人
   kanji_readings:
   - 四: よ
   - 人: にん
-  sound_file: tts/よにん_e6736.wav
+  sound_file: tts/よにん_aafb8.wav
 - japanese: ごにん
   english: five people
   kanji: 五人
   kanji_readings:
   - 五: ご
   - 人: にん
-  sound_file: tts/ごにん_e46dc.wav
+  sound_file: tts/ごにん_b61dc.wav
 - japanese: ろくにん
   english: six people
   kanji: 六人
   kanji_readings:
   - 六: ろく
   - 人: にん
-  sound_file: tts/ろくにん_2b014.wav
+  sound_file: tts/ろくにん_3bfd6.wav
 - japanese: しちにん／ななにん
   english: seven people
   kanji: 七人
   kanji_readings:
   - 七: しち
   - 人: にん
-  sound_file: tts/しちにん／ななにん_1a1bf.wav
+  sound_file: tts/しちにん／ななにん_be434.wav
 - japanese: はちにん
   english: eight people
   kanji: 八人
   kanji_readings:
   - 八: はち
   - 人: にん
-  sound_file: tts/はちにん_71b28.wav
+  sound_file: tts/はちにん_6a65d.wav
 - japanese: きゅうにん
   english: nine people
   kanji: 九人
   kanji_readings:
   - 九: きゅう
   - 人: にん
-  sound_file: tts/きゅうにん_3120e.wav
+  sound_file: tts/きゅうにん_dd8b8.wav
 - japanese: じゅうにん
   english: ten people
   kanji: 十人
   kanji_readings:
   - 十: じゅう
   - 人: にん
-  sound_file: tts/じゅうにん_0523b.wav
+  sound_file: tts/じゅうにん_a354e.wav

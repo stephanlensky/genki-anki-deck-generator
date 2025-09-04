@@ -9,17 +9,17 @@ vocabulary:
   - japanese: XをY
     japanese_note: (pronounced 'o')
     english: Direct object marker (Y verb operating on X)
-    sound_file: tts/XをY_78de7.wav
+    sound_file: tts/XをY_ff1d0.wav
   - japanese: XでY
     english: Location marker (At, in, on X, Y happens)
-    sound_file: tts/XでY_91929.wav
+    sound_file: tts/XでY_735b6.wav
   - japanese: XにY
     english: Direction marker (To X, Y happens/At X time, Y happens)
-    sound_file: tts/XにY_f89ab.wav
+    sound_file: tts/XにY_13ee3.wav
   - japanese: XへY
     japanese_note: (pronounced 'e')
     english: Direction marker (To X, Y happens)
-    sound_file: tts/XへY_f3246.wav
+    sound_file: tts/XへY_23d83.wav
 - japanese: ～ませんか
   english: Invitation (Won't you do X?)
-  sound_file: tts/～ませんか_ea7c9.wav
+  sound_file: tts/～ませんか_7665c.wav

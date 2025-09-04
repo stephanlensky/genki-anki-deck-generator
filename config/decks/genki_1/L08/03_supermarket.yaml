@@ -5,10 +5,10 @@ tags:
 vocabulary:
 - japanese: いちご
   english: strawberry
-  sound_file: tts/いちご_c7948.wav
+  sound_file: tts/いちご_d6d95.wav
 - japanese: すいか
   english: watermelon
-  sound_file: tts/すいか_065f6.wav
+  sound_file: tts/すいか_627c6.wav
 - japanese: みかん
   japanese_note: (rare)
   english: mandarin orange
@@ -21,43 +21,43 @@ vocabulary:
   sound_file: genki_1/Kaiwa_Bunpo_L10/K10_05/K10_05_17.mp3
 - japanese: もも
   english: peach
-  sound_file: tts/もも_0bbab.wav
+  sound_file: tts/もも_8cb4a.wav
 - japanese: ぶどう
   english: grape
-  sound_file: tts/ぶどう_fd9f9.wav
+  sound_file: tts/ぶどう_d8946.wav
 - japanese: にんじん
   english: carrot
-  sound_file: tts/にんじん_b83ea.wav
+  sound_file: tts/にんじん_f2469.wav
 - japanese: たまねぎ
   english: onion
-  sound_file: tts/たまねぎ_8adea.wav
+  sound_file: tts/たまねぎ_bbd88.wav
 - japanese: じゃがいも
   english: potato
-  sound_file: tts/じゃがいも_16d68.wav
+  sound_file: tts/じゃがいも_27f40.wav
 - japanese: なす
   english: eggplant
-  sound_file: tts/なす_9e74c.wav
+  sound_file: tts/なす_c00cd.wav
 - japanese: きゅうり
   english: cucumber
-  sound_file: tts/きゅうり_9fcc6.wav
+  sound_file: tts/きゅうり_dd7c5.wav
 - japanese: キャベツ
   english: cabbage
-  sound_file: tts/キャベツ_e7493.wav
+  sound_file: tts/キャベツ_8cde9.wav
 - japanese: ぎゅうにく
   english: beef
   kanji: 牛肉
   kanji_readings:
   - 牛肉: ぎゅうにく
-  sound_file: tts/ぎゅうにく_fa7f2.wav
+  sound_file: tts/ぎゅうにく_e1d4a.wav
 - japanese: ぶたにく
   english: pork
   kanji: 豚肉
   kanji_readings:
   - 豚肉: ぶたにく
-  sound_file: tts/ぶたにく_0f9cc.wav
+  sound_file: tts/ぶたにく_36e13.wav
 - japanese: とりにく
   english: chicken
   kanji: 鶏肉
   kanji_readings:
   - 鶏肉: とりにく
-  sound_file: tts/とりにく_d344f.wav
+  sound_file: tts/とりにく_2ae00.wav

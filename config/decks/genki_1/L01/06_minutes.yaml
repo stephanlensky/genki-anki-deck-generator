@@ -10,70 +10,70 @@ vocabulary:
   kanji_readings:
   - 一: いっ
   - 分: ぷん
-  sound_file: tts/いっぷん_d248b.wav
+  sound_file: tts/いっぷん_8de95.wav
 - japanese: にふん
   english: 2 minutes
   kanji: 二分
   kanji_readings:
   - 二: に
   - 分: ふん
-  sound_file: tts/にふん_56ee6.wav
+  sound_file: tts/にふん_6c7ff.wav
 - japanese: さんぷん*
   english: 3 minutes
   kanji: 三分
   kanji_readings:
   - 三: さん
   - 分: ぷん
-  sound_file: tts/さんぷん_3ef14.wav
+  sound_file: tts/さんぷん_5ce78.wav
 - japanese: よんぷん*
   english: 4 minutes
   kanji: 四分
   kanji_readings:
   - 四: よん
   - 分: ぷん
-  sound_file: tts/よんぷん_33e35.wav
+  sound_file: tts/よんぷん_f2395.wav
 - japanese: ごふん
   english: 5 minutes
   kanji: 五分
   kanji_readings:
   - 五: ご
   - 分: ふん
-  sound_file: tts/ごふん_41243.wav
+  sound_file: tts/ごふん_f21d2.wav
 - japanese: ろっぷん*
   english: 6 minutes
   kanji: 六分
   kanji_readings:
   - 六: ろっ
   - 分: ぷん
-  sound_file: tts/ろっぷん_e9f1b.wav
+  sound_file: tts/ろっぷん_a9aec.wav
 - japanese: ななふん
   english: 7 minutes
   kanji: 七分
   kanji_readings:
   - 七: なな
   - 分: ふん
-  sound_file: tts/ななふん_d9a53.wav
+  sound_file: tts/ななふん_4a5d4.wav
 - japanese: はっぷん*
   english: 8 minutes
   kanji: 八分
   kanji_readings:
   - 八: はっ
   - 分: ぷん
-  sound_file: tts/はっぷん_d0370.wav
+  sound_file: tts/はっぷん_5e3cd.wav
 - japanese: きゅうふん
   english: 9 minutes
   kanji: 九分
   kanji_readings:
   - 九: きゅう
   - 分: ふん
-  sound_file: tts/きゅうふん_2d176.wav
+  sound_file: tts/きゅうふん_c9daf.wav
 - japanese: じゅっぷん*
   english: 10 minutes
   kanji: 十分
   kanji_readings:
   - 十: じゅっ
   - 分: ぷん
-  sound_file: tts/じゅっぷん_4bebd.wav
+  sound_file: tts/じゅっぷん_56513.wav
 - japanese: じゅういっぷん
   english: 11 minutes
   kanji: 十一分
@@ -81,7 +81,7 @@ vocabulary:
   - 十: じゅう
   - 一: いっ
   - 分: ぷん
-  sound_file: tts/じゅういっぷん_8d706.wav
+  sound_file: tts/じゅういっぷん_c4d68.wav
 - japanese: じゅうにふん
   english: 12 minutes
   kanji: 十二分
@@ -89,7 +89,7 @@ vocabulary:
   - 十: じゅう
   - 二: に
   - 分: ふん
-  sound_file: tts/じゅうにふん_15914.wav
+  sound_file: tts/じゅうにふん_21926.wav
 - japanese: じゅうさんぷん
   english: 13 minutes
   kanji: 十三分
@@ -97,7 +97,7 @@ vocabulary:
   - 十: じゅう
   - 三: さん
   - 分: ぷん
-  sound_file: tts/じゅうさんぷん_01087.wav
+  sound_file: tts/じゅうさんぷん_00149.wav
 - japanese: じゅうよんぷん
   english: 14 minutes
   kanji: 十四分
@@ -105,7 +105,7 @@ vocabulary:
   - 十: じゅう
   - 四: よん
   - 分: ぷん
-  sound_file: tts/じゅうよんぷん_291b2.wav
+  sound_file: tts/じゅうよんぷん_93e3d.wav
 - japanese: じゅうごふん
   english: 15 minutes
   kanji: 十五分
@@ -113,7 +113,7 @@ vocabulary:
   - 十: じゅう
   - 五: ご
   - 分: ふん
-  sound_file: tts/じゅうごふん_96408.wav
+  sound_file: tts/じゅうごふん_8f372.wav
 - japanese: じゅうろっぷん
   english: 16 minutes
   kanji: 十六分
@@ -121,7 +121,7 @@ vocabulary:
   - 十: じゅう
   - 六: ろっ
   - 分: ぷん
-  sound_file: tts/じゅうろっぷん_c5b95.wav
+  sound_file: tts/じゅうろっぷん_6886d.wav
 - japanese: じゅうななふん
   english: 17 minutes
   kanji: 十七分
@@ -129,7 +129,7 @@ vocabulary:
   - 十: じゅう
   - 七: なな
   - 分: ふん
-  sound_file: tts/じゅうななふん_45112.wav
+  sound_file: tts/じゅうななふん_529a9.wav
 - japanese: じゅうはっぷん
   english: 18 minutes
   kanji: 十八分
@@ -137,7 +137,7 @@ vocabulary:
   - 十: じゅう
   - 八: はっ
   - 分: ぷん
-  sound_file: tts/じゅうはっぷん_089f3.wav
+  sound_file: tts/じゅうはっぷん_13623.wav
 - japanese: じゅうきゅうふん
   english: 19 minutes
   kanji: 十九分
@@ -145,18 +145,18 @@ vocabulary:
   - 十: じゅう
   - 九: きゅう
   - 分: ふん
-  sound_file: tts/じゅうきゅうふん_e205f.wav
+  sound_file: tts/じゅうきゅうふん_469a3.wav
 - japanese: にじゅっぷん
   english: 20 minutes
   kanji: 二十分
   kanji_readings:
   - 二十: にじゅう
   - 分: ぷん
-  sound_file: tts/にじゅっぷん_8c3bb.wav
+  sound_file: tts/にじゅっぷん_4c7bb.wav
 - japanese: さんじゅっぷん
   english: 30 minutes
   kanji: 三十分
   kanji_readings:
   - 三十: さんじゅう
   - 分: ぷん
-  sound_file: tts/さんじゅっぷん_2facc.wav
+  sound_file: tts/さんじゅっぷん_38699.wav

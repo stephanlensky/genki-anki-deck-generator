@@ -166,21 +166,21 @@ vocabulary:
   - Verbs
   vocabulary:
   - japanese: うる
-    english: to sell （〜を）
+    english: to sell (〜を)
     kanji: 売る
     kanji_readings:
     - 売: う
     verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_64.mp3
   - japanese: おろす
-    english: to withdraw (money)　（〜を）
+    english: to withdraw (money) (〜を)
     kanji: 下ろす
     kanji_readings:
     - 下: お
     verb_group: godan
     sound_file: genki_2/Kaiwa_Bunpo_L15/K15_07/K15_07_66.mp3
   - japanese: かく
-    english: to draw; to paint　（〜を）
+    english: to draw; to paint (〜を)
     kanji: 描く
     kanji_readings:
     - 描: か
