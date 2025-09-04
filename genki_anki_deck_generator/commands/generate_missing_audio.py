@@ -47,7 +47,10 @@ def run(args: argparse.Namespace) -> None:
             .replace("*", "")
         )
         output_path = (
-            config.download_dir / "tts" / f"{sanitized_japanese}_{_card_hash(card)[:5]}.wav"
+            config.download_dir
+            / "audio"
+            / "tts"
+            / f"{sanitized_japanese}_{_card_hash(card)[:5]}.wav"
         )
         if not output_path.exists():
             output_path.parent.mkdir(parents=True, exist_ok=True)
