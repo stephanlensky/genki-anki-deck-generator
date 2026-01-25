@@ -7,6 +7,7 @@ import yaml
 
 CONFIG_PATH = Path("config/config.toml")
 DECKS_PATH = Path("config/decks")
+INCLUDED_DECKS: list[str] | None = None
 
 
 @dataclass(kw_only=True)
@@ -48,8 +49,12 @@ def get_config() -> Config:
     with open(CONFIG_PATH, "rb") as f:
         config_dict = tomllib.load(f)
 
+    decks = config_dict["settings"]["decks"]
+    if INCLUDED_DECKS is not None:
+        decks = {k: v for k, v in decks.items() if k in INCLUDED_DECKS}
+
     config = Config(
-        decks=config_dict["settings"]["decks"],
+        decks=decks,
         deck_ids=config_dict["settings"]["deck_ids"],
         download_dir=Path(config_dict["settings"]["download_dir"]),
         sources=ConfigSources(
@@ -71,10 +76,14 @@ def get_deck_config(deck_name: str) -> DeckConfig:
     audio_config = deck_config_path / "audio.yaml"
 
     templates = list(deck_config_path.glob("**/*.yaml"))
-    templates.remove(audio_config)
+    if audio_config in templates:
+        templates.remove(audio_config)
 
-    with open(audio_config, "r") as f:
-        audio_dict = yaml.safe_load(f)
+    if audio_config.exists():
+        with audio_config.open("r") as f:
+            audio_dict = yaml.safe_load(f)
+    else:
+        audio_dict = {"audio": []}
 
     return DeckConfig(
         audio=[
@@ -102,3 +111,8 @@ def set_decks_path(path: Path) -> None:
     global DECKS_PATH
     DECKS_PATH = path
     get_deck_config.cache_clear()
+
+
+def set_included_decks(decks: list[str] | None) -> None:
+    global INCLUDED_DECKS
+    INCLUDED_DECKS = decks

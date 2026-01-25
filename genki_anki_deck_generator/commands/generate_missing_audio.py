@@ -69,7 +69,7 @@ def run(args: argparse.Namespace) -> None:
         else:
             print(f"Skipping TTS generation, audio file already exists: {output_path}")
 
-        card.sound_file = str(output_path.relative_to(config.download_dir).as_posix())
+        card.sound_file = str(output_path.relative_to(config.download_dir / "audio").as_posix())
         save_template(card.template)
 
 

@@ -16,6 +16,7 @@ from genki_anki_deck_generator.config import (
     DECKS_PATH,
     set_config_path,
     set_decks_path,
+    set_included_decks,
 )
 
 
@@ -48,6 +49,12 @@ def main() -> None:
         default=f"{DECKS_PATH}",
         help=f"Path to the decks directory (default: {DECKS_PATH})",
     )
+    parser.add_argument(
+        "--include",
+        "-i",
+        type=str,
+        help="Comma-separated list of decks to include (default: all decks in config)",
+    )
 
     subparsers = parser.add_subparsers(dest="subcommand")
     for command_name in commands:
@@ -57,6 +64,7 @@ def main() -> None:
     args = parser.parse_args()
     set_config_path(Path(args.config))
     set_decks_path(Path(args.decks))
+    set_included_decks(args.include.split(",") if args.include else None)
 
     if command := commands.get(args.subcommand):
         command.run(args)

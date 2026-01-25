@@ -1,4 +1,5 @@
 import argparse
+from datetime import date
 from pathlib import Path, PurePosixPath
 
 import genanki
@@ -48,7 +49,7 @@ def run(args: argparse.Namespace) -> None:
         for template in templates:
             for template_card_index, card in enumerate(template.iter_cards()):
                 qualified_sound_file_path: Path | None = (
-                    Path("sources/audio") / card.sound_file if card.sound_file else None
+                    config.download_dir / "audio" / card.sound_file if card.sound_file else None
                 )
                 note = GenkiNote(
                     model=model,
@@ -145,7 +146,8 @@ class GenkiNote(genanki.Note):  # type: ignore
                 ),
                 sort_id,
             ],
-            tags=[tag.replace(" ", "_") for tag in card.tags],
+            tags=[tag.replace(" ", "_") for tag in card.tags]
+            + [f"updated_{date.today().isoformat()}"],
             due=card_index,
             guid=guid,
         )
