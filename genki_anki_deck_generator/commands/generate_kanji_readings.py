@@ -36,7 +36,7 @@ def run(args: argparse.Namespace) -> None:
         generated_reading = card.kanji
         for kanji, reading in card.kanji_readings:
             generated_reading = generated_reading.replace(kanji, reading, 1)
-        if card.japanese != generated_reading:
+        if card.japanese.replace("　", "") != generated_reading:
             print(
                 f"Warning: generated reading {generated_reading} does not match original reading: {card.kanji} ({card.japanese})",
             )

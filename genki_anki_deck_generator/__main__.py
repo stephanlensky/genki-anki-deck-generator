@@ -3,9 +3,11 @@ from pathlib import Path
 
 from genki_anki_deck_generator.commands import (
     check_duplicates,
+    convert_existing,
     copy_audio_from_duplicates,
     download,
     generate,
+    generate_kanji,
     generate_kanji_readings,
     generate_missing_audio,
     match_vocab,
@@ -30,6 +32,8 @@ def main() -> None:
         "copy-audio-from-duplicates": copy_audio_from_duplicates,
         "generate-missing-audio": generate_missing_audio,
         "generate-kanji-readings": generate_kanji_readings,
+        "generate-kanji": generate_kanji,
+        "convert-existing": convert_existing,
     }
 
     parser = argparse.ArgumentParser(

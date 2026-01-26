@@ -120,6 +120,7 @@ class GenkiNote(genanki.Note):  # type: ignore
                 card.japanese_note if card.japanese_note else "",
                 card.kanji if card.kanji else "",
                 card.english,
+                card.english_note if card.english_note else "",
                 ", ".join(simple_kanji_meanings),
                 f"[sound:{PurePosixPath(qualified_sound_file_path).name}]"
                 if qualified_sound_file_path
@@ -181,6 +182,7 @@ def get_anki_model() -> genanki.Model:
             {"name": "japanese_note"},
             {"name": "kanji"},
             {"name": "english"},
+            {"name": "english_note"},
             {"name": "kanji_meaning"},
             {"name": "sound"},
             {"name": "japanese_question"},

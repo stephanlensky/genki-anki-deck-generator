@@ -28,6 +28,7 @@ class Card:
     japanese: str
     japanese_note: str | None = None
     english: str
+    english_note: str | None = None
     kanji: str | None = None
     kanji_readings: list[tuple[str, str]] | None = None
     verb_group: VerbGroup | None = None
@@ -69,6 +70,8 @@ class Card:
         if self.japanese_note:
             d["japanese_note"] = self.japanese_note
         d["english"] = self.english
+        if self.english_note:
+            d["english_note"] = self.english_note
         if self.kanji:
             d["kanji"] = self.kanji
         if self.kanji_readings:
@@ -176,6 +179,7 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
             japanese=template_yaml["japanese"],
             japanese_note=template_yaml.get("japanese_note"),
             english=template_yaml["english"],
+            english_note=template_yaml.get("english_note"),
             kanji=template_yaml.get("kanji"),
             kanji_readings=[
                 (k, r)
@@ -197,6 +201,7 @@ def _load_cards(template: Template, template_yaml: dict[str, Any]) -> CardCollec
 
 
 def save_template(template: Template) -> None:
+    template.path.parent.mkdir(parents=True, exist_ok=True)
     with template.path.open("w", encoding="utf-8") as f:
         content = template.cards.to_dict()
         f.write(safe_dump(content, allow_unicode=True, default_flow_style=False, sort_keys=False))
